@@ -1,0 +1,11 @@
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\bin\Debug\03Sunlight.exe.config
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\bin\Debug\03Sunlight.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\bin\Debug\03Sunlight.pdb
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\obj\Debug\03Sunlight.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\obj\Debug\03Sunlight.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\bin\Debug\03Sunlight.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\obj\Debug\03Sunlight.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\obj\Debug\03Sunlight.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\bin\Debug\03Sunlight.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\bin\Debug\03Sunlight.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\03Sunlight\obj\Debug\03Sunlight.csprojResolveAssemblyReference.cache

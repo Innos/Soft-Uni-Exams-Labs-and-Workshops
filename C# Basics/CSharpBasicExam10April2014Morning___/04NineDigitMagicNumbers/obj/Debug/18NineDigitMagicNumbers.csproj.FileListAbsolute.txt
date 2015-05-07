@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\bin\Debug\18NineDigitMagicNumbers.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\obj\Debug\18NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\obj\Debug\18NineDigitMagicNumbers.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\18NineDigitMagicNumbers\obj\Debug\18NineDigitMagicNumbers.pdb

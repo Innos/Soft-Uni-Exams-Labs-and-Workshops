@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\05BitPaths\bin\Debug\05BitPaths.exe.config
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\05BitPaths\bin\Debug\05BitPaths.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\05BitPaths\bin\Debug\05BitPaths.pdb
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\05BitPaths\obj\Debug\05BitPaths.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\05BitPaths\obj\Debug\05BitPaths.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\05BitPaths\obj\Debug\05BitPaths.pdb

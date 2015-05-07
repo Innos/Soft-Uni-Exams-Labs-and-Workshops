@@ -1,0 +1,6 @@
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\04ArrayMatcher\bin\Debug\04ArrayMatcher.exe.config
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\04ArrayMatcher\bin\Debug\04ArrayMatcher.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\04ArrayMatcher\bin\Debug\04ArrayMatcher.pdb
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\04ArrayMatcher\obj\Debug\04ArrayMatcher.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\04ArrayMatcher\obj\Debug\04ArrayMatcher.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\04ArrayMatcher\obj\Debug\04ArrayMatcher.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam7November2014\03Plane\bin\Release\03Plane.exe.config
+E:\Soft Uni\extra\CSharpBasicExam7November2014\03Plane\obj\Release\03Plane.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam7November2014\03Plane\bin\Release\03Plane.exe
+E:\Soft Uni\extra\CSharpBasicExam7November2014\03Plane\bin\Release\03Plane.pdb
+E:\Soft Uni\extra\CSharpBasicExam7November2014\03Plane\obj\Release\03Plane.exe
+E:\Soft Uni\extra\CSharpBasicExam7November2014\03Plane\obj\Release\03Plane.pdb

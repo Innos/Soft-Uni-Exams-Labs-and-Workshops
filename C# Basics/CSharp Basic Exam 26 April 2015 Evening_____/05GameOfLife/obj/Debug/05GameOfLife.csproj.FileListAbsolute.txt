@@ -1,0 +1,12 @@
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\bin\Debug\05GameOfLife.exe.config
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\bin\Debug\05GameOfLife.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\bin\Debug\05GameOfLife.pdb
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\obj\Debug\05GameOfLife.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\obj\Debug\05GameOfLife.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\obj\Debug\05GameOfLife.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\bin\Debug\05GameOfLife.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\obj\Debug\05GameOfLife.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\obj\Debug\05GameOfLife.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\bin\Debug\05GameOfLife.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\bin\Debug\05GameOfLife.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\05GameOfLife\obj\Debug\05GameOfLife.csprojResolveAssemblyReference.cache

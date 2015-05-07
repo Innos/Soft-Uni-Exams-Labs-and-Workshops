@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\17BitKiller\bin\Debug\17BitKiller.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\17BitKiller\bin\Debug\17BitKiller.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\17BitKiller\bin\Debug\17BitKiller.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\17BitKiller\obj\Debug\17BitKiller.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\17BitKiller\obj\Debug\17BitKiller.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\17BitKiller\obj\Debug\17BitKiller.pdb
+E:\Soft Uni\extra\CSharpBasicExam12April2014Morning\17BitKiller\bin\Debug\17BitKiller.exe.config
+E:\Soft Uni\extra\CSharpBasicExam12April2014Morning\17BitKiller\obj\Debug\17BitKiller.exe
+E:\Soft Uni\extra\CSharpBasicExam12April2014Morning\17BitKiller\obj\Debug\17BitKiller.pdb

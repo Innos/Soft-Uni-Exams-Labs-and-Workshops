@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\03HouseWithAWindow\bin\Debug\03HouseWithAWindow.exe.config
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\03HouseWithAWindow\bin\Debug\03HouseWithAWindow.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\03HouseWithAWindow\bin\Debug\03HouseWithAWindow.pdb
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\03HouseWithAWindow\obj\Debug\03HouseWithAWindow.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\03HouseWithAWindow\obj\Debug\03HouseWithAWindow.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\03HouseWithAWindow\obj\Debug\03HouseWithAWindow.pdb

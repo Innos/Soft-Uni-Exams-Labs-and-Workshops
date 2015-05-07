@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\01Cinema\bin\Debug\01Cinema.exe.config
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\01Cinema\bin\Debug\01Cinema.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\01Cinema\bin\Debug\01Cinema.pdb
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\01Cinema\obj\Debug\01Cinema.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\01Cinema\obj\Debug\01Cinema.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\01Cinema\obj\Debug\01Cinema.pdb

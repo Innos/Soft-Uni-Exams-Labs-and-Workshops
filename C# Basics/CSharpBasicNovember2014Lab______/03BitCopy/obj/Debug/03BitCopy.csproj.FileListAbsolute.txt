@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\03BitCopy\bin\Debug\03BitCopy.exe.config
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\03BitCopy\bin\Debug\03BitCopy.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\03BitCopy\bin\Debug\03BitCopy.pdb
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\03BitCopy\obj\Debug\03BitCopy.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\03BitCopy\obj\Debug\03BitCopy.pdb

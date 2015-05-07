@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\13Triangle\bin\Debug\13Triangle.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\13Triangle\bin\Debug\13Triangle.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\13Triangle\bin\Debug\13Triangle.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\13Triangle\obj\Debug\13Triangle.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\13Triangle\obj\Debug\13Triangle.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\13Triangle\obj\Debug\13Triangle.pdb
+E:\Soft Uni\extra\CSharpBasicExam12April2014Morning\13Triangle\bin\Debug\13Triangle.exe.config
+E:\Soft Uni\extra\CSharpBasicExam12April2014Morning\13Triangle\obj\Debug\13Triangle.exe
+E:\Soft Uni\extra\CSharpBasicExam12April2014Morning\13Triangle\obj\Debug\13Triangle.pdb

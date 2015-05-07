@@ -1,0 +1,9 @@
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\02StudentCables\bin\Debug\02StudentCables.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\02StudentCables\bin\Debug\02StudentCables.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\02StudentCables\bin\Debug\02StudentCables.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\02StudentCables\obj\Debug\02StudentCables.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\02StudentCables\obj\Debug\02StudentCables.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\02StudentCables\obj\Debug\02StudentCables.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\02StudentCables\bin\Debug\02StudentCables.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\02StudentCables\obj\Debug\02StudentCables.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\02StudentCables\obj\Debug\02StudentCables.pdb

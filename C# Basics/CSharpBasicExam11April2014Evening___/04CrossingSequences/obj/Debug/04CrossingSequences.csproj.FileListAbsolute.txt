@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\04CrossingSequences\bin\Debug\04CrossingSequences.exe.config
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\04CrossingSequences\bin\Debug\04CrossingSequences.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\04CrossingSequences\bin\Debug\04CrossingSequences.pdb
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\04CrossingSequences\obj\Debug\04CrossingSequences.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\04CrossingSequences\obj\Debug\04CrossingSequences.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\04CrossingSequences\obj\Debug\04CrossingSequences.pdb

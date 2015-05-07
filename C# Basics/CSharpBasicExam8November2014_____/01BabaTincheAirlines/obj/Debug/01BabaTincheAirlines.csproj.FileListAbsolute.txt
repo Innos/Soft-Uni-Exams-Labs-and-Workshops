@@ -1,0 +1,9 @@
+E:\Soft Uni\extra\CSharpBasicExam8November2014\01BabaTincheAirlines\bin\Debug\01BabaTincheAirlines.exe.config
+E:\Soft Uni\extra\CSharpBasicExam8November2014\01BabaTincheAirlines\bin\Debug\01BabaTincheAirlines.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014\01BabaTincheAirlines\bin\Debug\01BabaTincheAirlines.pdb
+E:\Soft Uni\extra\CSharpBasicExam8November2014\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam8November2014\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.pdb
+E:\Soft Uni\extra\CSharpBasicExam8November2014_____\01BabaTincheAirlines\bin\Debug\01BabaTincheAirlines.exe.config
+E:\Soft Uni\extra\CSharpBasicExam8November2014_____\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014_____\01BabaTincheAirlines\obj\Debug\01BabaTincheAirlines.pdb

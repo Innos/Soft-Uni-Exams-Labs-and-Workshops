@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\05GameOfBits\bin\Debug\05GameOfBits.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\05GameOfBits\bin\Debug\05GameOfBits.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\05GameOfBits\bin\Debug\05GameOfBits.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\05GameOfBits\obj\Debug\05GameOfBits.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\05GameOfBits\obj\Debug\05GameOfBits.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\05GameOfBits\obj\Debug\05GameOfBits.pdb

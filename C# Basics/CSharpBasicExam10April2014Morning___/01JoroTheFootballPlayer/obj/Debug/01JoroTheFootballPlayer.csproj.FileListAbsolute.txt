@@ -1,0 +1,3 @@
+E:\Soft Uni\extra\CSharpBasicExam10April2014Morning\01JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe.config
+E:\Soft Uni\extra\CSharpBasicExam10April2014Morning\01JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.exe
+E:\Soft Uni\extra\CSharpBasicExam10April2014Morning\01JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.pdb

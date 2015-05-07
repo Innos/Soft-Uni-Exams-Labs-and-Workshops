@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam26August2014\03Star\bin\Debug\03Star.exe.config
+E:\Soft Uni\extra\CSharpBasicExam26August2014\03Star\bin\Debug\03Star.exe
+E:\Soft Uni\extra\CSharpBasicExam26August2014\03Star\bin\Debug\03Star.pdb
+E:\Soft Uni\extra\CSharpBasicExam26August2014\03Star\obj\Debug\03Star.exe
+E:\Soft Uni\extra\CSharpBasicExam26August2014\03Star\obj\Debug\03Star.pdb
+E:\Soft Uni\extra\CSharpBasicExam26August2014\03Star\obj\Debug\03Star.csprojResolveAssemblyReference.cache

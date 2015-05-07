@@ -1,0 +1,9 @@
+E:\Soft Uni\extra\CSharpBasicExam8November2014\05BitBuilder\bin\Debug\05BitBuilder.exe.config
+E:\Soft Uni\extra\CSharpBasicExam8November2014\05BitBuilder\bin\Debug\05BitBuilder.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014\05BitBuilder\bin\Debug\05BitBuilder.pdb
+E:\Soft Uni\extra\CSharpBasicExam8November2014\05BitBuilder\obj\Debug\05BitBuilder.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam8November2014\05BitBuilder\obj\Debug\05BitBuilder.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014\05BitBuilder\obj\Debug\05BitBuilder.pdb
+E:\Soft Uni\extra\CSharpBasicExam8November2014_____\05BitBuilder\bin\Debug\05BitBuilder.exe.config
+E:\Soft Uni\extra\CSharpBasicExam8November2014_____\05BitBuilder\obj\Debug\05BitBuilder.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014_____\05BitBuilder\obj\Debug\05BitBuilder.pdb

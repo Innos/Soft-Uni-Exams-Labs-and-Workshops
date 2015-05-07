@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\03NewHouse\bin\Debug\15NewHouse.exe.config
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\03NewHouse\obj\Debug\15NewHouse.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\03NewHouse\obj\Debug\15NewHouse.pdb
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\03NewHouse\bin\Debug\15NewHouse.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\03NewHouse\bin\Debug\15NewHouse.pdb
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\03NewHouse\obj\Debug\03NewHouse.csprojResolveAssemblyReference.cache

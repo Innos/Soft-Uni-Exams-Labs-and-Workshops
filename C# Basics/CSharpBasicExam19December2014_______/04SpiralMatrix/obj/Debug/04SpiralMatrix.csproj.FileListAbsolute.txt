@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam19December2014\04SpiralMatrix\bin\Debug\04SpiralMatrix.exe.config
+E:\Soft Uni\extra\CSharpBasicExam19December2014\04SpiralMatrix\bin\Debug\04SpiralMatrix.exe
+E:\Soft Uni\extra\CSharpBasicExam19December2014\04SpiralMatrix\bin\Debug\04SpiralMatrix.pdb
+E:\Soft Uni\extra\CSharpBasicExam19December2014\04SpiralMatrix\obj\Debug\04SpiralMatrix.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam19December2014\04SpiralMatrix\obj\Debug\04SpiralMatrix.exe
+E:\Soft Uni\extra\CSharpBasicExam19December2014\04SpiralMatrix\obj\Debug\04SpiralMatrix.pdb

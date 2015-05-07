@@ -1,0 +1,9 @@
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\04HayvanNumbers\bin\Debug\04HayvanNumbers.exe.config
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\04HayvanNumbers\bin\Debug\04HayvanNumbers.exe
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\04HayvanNumbers\bin\Debug\04HayvanNumbers.pdb
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\04HayvanNumbers\obj\Debug\04HayvanNumbers.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\04HayvanNumbers\obj\Debug\04HayvanNumbers.exe
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\04HayvanNumbers\obj\Debug\04HayvanNumbers.pdb
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\04HayvanNumbers\bin\Debug\04HayvanNumbers.exe.config
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\04HayvanNumbers\obj\Debug\04HayvanNumbers.exe
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\04HayvanNumbers\obj\Debug\04HayvanNumbers.pdb

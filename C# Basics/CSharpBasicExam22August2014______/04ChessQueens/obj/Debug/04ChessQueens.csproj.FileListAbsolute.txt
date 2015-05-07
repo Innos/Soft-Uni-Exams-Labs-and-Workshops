@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicExam22August2014\04ChessQueens\bin\Debug\04ChessQueens.exe.config
+E:\Soft Uni\extra\CSharpBasicExam22August2014\04ChessQueens\bin\Debug\04ChessQueens.exe
+E:\Soft Uni\extra\CSharpBasicExam22August2014\04ChessQueens\bin\Debug\04ChessQueens.pdb
+E:\Soft Uni\extra\CSharpBasicExam22August2014\04ChessQueens\obj\Debug\04ChessQueens.exe
+E:\Soft Uni\extra\CSharpBasicExam22August2014\04ChessQueens\obj\Debug\04ChessQueens.pdb

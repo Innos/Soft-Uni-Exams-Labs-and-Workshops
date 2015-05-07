@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\02Letters,Symbols,Numbers\bin\Debug\02Letters,Symbols,Numbers.exe.config
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\02Letters,Symbols,Numbers\bin\Debug\02Letters,Symbols,Numbers.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\02Letters,Symbols,Numbers\bin\Debug\02Letters,Symbols,Numbers.pdb
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\02Letters,Symbols,Numbers\obj\Debug\02Letters,Symbols,Numbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\02Letters,Symbols,Numbers\obj\Debug\02Letters,Symbols,Numbers.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\02Letters,Symbols,Numbers\obj\Debug\02Letters,Symbols,Numbers.pdb

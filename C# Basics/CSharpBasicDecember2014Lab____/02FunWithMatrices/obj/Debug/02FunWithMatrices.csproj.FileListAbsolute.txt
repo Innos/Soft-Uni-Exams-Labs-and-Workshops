@@ -1,0 +1,12 @@
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\02FunWithMatrices\bin\Debug\02FunWithMatrices.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\02FunWithMatrices\bin\Debug\02FunWithMatrices.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\02FunWithMatrices\bin\Debug\02FunWithMatrices.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\02FunWithMatrices\obj\Debug\02FunWithMatrices.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\02FunWithMatrices\obj\Debug\02FunWithMatrices.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\02FunWithMatrices\obj\Debug\02FunWithMatrices.pdb
+E:\Soft Uni\Homework\Lab 2014 December\02FunWithMatrices\bin\Debug\02FunWithMatrices.exe.config
+E:\Soft Uni\Homework\Lab 2014 December\02FunWithMatrices\obj\Debug\02FunWithMatrices.exe
+E:\Soft Uni\Homework\Lab 2014 December\02FunWithMatrices\obj\Debug\02FunWithMatrices.pdb
+E:\Soft Uni\extra\Lab 2014 December\02FunWithMatrices\bin\Debug\02FunWithMatrices.exe.config
+E:\Soft Uni\extra\Lab 2014 December\02FunWithMatrices\obj\Debug\02FunWithMatrices.exe
+E:\Soft Uni\extra\Lab 2014 December\02FunWithMatrices\obj\Debug\02FunWithMatrices.pdb

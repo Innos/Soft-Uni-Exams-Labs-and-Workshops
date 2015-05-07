@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\22Arrow\bin\Debug\22Arrow.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\22Arrow\bin\Debug\22Arrow.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\22Arrow\bin\Debug\22Arrow.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\22Arrow\obj\Debug\22Arrow.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\22Arrow\obj\Debug\22Arrow.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\22Arrow\obj\Debug\22Arrow.pdb

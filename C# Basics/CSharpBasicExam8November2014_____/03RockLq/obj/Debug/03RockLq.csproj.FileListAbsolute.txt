@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicExam8November2014\03RockLq\bin\Debug\03RockLq.exe.config
+E:\Soft Uni\extra\CSharpBasicExam8November2014\03RockLq\bin\Debug\03RockLq.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014\03RockLq\bin\Debug\03RockLq.pdb
+E:\Soft Uni\extra\CSharpBasicExam8November2014\03RockLq\obj\Debug\03RockLq.exe
+E:\Soft Uni\extra\CSharpBasicExam8November2014\03RockLq\obj\Debug\03RockLq.pdb

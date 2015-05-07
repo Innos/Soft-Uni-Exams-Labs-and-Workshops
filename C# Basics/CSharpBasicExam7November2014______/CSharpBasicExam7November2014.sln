@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Budget", "01Budget\01Budget.csproj", "{DB547D38-9562-4BE3-B368-8905F836F91C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02OddOrEvenCounter", "02OddOrEvenCounter\02OddOrEvenCounter.csproj", "{4B5339A0-6EB1-4E6D-8434-02189DB0AC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Plane", "03Plane\03Plane.csproj", "{7AD1F202-3938-435F-9832-87F9D7C51AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04WeirdCombinations", "04WeirdCombinations\04WeirdCombinations.csproj", "{B5DD9028-65A8-453E-B067-CA1963BBA1E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05HalfByteSwapper", "05HalfByteSwapper\05HalfByteSwapper.csproj", "{B4DD1B96-EC9B-4AAE-9FAA-73206808C336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		VK|Any CPU = VK|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB547D38-9562-4BE3-B368-8905F836F91C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB547D38-9562-4BE3-B368-8905F836F91C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB547D38-9562-4BE3-B368-8905F836F91C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB547D38-9562-4BE3-B368-8905F836F91C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB547D38-9562-4BE3-B368-8905F836F91C}.VK|Any CPU.ActiveCfg = VK|Any CPU
+		{DB547D38-9562-4BE3-B368-8905F836F91C}.VK|Any CPU.Build.0 = VK|Any CPU
+		{4B5339A0-6EB1-4E6D-8434-02189DB0AC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5339A0-6EB1-4E6D-8434-02189DB0AC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5339A0-6EB1-4E6D-8434-02189DB0AC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5339A0-6EB1-4E6D-8434-02189DB0AC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5339A0-6EB1-4E6D-8434-02189DB0AC9E}.VK|Any CPU.ActiveCfg = VK|Any CPU
+		{4B5339A0-6EB1-4E6D-8434-02189DB0AC9E}.VK|Any CPU.Build.0 = VK|Any CPU
+		{7AD1F202-3938-435F-9832-87F9D7C51AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD1F202-3938-435F-9832-87F9D7C51AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD1F202-3938-435F-9832-87F9D7C51AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD1F202-3938-435F-9832-87F9D7C51AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD1F202-3938-435F-9832-87F9D7C51AB1}.VK|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD1F202-3938-435F-9832-87F9D7C51AB1}.VK|Any CPU.Build.0 = Release|Any CPU
+		{B5DD9028-65A8-453E-B067-CA1963BBA1E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5DD9028-65A8-453E-B067-CA1963BBA1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5DD9028-65A8-453E-B067-CA1963BBA1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DD9028-65A8-453E-B067-CA1963BBA1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5DD9028-65A8-453E-B067-CA1963BBA1E5}.VK|Any CPU.ActiveCfg = Release|Any CPU
+		{B5DD9028-65A8-453E-B067-CA1963BBA1E5}.VK|Any CPU.Build.0 = Release|Any CPU
+		{B4DD1B96-EC9B-4AAE-9FAA-73206808C336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DD1B96-EC9B-4AAE-9FAA-73206808C336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DD1B96-EC9B-4AAE-9FAA-73206808C336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DD1B96-EC9B-4AAE-9FAA-73206808C336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DD1B96-EC9B-4AAE-9FAA-73206808C336}.VK|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DD1B96-EC9B-4AAE-9FAA-73206808C336}.VK|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

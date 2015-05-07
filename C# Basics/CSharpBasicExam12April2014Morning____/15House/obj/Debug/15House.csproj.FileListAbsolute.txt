@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\15House\bin\Debug\15House.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\15House\bin\Debug\15House.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\15House\bin\Debug\15House.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\15House\obj\Debug\15House.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\15House\obj\Debug\15House.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\15House\obj\Debug\15House.pdb

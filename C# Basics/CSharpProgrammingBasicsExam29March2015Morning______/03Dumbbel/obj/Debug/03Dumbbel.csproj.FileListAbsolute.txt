@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\03Dumbbel\bin\Debug\03Dumbbel.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\03Dumbbel\bin\Debug\03Dumbbel.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\03Dumbbel\bin\Debug\03Dumbbel.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\03Dumbbel\obj\Debug\03Dumbbel.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\03Dumbbel\obj\Debug\03Dumbbel.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\03Dumbbel\obj\Debug\03Dumbbel.pdb

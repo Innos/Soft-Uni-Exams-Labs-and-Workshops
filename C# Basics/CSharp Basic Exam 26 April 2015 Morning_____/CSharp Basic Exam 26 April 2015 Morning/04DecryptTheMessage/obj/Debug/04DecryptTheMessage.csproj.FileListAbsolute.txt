@@ -1,0 +1,2 @@
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\04DecryptTheMessage\bin\Debug\04DecryptTheMessage.exe.config
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\04DecryptTheMessage\bin\Debug\04DecryptTheMessage.exe.config

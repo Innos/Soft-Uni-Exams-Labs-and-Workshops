@@ -1,0 +1,12 @@
+E:\Soft Uni\Homework\Lab 2014 December\04Tetris\bin\Debug\04Tetris.exe.config
+E:\Soft Uni\Homework\Lab 2014 December\04Tetris\bin\Debug\04Tetris.exe
+E:\Soft Uni\Homework\Lab 2014 December\04Tetris\bin\Debug\04Tetris.pdb
+E:\Soft Uni\Homework\Lab 2014 December\04Tetris\obj\Debug\04Tetris.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lab 2014 December\04Tetris\obj\Debug\04Tetris.exe
+E:\Soft Uni\Homework\Lab 2014 December\04Tetris\obj\Debug\04Tetris.pdb
+E:\Soft Uni\extra\Lab 2014 December\04Tetris\bin\Debug\04Tetris.exe.config
+E:\Soft Uni\extra\Lab 2014 December\04Tetris\obj\Debug\04Tetris.exe
+E:\Soft Uni\extra\Lab 2014 December\04Tetris\obj\Debug\04Tetris.pdb
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab____\04Tetris\bin\Debug\04Tetris.exe.config
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab____\04Tetris\obj\Debug\04Tetris.exe
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab____\04Tetris\obj\Debug\04Tetris.pdb

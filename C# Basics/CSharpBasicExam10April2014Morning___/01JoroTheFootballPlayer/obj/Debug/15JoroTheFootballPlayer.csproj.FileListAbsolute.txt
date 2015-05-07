@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\15JoroTheFootballPlayer\bin\Debug\15JoroTheFootballPlayer.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\15JoroTheFootballPlayer\obj\Debug\15JoroTheFootballPlayer.pdb

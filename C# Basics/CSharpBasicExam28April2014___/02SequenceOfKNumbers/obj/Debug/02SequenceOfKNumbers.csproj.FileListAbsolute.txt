@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam28April2014\02SequenceOfKNumbers\bin\Debug\02SequenceOfKNumbers.exe.config
+E:\Soft Uni\extra\CSharpBasicExam28April2014\02SequenceOfKNumbers\bin\Debug\02SequenceOfKNumbers.exe
+E:\Soft Uni\extra\CSharpBasicExam28April2014\02SequenceOfKNumbers\bin\Debug\02SequenceOfKNumbers.pdb
+E:\Soft Uni\extra\CSharpBasicExam28April2014\02SequenceOfKNumbers\obj\Debug\02SequenceOfKNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam28April2014\02SequenceOfKNumbers\obj\Debug\02SequenceOfKNumbers.exe
+E:\Soft Uni\extra\CSharpBasicExam28April2014\02SequenceOfKNumbers\obj\Debug\02SequenceOfKNumbers.pdb

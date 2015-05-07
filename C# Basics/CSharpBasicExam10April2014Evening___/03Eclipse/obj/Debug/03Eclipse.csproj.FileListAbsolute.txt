@@ -1,0 +1,9 @@
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\03Eclipse\bin\Debug\03Eclipse.exe.config
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\03Eclipse\bin\Debug\03Eclipse.exe
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\03Eclipse\bin\Debug\03Eclipse.pdb
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\03Eclipse\obj\Debug\03Eclipse.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\03Eclipse\obj\Debug\03Eclipse.exe
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\03Eclipse\obj\Debug\03Eclipse.pdb
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\03Eclipse\bin\Debug\03Eclipse.exe.config
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\03Eclipse\obj\Debug\03Eclipse.exe
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\03Eclipse\obj\Debug\03Eclipse.pdb

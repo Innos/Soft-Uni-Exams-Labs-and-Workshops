@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam7November2014\05HalfByteSwapper\bin\Release\05HalfByteSwapper.exe.config
+E:\Soft Uni\extra\CSharpBasicExam7November2014\05HalfByteSwapper\bin\Release\05HalfByteSwapper.exe
+E:\Soft Uni\extra\CSharpBasicExam7November2014\05HalfByteSwapper\bin\Release\05HalfByteSwapper.pdb
+E:\Soft Uni\extra\CSharpBasicExam7November2014\05HalfByteSwapper\obj\Release\05HalfByteSwapper.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam7November2014\05HalfByteSwapper\obj\Release\05HalfByteSwapper.exe
+E:\Soft Uni\extra\CSharpBasicExam7November2014\05HalfByteSwapper\obj\Release\05HalfByteSwapper.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\16MagicStrings\bin\Debug\16MagicStrings.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\16MagicStrings\bin\Debug\16MagicStrings.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\16MagicStrings\bin\Debug\16MagicStrings.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\16MagicStrings\obj\Debug\16MagicStrings.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\16MagicStrings\obj\Debug\16MagicStrings.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\16MagicStrings\obj\Debug\16MagicStrings.pdb

@@ -1,0 +1,12 @@
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\bin\Debug\01CurrencyCheck.exe.config
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\bin\Debug\01CurrencyCheck.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\bin\Debug\01CurrencyCheck.pdb
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\obj\Debug\01CurrencyCheck.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\obj\Debug\01CurrencyCheck.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\obj\Debug\01CurrencyCheck.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\bin\Debug\01CurrencyCheck.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\obj\Debug\01CurrencyCheck.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\01CurrencyCheck\obj\Debug\01CurrencyCheck.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening____\01CurrencyCheck\bin\Debug\01CurrencyCheck.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening____\01CurrencyCheck\obj\Debug\01CurrencyCheck.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening____\01CurrencyCheck\obj\Debug\01CurrencyCheck.pdb

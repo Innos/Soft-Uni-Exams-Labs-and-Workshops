@@ -1,0 +1,3 @@
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05XBits\bin\Debug\05X-Bits.exe.config
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05XBits\obj\Debug\05X-Bits.exe
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05XBits\obj\Debug\05X-Bits.pdb

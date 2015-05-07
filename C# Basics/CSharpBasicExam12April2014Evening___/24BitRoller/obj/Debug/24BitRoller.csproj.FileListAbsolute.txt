@@ -1,0 +1,9 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\24BitRoller\bin\Debug\24BitRoller.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\24BitRoller\bin\Debug\24BitRoller.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\24BitRoller\bin\Debug\24BitRoller.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\24BitRoller\obj\Debug\24BitRoller.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\24BitRoller\obj\Debug\24BitRoller.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\24BitRoller\obj\Debug\24BitRoller.pdb
+E:\Soft Uni\extra\CSharpBasicExam12April2014Evening\24BitRoller\bin\Debug\24BitRoller.exe.config
+E:\Soft Uni\extra\CSharpBasicExam12April2014Evening\24BitRoller\obj\Debug\24BitRoller.exe
+E:\Soft Uni\extra\CSharpBasicExam12April2014Evening\24BitRoller\obj\Debug\24BitRoller.pdb

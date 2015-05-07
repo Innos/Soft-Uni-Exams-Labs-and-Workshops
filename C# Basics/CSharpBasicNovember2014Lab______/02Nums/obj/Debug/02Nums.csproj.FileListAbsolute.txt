@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\02Nums\bin\Debug\02Nums.exe.config
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\02Nums\bin\Debug\02Nums.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\02Nums\bin\Debug\02Nums.pdb
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\02Nums\obj\Debug\02Nums.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\02Nums\obj\Debug\02Nums.pdb

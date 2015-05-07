@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\08Diamonds\bin\Debug\08Diamonds.exe.config
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\08Diamonds\bin\Debug\08Diamonds.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\08Diamonds\bin\Debug\08Diamonds.pdb
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\08Diamonds\obj\Debug\08Diamonds.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\08Diamonds\obj\Debug\08Diamonds.pdb
