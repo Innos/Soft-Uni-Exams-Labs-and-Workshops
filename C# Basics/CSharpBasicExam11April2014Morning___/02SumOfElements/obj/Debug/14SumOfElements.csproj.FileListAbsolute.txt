@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\14SumOfElements\bin\Debug\14SumOfElements.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\14SumOfElements\bin\Debug\14SumOfElements.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\14SumOfElements\bin\Debug\14SumOfElements.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\14SumOfElements\obj\Debug\14SumOfElements.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\14SumOfElements\obj\Debug\14SumOfElements.pdb

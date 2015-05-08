@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\15NewHouse\bin\Debug\15NewHouse.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\15NewHouse\bin\Debug\15NewHouse.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\15NewHouse\bin\Debug\15NewHouse.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\15NewHouse\obj\Debug\15NewHouse.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\15NewHouse\obj\Debug\15NewHouse.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\15NewHouse\obj\Debug\15NewHouse.pdb

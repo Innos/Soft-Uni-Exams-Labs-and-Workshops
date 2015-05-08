@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam20December2014\01PiggyBank\bin\Debug\01PiggyBank.exe.config
+E:\Soft Uni\extra\CSharpBasicExam20December2014\01PiggyBank\bin\Debug\01PiggyBank.exe
+E:\Soft Uni\extra\CSharpBasicExam20December2014\01PiggyBank\bin\Debug\01PiggyBank.pdb
+E:\Soft Uni\extra\CSharpBasicExam20December2014\01PiggyBank\obj\Debug\01PiggyBank.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam20December2014\01PiggyBank\obj\Debug\01PiggyBank.exe
+E:\Soft Uni\extra\CSharpBasicExam20December2014\01PiggyBank\obj\Debug\01PiggyBank.pdb

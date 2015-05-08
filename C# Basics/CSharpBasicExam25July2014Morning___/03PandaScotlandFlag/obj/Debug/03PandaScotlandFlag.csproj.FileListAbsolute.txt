@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\03PandaScotlandFlag\bin\Debug\03PandaScotlandFlag.exe.config
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\03PandaScotlandFlag\bin\Debug\03PandaScotlandFlag.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\03PandaScotlandFlag\bin\Debug\03PandaScotlandFlag.pdb
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\03PandaScotlandFlag\obj\Debug\03PandaScotlandFlag.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\03PandaScotlandFlag\obj\Debug\03PandaScotlandFlag.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\03PandaScotlandFlag\obj\Debug\03PandaScotlandFlag.pdb

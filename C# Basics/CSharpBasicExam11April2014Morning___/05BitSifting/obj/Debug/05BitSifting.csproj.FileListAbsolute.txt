@@ -1,0 +1,3 @@
+E:\Soft Uni\extra\CSharpBasicExam11April2014Morning\05BitSifting\bin\Debug\21BitSifting.exe.config
+E:\Soft Uni\extra\CSharpBasicExam11April2014Morning\05BitSifting\obj\Debug\21BitSifting.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Morning\05BitSifting\obj\Debug\21BitSifting.pdb

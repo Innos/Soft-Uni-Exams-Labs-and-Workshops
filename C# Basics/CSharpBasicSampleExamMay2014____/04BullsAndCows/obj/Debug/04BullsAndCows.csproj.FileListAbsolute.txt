@@ -1,0 +1,12 @@
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\04BullsAndCows\bin\Debug\04BullsAndCows.exe.config
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\04BullsAndCows\bin\Debug\04BullsAndCows.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\04BullsAndCows\bin\Debug\04BullsAndCows.pdb
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\04BullsAndCows\obj\Debug\04BullsAndCows.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\04BullsAndCows\obj\Debug\04BullsAndCows.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\04BullsAndCows\obj\Debug\04BullsAndCows.pdb
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\04BullsAndCows\bin\Debug\04BullsAndCows.exe.config
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\04BullsAndCows\obj\Debug\04BullsAndCows.exe
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\04BullsAndCows\obj\Debug\04BullsAndCows.pdb
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\04BullsAndCows\bin\Debug\04BullsAndCows.exe
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\04BullsAndCows\bin\Debug\04BullsAndCows.pdb
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\04BullsAndCows\obj\Debug\04BullsAndCows.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\17CatchTheBits\bin\Debug\17CatchTheBits.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\17CatchTheBits\bin\Debug\17CatchTheBits.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\17CatchTheBits\bin\Debug\17CatchTheBits.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\17CatchTheBits\obj\Debug\17CatchTheBits.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\17CatchTheBits\obj\Debug\17CatchTheBits.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\17CatchTheBits\obj\Debug\17CatchTheBits.pdb

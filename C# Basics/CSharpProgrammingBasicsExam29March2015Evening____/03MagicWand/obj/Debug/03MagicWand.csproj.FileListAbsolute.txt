@@ -1,0 +1,12 @@
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\bin\Debug\03MagicWand.exe.config
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\bin\Debug\03MagicWand.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\bin\Debug\03MagicWand.pdb
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\obj\Debug\03MagicWand.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\obj\Debug\03MagicWand.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\obj\Debug\03MagicWand.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\bin\Debug\03MagicWand.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\obj\Debug\03MagicWand.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\obj\Debug\03MagicWand.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\obj\Debug\03MagicWand.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\bin\Debug\03MagicWand.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\03MagicWand\bin\Debug\03MagicWand.pdb

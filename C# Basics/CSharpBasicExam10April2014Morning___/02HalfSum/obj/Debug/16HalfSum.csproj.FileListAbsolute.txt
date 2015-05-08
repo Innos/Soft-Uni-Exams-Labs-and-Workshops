@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\16HalfSum\bin\Debug\16HalfSum.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\16HalfSum\bin\Debug\16HalfSum.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\16HalfSum\bin\Debug\16HalfSum.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\16HalfSum\obj\Debug\16HalfSum.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\16HalfSum\obj\Debug\16HalfSum.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\16HalfSum\obj\Debug\16HalfSum.pdb

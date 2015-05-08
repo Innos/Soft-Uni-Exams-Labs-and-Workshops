@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\01Electricity\bin\Debug\01Electricity.exe.config
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\01Electricity\bin\Debug\01Electricity.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\01Electricity\bin\Debug\01Electricity.pdb
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\01Electricity\obj\Debug\01Electricity.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\01Electricity\obj\Debug\01Electricity.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Evening\01Electricity\obj\Debug\01Electricity.pdb

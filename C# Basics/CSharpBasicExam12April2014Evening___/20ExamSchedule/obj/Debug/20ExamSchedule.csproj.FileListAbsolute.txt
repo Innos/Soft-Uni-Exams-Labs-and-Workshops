@@ -1,0 +1,12 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\20ExamSchedule\bin\Debug\20ExamSchedule.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\20ExamSchedule\bin\Debug\20ExamSchedule.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\20ExamSchedule\bin\Debug\20ExamSchedule.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\20ExamSchedule\obj\Debug\20ExamSchedule.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\20ExamSchedule\obj\Debug\20ExamSchedule.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\20ExamSchedule\obj\Debug\20ExamSchedule.pdb
+E:\Soft Uni\extra\CSharp Basics Exam 12 April 2014 Evening\CSharpBasicExam12April2014Evening\20ExamSchedule\bin\Debug\20ExamSchedule.exe.config
+E:\Soft Uni\extra\CSharp Basics Exam 12 April 2014 Evening\CSharpBasicExam12April2014Evening\20ExamSchedule\obj\Debug\20ExamSchedule.exe
+E:\Soft Uni\extra\CSharp Basics Exam 12 April 2014 Evening\CSharpBasicExam12April2014Evening\20ExamSchedule\obj\Debug\20ExamSchedule.pdb
+E:\Soft Uni\extra\CSharpBasicExam12April2014Evening\20ExamSchedule\bin\Debug\20ExamSchedule.exe.config
+E:\Soft Uni\extra\CSharpBasicExam12April2014Evening\20ExamSchedule\obj\Debug\20ExamSchedule.exe
+E:\Soft Uni\extra\CSharpBasicExam12April2014Evening\20ExamSchedule\obj\Debug\20ExamSchedule.pdb

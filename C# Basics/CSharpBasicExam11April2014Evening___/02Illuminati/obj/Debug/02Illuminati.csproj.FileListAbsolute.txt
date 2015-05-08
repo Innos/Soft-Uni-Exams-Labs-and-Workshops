@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\02Illuminati\bin\Debug\02Illuminati.exe.config
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\02Illuminati\bin\Debug\02Illuminati.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\02Illuminati\bin\Debug\02Illuminati.pdb
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\02Illuminati\obj\Debug\02Illuminati.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\02Illuminati\obj\Debug\02Illuminati.exe
+E:\Soft Uni\extra\CSharpBasicExam11April2014Evening\02Illuminati\obj\Debug\02Illuminati.pdb

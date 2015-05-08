@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\19BitsInverter\bin\Debug\19BitsInverter.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\19BitsInverter\bin\Debug\19BitsInverter.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\19BitsInverter\bin\Debug\19BitsInverter.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\19BitsInverter\obj\Debug\19BitsInverter.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\19BitsInverter\obj\Debug\19BitsInverter.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\19BitsInverter\obj\Debug\19BitsInverter.pdb

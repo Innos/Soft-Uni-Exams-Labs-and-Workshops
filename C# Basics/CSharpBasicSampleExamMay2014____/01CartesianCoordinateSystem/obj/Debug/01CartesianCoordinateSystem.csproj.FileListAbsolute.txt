@@ -1,0 +1,12 @@
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\01CartesianCoordinateSystem\bin\Debug\01CartesianCoordinateSystem.exe.config
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\01CartesianCoordinateSystem\bin\Debug\01CartesianCoordinateSystem.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\01CartesianCoordinateSystem\bin\Debug\01CartesianCoordinateSystem.pdb
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\01CartesianCoordinateSystem\obj\Debug\01CartesianCoordinateSystem.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\01CartesianCoordinateSystem\obj\Debug\01CartesianCoordinateSystem.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\01CartesianCoordinateSystem\obj\Debug\01CartesianCoordinateSystem.pdb
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\01CartesianCoordinateSystem\bin\Debug\01CartesianCoordinateSystem.exe.config
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\01CartesianCoordinateSystem\obj\Debug\01CartesianCoordinateSystem.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\01CartesianCoordinateSystem\obj\Debug\01CartesianCoordinateSystem.pdb
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\01CartesianCoordinateSystem\bin\Debug\01CartesianCoordinateSystem.exe.config
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\01CartesianCoordinateSystem\obj\Debug\01CartesianCoordinateSystem.exe
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\01CartesianCoordinateSystem\obj\Debug\01CartesianCoordinateSystem.pdb

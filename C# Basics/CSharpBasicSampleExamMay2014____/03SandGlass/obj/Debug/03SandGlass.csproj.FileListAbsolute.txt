@@ -1,0 +1,9 @@
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\03SandGlass\bin\Debug\03SandGlass.exe.config
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\03SandGlass\bin\Debug\03SandGlass.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\03SandGlass\bin\Debug\03SandGlass.pdb
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\03SandGlass\obj\Debug\03SandGlass.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\03SandGlass\obj\Debug\03SandGlass.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\03SandGlass\obj\Debug\03SandGlass.pdb
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\03SandGlass\bin\Debug\03SandGlass.exe.config
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\03SandGlass\obj\Debug\03SandGlass.exe
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\03SandGlass\obj\Debug\03SandGlass.pdb

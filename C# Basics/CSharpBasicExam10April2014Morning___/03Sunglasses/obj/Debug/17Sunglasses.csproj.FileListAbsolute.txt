@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\17Sunglasses\bin\Debug\17Sunglasses.exe.config
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\17Sunglasses\bin\Debug\17Sunglasses.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\17Sunglasses\bin\Debug\17Sunglasses.pdb
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\17Sunglasses\obj\Debug\17Sunglasses.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\17Sunglasses\obj\Debug\17Sunglasses.exe
+E:\Soft Uni\Homework\Lekciq 3\Homework-PrimitiveDataTypesAndVariables\17Sunglasses\obj\Debug\17Sunglasses.pdb

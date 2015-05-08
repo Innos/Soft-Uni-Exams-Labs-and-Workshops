@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\23FiveSpecialLetters\bin\Debug\23FiveSpecialLetters.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\23FiveSpecialLetters\bin\Debug\23FiveSpecialLetters.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\23FiveSpecialLetters\bin\Debug\23FiveSpecialLetters.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\23FiveSpecialLetters\obj\Debug\23FiveSpecialLetters.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\23FiveSpecialLetters\obj\Debug\23FiveSpecialLetters.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\23FiveSpecialLetters\obj\Debug\23FiveSpecialLetters.pdb

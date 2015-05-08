@@ -1,0 +1,9 @@
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening\01Volleyball\bin\Debug\17Volleyball.exe.config
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening\01Volleyball\obj\Debug\17Volleyball.exe
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening\01Volleyball\obj\Debug\17Volleyball.pdb
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\01Volleyball\bin\Debug\17Volleyball.exe.config
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\01Volleyball\obj\Debug\17Volleyball.exe
+C:\Soft Uni\extra\CSharpBasicExam10April2014Evening\01Volleyball\obj\Debug\17Volleyball.pdb
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\01Volleyball\bin\Debug\17Volleyball.exe.config
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\01Volleyball\obj\Debug\17Volleyball.exe
+E:\Soft Uni\extra\CSharpBasicExam10April2014Evening___\01Volleyball\obj\Debug\17Volleyball.pdb

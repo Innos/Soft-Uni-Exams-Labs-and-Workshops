@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\04MorseCodeNumbers\bin\Debug\04MorseCodeNumbers.exe.config
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\04MorseCodeNumbers\bin\Debug\04MorseCodeNumbers.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\04MorseCodeNumbers\bin\Debug\04MorseCodeNumbers.pdb
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\04MorseCodeNumbers\obj\Debug\04MorseCodeNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\04MorseCodeNumbers\obj\Debug\04MorseCodeNumbers.exe
+E:\Soft Uni\extra\CSharpBasicExam25July2014Morning\04MorseCodeNumbers\obj\Debug\04MorseCodeNumbers.pdb

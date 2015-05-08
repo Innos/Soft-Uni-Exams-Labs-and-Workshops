@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\01FruitMarket\bin\Debug\01FruitMarket.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\01FruitMarket\bin\Debug\01FruitMarket.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\01FruitMarket\bin\Debug\01FruitMarket.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\01FruitMarket\obj\Debug\01FruitMarket.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\01FruitMarket\obj\Debug\01FruitMarket.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\01FruitMarket\obj\Debug\01FruitMarket.pdb

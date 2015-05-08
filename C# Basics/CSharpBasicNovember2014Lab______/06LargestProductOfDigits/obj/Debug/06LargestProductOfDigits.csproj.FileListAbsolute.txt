@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\06LargestProductOfDigits\bin\Debug\06LargestProductOfDigits.exe.config
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\06LargestProductOfDigits\bin\Debug\06LargestProductOfDigits.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\06LargestProductOfDigits\bin\Debug\06LargestProductOfDigits.pdb
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\06LargestProductOfDigits\obj\Debug\06LargestProductOfDigits.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\06LargestProductOfDigits\obj\Debug\06LargestProductOfDigits.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\06LargestProductOfDigits\obj\Debug\06LargestProductOfDigits.pdb

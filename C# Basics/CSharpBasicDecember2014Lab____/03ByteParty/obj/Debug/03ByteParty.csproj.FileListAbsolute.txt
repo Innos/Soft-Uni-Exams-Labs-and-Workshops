@@ -1,0 +1,9 @@
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\03ByteParty\bin\Debug\03ByteParty.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\03ByteParty\bin\Debug\03ByteParty.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\03ByteParty\bin\Debug\03ByteParty.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\03ByteParty\obj\Debug\03ByteParty.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\03ByteParty\obj\Debug\03ByteParty.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\03ByteParty\obj\Debug\03ByteParty.pdb
+E:\Soft Uni\extra\Lab 2014 December\03ByteParty\bin\Debug\03ByteParty.exe.config
+E:\Soft Uni\extra\Lab 2014 December\03ByteParty\obj\Debug\03ByteParty.exe
+E:\Soft Uni\extra\Lab 2014 December\03ByteParty\obj\Debug\03ByteParty.pdb

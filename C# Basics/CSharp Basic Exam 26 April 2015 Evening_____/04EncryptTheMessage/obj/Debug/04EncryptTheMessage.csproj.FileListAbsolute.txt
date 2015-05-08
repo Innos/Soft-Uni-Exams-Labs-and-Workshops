@@ -1,0 +1,9 @@
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\bin\Debug\04EncryptTheMessage.exe.config
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\bin\Debug\04EncryptTheMessage.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\bin\Debug\04EncryptTheMessage.pdb
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\obj\Debug\04EncryptTheMessage.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\obj\Debug\04EncryptTheMessage.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\obj\Debug\04EncryptTheMessage.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\bin\Debug\04EncryptTheMessage.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\obj\Debug\04EncryptTheMessage.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\04EncryptTheMessage\obj\Debug\04EncryptTheMessage.pdb

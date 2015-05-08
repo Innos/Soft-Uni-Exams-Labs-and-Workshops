@@ -1,0 +1,18 @@
+c:\users\innos2\documents\visual studio 2013\Projects\Solution1\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\Solution1\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Solution1\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\Solution1\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\Solution1\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Solution1\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.pdb
+E:\Soft Uni\Homework\Lekciq 7\Solution1\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe.config
+E:\Soft Uni\Homework\Lekciq 7\Solution1\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.exe
+E:\Soft Uni\Homework\Lekciq 7\Solution1\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.pdb
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\exam 14 april 2014 evening\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe.config
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\exam 14 april 2014 evening\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.exe
+C:\Users\Innos\Documents\Visual Studio 2013\Projects\exam 14 april 2014 evening\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\01InsideTheBuilding\bin\Debug\01InsideTheBuilding.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\01InsideTheBuilding\obj\Debug\01InsideTheBuilding.pdb

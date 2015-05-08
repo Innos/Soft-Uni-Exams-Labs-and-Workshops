@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\13WorkHours\bin\Debug\13WorkHours.exe.config
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\13WorkHours\bin\Debug\13WorkHours.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\13WorkHours\bin\Debug\13WorkHours.pdb
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\13WorkHours\obj\Debug\13WorkHours.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\13WorkHours\obj\Debug\13WorkHours.exe
+E:\Soft Uni\Homework\Lekciq 5\HomeworkConsoleInputOutput\13WorkHours\obj\Debug\13WorkHours.pdb

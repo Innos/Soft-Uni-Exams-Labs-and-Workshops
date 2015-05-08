@@ -1,0 +1,12 @@
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\bin\Debug\01BookProblem.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\bin\Debug\01BookProblem.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\bin\Debug\01BookProblem.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\obj\Debug\01BookProblem.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\obj\Debug\01BookProblem.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\obj\Debug\01BookProblem.pdb
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\bin\Debug\01BookProblem.exe.config
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\obj\Debug\01BookProblem.exe
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\obj\Debug\01BookProblem.pdb
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning_____\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\bin\Debug\01BookProblem.exe.config
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning_____\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\obj\Debug\01BookProblem.exe
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning_____\CSharp Basic Exam 26 April 2015 Morning\01BookProblem\obj\Debug\01BookProblem.pdb

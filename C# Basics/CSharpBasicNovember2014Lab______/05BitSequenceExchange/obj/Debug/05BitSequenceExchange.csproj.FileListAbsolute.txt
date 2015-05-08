@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\05BitSequenceExchange\bin\Debug\05BitSequenceExchange.exe.config
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\05BitSequenceExchange\bin\Debug\05BitSequenceExchange.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\05BitSequenceExchange\bin\Debug\05BitSequenceExchange.pdb
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\05BitSequenceExchange\obj\Debug\05BitSequenceExchange.exe
+E:\Soft Uni\extra\CSharpBasicNovember2014Lab\05BitSequenceExchange\obj\Debug\05BitSequenceExchange.pdb

@@ -1,0 +1,7 @@
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\02Tribonacci\bin\Debug\02Tribonacci.exe.config
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\02Tribonacci\bin\Debug\02Tribonacci.exe.config
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\02Tribonacci\bin\Debug\02Tribonacci.exe
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\02Tribonacci\bin\Debug\02Tribonacci.pdb
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\02Tribonacci\obj\Debug\02Tribonacci.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\02Tribonacci\obj\Debug\02Tribonacci.exe
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\02Tribonacci\obj\Debug\02Tribonacci.pdb

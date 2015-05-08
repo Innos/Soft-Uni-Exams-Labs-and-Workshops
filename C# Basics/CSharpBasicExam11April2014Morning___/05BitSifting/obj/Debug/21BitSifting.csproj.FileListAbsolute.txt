@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\21BitSifting\bin\Debug\21BitSifting.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\21BitSifting\bin\Debug\21BitSifting.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\21BitSifting\bin\Debug\21BitSifting.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\21BitSifting\obj\Debug\21BitSifting.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\21BitSifting\obj\Debug\21BitSifting.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\21BitSifting\obj\Debug\21BitSifting.pdb

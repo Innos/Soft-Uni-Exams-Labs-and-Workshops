@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam28April2014\04PokerStraight\bin\Debug\04PokerStraight.exe.config
+E:\Soft Uni\extra\CSharpBasicExam28April2014\04PokerStraight\bin\Debug\04PokerStraight.exe
+E:\Soft Uni\extra\CSharpBasicExam28April2014\04PokerStraight\bin\Debug\04PokerStraight.pdb
+E:\Soft Uni\extra\CSharpBasicExam28April2014\04PokerStraight\obj\Debug\04PokerStraight.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam28April2014\04PokerStraight\obj\Debug\04PokerStraight.exe
+E:\Soft Uni\extra\CSharpBasicExam28April2014\04PokerStraight\obj\Debug\04PokerStraight.pdb

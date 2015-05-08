@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam22August2014\01Tables\bin\Debug\01Tables.exe.config
+E:\Soft Uni\extra\CSharpBasicExam22August2014\01Tables\bin\Debug\01Tables.exe
+E:\Soft Uni\extra\CSharpBasicExam22August2014\01Tables\bin\Debug\01Tables.pdb
+E:\Soft Uni\extra\CSharpBasicExam22August2014\01Tables\obj\Debug\01Tables.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam22August2014\01Tables\obj\Debug\01Tables.exe
+E:\Soft Uni\extra\CSharpBasicExam22August2014\01Tables\obj\Debug\01Tables.pdb

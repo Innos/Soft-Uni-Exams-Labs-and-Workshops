@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\16MagicDates\bin\Debug\16MagicDates.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\16MagicDates\bin\Debug\16MagicDates.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\16MagicDates\bin\Debug\16MagicDates.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\16MagicDates\obj\Debug\16MagicDates.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\16MagicDates\obj\Debug\16MagicDates.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\16MagicDates\obj\Debug\16MagicDates.pdb

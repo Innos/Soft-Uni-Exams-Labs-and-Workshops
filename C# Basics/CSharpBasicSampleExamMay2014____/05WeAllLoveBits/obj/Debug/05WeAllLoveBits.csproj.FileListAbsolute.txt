@@ -1,0 +1,9 @@
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\05WeAllLoveBits\bin\Debug\05WeAllLoveBits.exe.config
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\05WeAllLoveBits\bin\Debug\05WeAllLoveBits.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\05WeAllLoveBits\bin\Debug\05WeAllLoveBits.pdb
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\05WeAllLoveBits\obj\Debug\05WeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\05WeAllLoveBits\obj\Debug\05WeAllLoveBits.exe
+C:\Soft Uni\extra\CSharpBasicSampleExamMay2014\05WeAllLoveBits\obj\Debug\05WeAllLoveBits.pdb
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\05WeAllLoveBits\bin\Debug\05WeAllLoveBits.exe.config
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\05WeAllLoveBits\obj\Debug\05WeAllLoveBits.exe
+E:\Soft Uni\extra\CSharpBasicSampleExamMay2014____\05WeAllLoveBits\obj\Debug\05WeAllLoveBits.pdb

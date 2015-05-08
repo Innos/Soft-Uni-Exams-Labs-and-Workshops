@@ -1,0 +1,5 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\18OddOrEvenSum\bin\Debug\18OddOrEvenSum.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\18OddOrEvenSum\bin\Debug\18OddOrEvenSum.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\18OddOrEvenSum\bin\Debug\18OddOrEvenSum.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\18OddOrEvenSum\obj\Debug\18OddOrEvenSum.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\18OddOrEvenSum\obj\Debug\18OddOrEvenSum.pdb

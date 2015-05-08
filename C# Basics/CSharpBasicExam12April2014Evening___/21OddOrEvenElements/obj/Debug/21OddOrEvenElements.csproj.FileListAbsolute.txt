@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\21OddOrEvenElements\bin\Debug\21OddOrEvenElements.exe.config
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\21OddOrEvenElements\obj\Debug\21OddOrEvenElements.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\21OddOrEvenElements\bin\Debug\21OddOrEvenElements.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\21OddOrEvenElements\bin\Debug\21OddOrEvenElements.pdb
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\21OddOrEvenElements\obj\Debug\21OddOrEvenElements.exe
+E:\Soft Uni\Homework\Lekciq 7\HomeworkLoops\21OddOrEvenElements\obj\Debug\21OddOrEvenElements.pdb

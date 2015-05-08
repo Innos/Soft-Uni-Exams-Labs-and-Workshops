@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05X-Bits\bin\Debug\05X-Bits.exe.config
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05X-Bits\bin\Debug\05X-Bits.exe
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05X-Bits\bin\Debug\05X-Bits.pdb
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05X-Bits\obj\Debug\05X-Bits.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05X-Bits\obj\Debug\05X-Bits.exe
+E:\Soft Uni\extra\CSharpBasicExam26August2014\05X-Bits\obj\Debug\05X-Bits.pdb

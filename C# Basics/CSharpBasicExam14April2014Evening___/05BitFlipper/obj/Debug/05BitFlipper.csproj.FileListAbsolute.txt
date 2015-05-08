@@ -1,0 +1,9 @@
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\05BitFlipper\bin\Debug\05BitFlipper.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\05BitFlipper\bin\Debug\05BitFlipper.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\05BitFlipper\bin\Debug\05BitFlipper.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\05BitFlipper\obj\Debug\05BitFlipper.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\05BitFlipper\obj\Debug\05BitFlipper.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening\05BitFlipper\obj\Debug\05BitFlipper.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\05BitFlipper\bin\Debug\05BitFlipper.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\05BitFlipper\obj\Debug\05BitFlipper.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Evening___\05BitFlipper\obj\Debug\05BitFlipper.pdb

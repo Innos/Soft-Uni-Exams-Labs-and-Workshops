@@ -1,0 +1,6 @@
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\05KnightPath\bin\Debug\05KnightPath.exe.config
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\05KnightPath\bin\Debug\05KnightPath.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\05KnightPath\bin\Debug\05KnightPath.pdb
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\05KnightPath\obj\Debug\05KnightPath.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\05KnightPath\obj\Debug\05KnightPath.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\05KnightPath\obj\Debug\05KnightPath.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\02BasketBattle\bin\Debug\02BasketBattle.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\02BasketBattle\bin\Debug\02BasketBattle.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\02BasketBattle\bin\Debug\02BasketBattle.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\02BasketBattle\obj\Debug\02BasketBattle.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\02BasketBattle\obj\Debug\02BasketBattle.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\02BasketBattle\obj\Debug\02BasketBattle.pdb

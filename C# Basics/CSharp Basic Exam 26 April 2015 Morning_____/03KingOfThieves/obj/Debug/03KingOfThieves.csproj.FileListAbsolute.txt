@@ -1,0 +1,9 @@
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\bin\Debug\03KingOfThieves.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\bin\Debug\03KingOfThieves.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\bin\Debug\03KingOfThieves.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\obj\Debug\03KingOfThieves.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\obj\Debug\03KingOfThieves.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\obj\Debug\03KingOfThieves.pdb
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\bin\Debug\03KingOfThieves.exe.config
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\obj\Debug\03KingOfThieves.exe
+E:\Soft Uni\extra\C# Basics\CSharp Basic Exam 26 April 2015 Morning\CSharp Basic Exam 26 April 2015 Morning\03KingOfThieves\obj\Debug\03KingOfThieves.pdb

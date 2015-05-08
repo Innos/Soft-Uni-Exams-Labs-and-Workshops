@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicExam22August2014\02BookOrders\bin\Debug\02BookOrders.exe.config
+E:\Soft Uni\extra\CSharpBasicExam22August2014\02BookOrders\bin\Debug\02BookOrders.exe
+E:\Soft Uni\extra\CSharpBasicExam22August2014\02BookOrders\bin\Debug\02BookOrders.pdb
+E:\Soft Uni\extra\CSharpBasicExam22August2014\02BookOrders\obj\Debug\02BookOrders.exe
+E:\Soft Uni\extra\CSharpBasicExam22August2014\02BookOrders\obj\Debug\02BookOrders.pdb

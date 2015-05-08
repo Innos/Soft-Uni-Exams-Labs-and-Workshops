@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicExam19December2014\03Headphones\bin\Debug\03Headphones.exe.config
+E:\Soft Uni\extra\CSharpBasicExam19December2014\03Headphones\bin\Debug\03Headphones.exe
+E:\Soft Uni\extra\CSharpBasicExam19December2014\03Headphones\bin\Debug\03Headphones.pdb
+E:\Soft Uni\extra\CSharpBasicExam19December2014\03Headphones\obj\Debug\03Headphones.exe
+E:\Soft Uni\extra\CSharpBasicExam19December2014\03Headphones\obj\Debug\03Headphones.pdb

@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicExam20December2014\03Boat\bin\Debug\03Boat.exe.config
+E:\Soft Uni\extra\CSharpBasicExam20December2014\03Boat\bin\Debug\03Boat.exe
+E:\Soft Uni\extra\CSharpBasicExam20December2014\03Boat\bin\Debug\03Boat.pdb
+E:\Soft Uni\extra\CSharpBasicExam20December2014\03Boat\obj\Debug\03Boat.exe
+E:\Soft Uni\extra\CSharpBasicExam20December2014\03Boat\obj\Debug\03Boat.pdb

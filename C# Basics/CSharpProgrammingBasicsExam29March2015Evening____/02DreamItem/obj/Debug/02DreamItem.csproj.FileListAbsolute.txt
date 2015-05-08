@@ -1,0 +1,9 @@
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\02DreamItem\bin\Debug\02DreamItem.exe.config
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\02DreamItem\bin\Debug\02DreamItem.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\02DreamItem\bin\Debug\02DreamItem.pdb
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\02DreamItem\obj\Debug\02DreamItem.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\02DreamItem\obj\Debug\02DreamItem.exe
+C:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening\02DreamItem\obj\Debug\02DreamItem.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening____\02DreamItem\bin\Debug\02DreamItem.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening____\02DreamItem\obj\Debug\02DreamItem.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Evening____\02DreamItem\obj\Debug\02DreamItem.pdb

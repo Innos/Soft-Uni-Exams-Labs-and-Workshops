@@ -1,0 +1,9 @@
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BigestTriple\bin\Debug\02BigestTriple.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BigestTriple\bin\Debug\02BigestTriple.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BigestTriple\bin\Debug\02BigestTriple.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BigestTriple\obj\Debug\02BigestTriple.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BigestTriple\obj\Debug\02BigestTriple.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BigestTriple\obj\Debug\02BiggestTriple.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BiggestTriple\bin\Debug\02BigestTriple.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BiggestTriple\obj\Debug\02BigestTriple.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\02BiggestTriple\obj\Debug\02BigestTriple.pdb

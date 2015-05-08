@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\14Pairs\bin\Debug\14Pairs.exe.config
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\14Pairs\obj\Debug\14Pairs.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\14Pairs\bin\Debug\14Pairs.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\14Pairs\bin\Debug\14Pairs.pdb
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\14Pairs\obj\Debug\14Pairs.exe
+E:\Soft Uni\Homework\Lekciq 6\HomeworkConditionalStatements\14Pairs\obj\Debug\14Pairs.pdb

@@ -1,0 +1,5 @@
+E:\Soft Uni\extra\CSharpBasicExam19December2014\02SpyHard\bin\Debug\02SpyHard.exe.config
+E:\Soft Uni\extra\CSharpBasicExam19December2014\02SpyHard\bin\Debug\02SpyHard.exe
+E:\Soft Uni\extra\CSharpBasicExam19December2014\02SpyHard\bin\Debug\02SpyHard.pdb
+E:\Soft Uni\extra\CSharpBasicExam19December2014\02SpyHard\obj\Debug\02SpyHard.exe
+E:\Soft Uni\extra\CSharpBasicExam19December2014\02SpyHard\obj\Debug\02SpyHard.pdb

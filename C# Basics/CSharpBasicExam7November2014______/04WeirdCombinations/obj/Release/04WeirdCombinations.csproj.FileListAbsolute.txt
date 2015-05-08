@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam7November2014\04WeirdCombinations\bin\Release\04WeirdCombinations.exe.config
+E:\Soft Uni\extra\CSharpBasicExam7November2014\04WeirdCombinations\bin\Release\04WeirdCombinations.exe
+E:\Soft Uni\extra\CSharpBasicExam7November2014\04WeirdCombinations\bin\Release\04WeirdCombinations.pdb
+E:\Soft Uni\extra\CSharpBasicExam7November2014\04WeirdCombinations\obj\Release\04WeirdCombinations.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam7November2014\04WeirdCombinations\obj\Release\04WeirdCombinations.exe
+E:\Soft Uni\extra\CSharpBasicExam7November2014\04WeirdCombinations\obj\Release\04WeirdCombinations.pdb

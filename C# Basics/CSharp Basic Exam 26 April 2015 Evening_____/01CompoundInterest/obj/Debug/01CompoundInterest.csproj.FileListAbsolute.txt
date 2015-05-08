@@ -1,0 +1,12 @@
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\bin\Debug\01CompoundInterest.exe.config
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\bin\Debug\01CompoundInterest.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\bin\Debug\01CompoundInterest.pdb
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\obj\Debug\01CompoundInterest.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\obj\Debug\01CompoundInterest.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\obj\Debug\01CompoundInterest.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\bin\Debug\01CompoundInterest.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\obj\Debug\01CompoundInterest.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\01CompoundInterest\obj\Debug\01CompoundInterest.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening_____\01CompoundInterest\bin\Debug\01CompoundInterest.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening_____\01CompoundInterest\obj\Debug\01CompoundInterest.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening_____\01CompoundInterest\obj\Debug\01CompoundInterest.pdb

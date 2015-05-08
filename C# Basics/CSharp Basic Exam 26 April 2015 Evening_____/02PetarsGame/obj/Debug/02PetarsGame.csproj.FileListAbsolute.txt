@@ -1,0 +1,9 @@
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\bin\Debug\02PetarsGame.exe.config
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\bin\Debug\02PetarsGame.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\bin\Debug\02PetarsGame.pdb
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\obj\Debug\02PetarsGame.csprojResolveAssemblyReference.cache
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\obj\Debug\02PetarsGame.exe
+C:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\obj\Debug\02PetarsGame.pdb
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\bin\Debug\02PetarsGame.exe.config
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\obj\Debug\02PetarsGame.exe
+E:\Soft Uni\extra\CSharp Basic Exam 26 April 2015 Evening\02PetarsGame\obj\Debug\02PetarsGame.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\03WineGlass\bin\Debug\03WineGlass.exe.config
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\03WineGlass\bin\Debug\03WineGlass.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\03WineGlass\bin\Debug\03WineGlass.pdb
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\03WineGlass\obj\Debug\03WineGlass.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\03WineGlass\obj\Debug\03WineGlass.exe
+E:\Soft Uni\extra\CSharpBasicExam14April2014Morning\03WineGlass\obj\Debug\03WineGlass.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\01TorrentPirate\bin\Debug\01TorrentPirate.exe.config
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\01TorrentPirate\obj\Debug\01TorrentPirate.csprojResolveAssemblyReference.cache
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\01TorrentPirate\bin\Debug\01TorrentPirate.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\01TorrentPirate\bin\Debug\01TorrentPirate.pdb
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\01TorrentPirate\obj\Debug\01TorrentPirate.exe
+E:\Soft Uni\extra\CSharpProgrammingBasicsExam29March2015Morning\01TorrentPirate\obj\Debug\01TorrentPirate.pdb

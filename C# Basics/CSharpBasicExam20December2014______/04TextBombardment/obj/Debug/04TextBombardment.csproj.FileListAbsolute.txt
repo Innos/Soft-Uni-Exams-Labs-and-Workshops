@@ -1,0 +1,6 @@
+E:\Soft Uni\extra\CSharpBasicExam20December2014\04TextBombardment\bin\Debug\04TextBombardment.exe.config
+E:\Soft Uni\extra\CSharpBasicExam20December2014\04TextBombardment\bin\Debug\04TextBombardment.exe
+E:\Soft Uni\extra\CSharpBasicExam20December2014\04TextBombardment\bin\Debug\04TextBombardment.pdb
+E:\Soft Uni\extra\CSharpBasicExam20December2014\04TextBombardment\obj\Debug\04TextBombardment.exe
+E:\Soft Uni\extra\CSharpBasicExam20December2014\04TextBombardment\obj\Debug\04TextBombardment.pdb
+E:\Soft Uni\extra\CSharpBasicExam20December2014\04TextBombardment\obj\Debug\04TextBombardment.csprojResolveAssemblyReference.cache

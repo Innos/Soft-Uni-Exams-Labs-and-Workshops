@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\17Volleyball\bin\Debug\17Volleyball.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\17Volleyball\bin\Debug\17Volleyball.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\17Volleyball\bin\Debug\17Volleyball.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\17Volleyball\obj\Debug\17Volleyball.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\17Volleyball\obj\Debug\17Volleyball.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\17Volleyball\obj\Debug\17Volleyball.pdb

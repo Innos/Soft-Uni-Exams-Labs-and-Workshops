@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\19TheExplorer\bin\Debug\19TheExplorer.exe.config
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\19TheExplorer\bin\Debug\19TheExplorer.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\19TheExplorer\bin\Debug\19TheExplorer.pdb
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\19TheExplorer\obj\Debug\19TheExplorer.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\19TheExplorer\obj\Debug\19TheExplorer.exe
+E:\Soft Uni\Homework\Lekciq 4\HomeworkOperatorsExpressionsAndStatements\19TheExplorer\obj\Debug\19TheExplorer.pdb
