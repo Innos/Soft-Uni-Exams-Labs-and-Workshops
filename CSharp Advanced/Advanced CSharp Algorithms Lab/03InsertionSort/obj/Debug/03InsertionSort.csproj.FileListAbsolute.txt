@@ -3,3 +3,6 @@ C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\03Inse
 C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\03InsertionSort\bin\Debug\03InsertionSort.pdb
 C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\03InsertionSort\obj\Debug\03InsertionSort.exe
 C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\03InsertionSort\obj\Debug\03InsertionSort.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\03InsertionSort\bin\Debug\03InsertionSort.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\03InsertionSort\obj\Debug\03InsertionSort.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\03InsertionSort\obj\Debug\03InsertionSort.pdb

@@ -4,3 +4,6 @@ C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04Bina
 C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\bin\Debug\04BinarySearch.pdb
 C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\obj\Debug\04BinarySearch.exe
 C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\obj\Debug\04BinarySearch.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\bin\Debug\04BinarySearch.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\obj\Debug\04BinarySearch.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\obj\Debug\04BinarySearch.pdb
