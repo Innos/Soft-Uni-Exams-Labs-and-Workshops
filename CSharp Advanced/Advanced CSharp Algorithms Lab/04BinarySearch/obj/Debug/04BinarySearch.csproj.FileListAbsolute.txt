@@ -1,0 +1,6 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\bin\Debug\04BinarySearch.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\obj\Debug\04BinarySearch.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\bin\Debug\04BinarySearch.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\bin\Debug\04BinarySearch.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\obj\Debug\04BinarySearch.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\04BinarySearch\obj\Debug\04BinarySearch.pdb

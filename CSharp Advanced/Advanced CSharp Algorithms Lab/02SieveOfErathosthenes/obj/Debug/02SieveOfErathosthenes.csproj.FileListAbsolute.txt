@@ -1,0 +1,6 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\02SieveOfErathosthenes\bin\Debug\02SieveOfErathosthenes.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\02SieveOfErathosthenes\bin\Debug\02SieveOfErathosthenes.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\02SieveOfErathosthenes\bin\Debug\02SieveOfErathosthenes.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\02SieveOfErathosthenes\obj\Debug\02SieveOfErathosthenes.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\02SieveOfErathosthenes\obj\Debug\02SieveOfErathosthenes.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\02SieveOfErathosthenes\obj\Debug\02SieveOfErathosthenes.pdb

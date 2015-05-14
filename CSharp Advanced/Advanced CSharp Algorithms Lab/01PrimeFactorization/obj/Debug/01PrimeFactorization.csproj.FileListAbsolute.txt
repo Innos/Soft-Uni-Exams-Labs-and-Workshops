@@ -1,0 +1,6 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\01PrimeFactorization\bin\Debug\01PrimeFactorization.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\01PrimeFactorization\bin\Debug\01PrimeFactorization.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\01PrimeFactorization\bin\Debug\01PrimeFactorization.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\01PrimeFactorization\obj\Debug\01PrimeFactorization.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\01PrimeFactorization\obj\Debug\01PrimeFactorization.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\01PrimeFactorization\obj\Debug\01PrimeFactorization.pdb
