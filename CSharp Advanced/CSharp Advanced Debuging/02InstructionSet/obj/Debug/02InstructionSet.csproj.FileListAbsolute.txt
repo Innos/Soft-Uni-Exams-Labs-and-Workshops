@@ -1,0 +1,12 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\bin\Debug\02InstructionSet.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\bin\Debug\02InstructionSet.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\bin\Debug\02InstructionSet.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\obj\Debug\02InstructionSet.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\obj\Debug\02InstructionSet.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\obj\Debug\02InstructionSet.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\bin\Debug\02InstructionSet.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\obj\Debug\02InstructionSet.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\02InstructionSet\obj\Debug\02InstructionSet.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\02InstructionSet\bin\Debug\02InstructionSet.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\02InstructionSet\obj\Debug\02InstructionSet.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\02InstructionSet\obj\Debug\02InstructionSet.pdb

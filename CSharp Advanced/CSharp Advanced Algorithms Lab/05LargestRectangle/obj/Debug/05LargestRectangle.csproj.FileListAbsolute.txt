@@ -1,0 +1,2 @@
+E:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Algorithms Lab\05LargestRectangle\bin\Debug\05LargestRectangle.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Algorithms Lab\05LargestRectangle\bin\Debug\05LargestRectangle.exe.config
