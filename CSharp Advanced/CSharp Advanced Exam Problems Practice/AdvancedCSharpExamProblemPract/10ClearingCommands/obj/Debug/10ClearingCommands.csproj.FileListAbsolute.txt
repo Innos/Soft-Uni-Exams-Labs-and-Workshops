@@ -1,0 +1,12 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\bin\Debug\10ClearingCommands.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\bin\Debug\10ClearingCommands.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\bin\Debug\10ClearingCommands.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\obj\Debug\10ClearingCommands.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\obj\Debug\10ClearingCommands.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\obj\Debug\10ClearingCommands.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\bin\Debug\10ClearingCommands.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\obj\Debug\10ClearingCommands.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\obj\Debug\10ClearingCommands.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\bin\Debug\10ClearingCommands.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\bin\Debug\10ClearingCommands.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\10ClearingCommands\obj\Debug\10ClearingCommands.csprojResolveAssemblyReference.cache

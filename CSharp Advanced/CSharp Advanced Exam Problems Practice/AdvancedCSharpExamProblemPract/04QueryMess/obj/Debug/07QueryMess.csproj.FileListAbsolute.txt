@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\07QueryMess\bin\Debug\07QueryMess.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\07QueryMess\bin\Debug\07QueryMess.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\07QueryMess\bin\Debug\07QueryMess.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\07QueryMess\obj\Debug\07QueryMess.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\07QueryMess\obj\Debug\07QueryMess.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\07QueryMess\obj\Debug\07QueryMess.pdb

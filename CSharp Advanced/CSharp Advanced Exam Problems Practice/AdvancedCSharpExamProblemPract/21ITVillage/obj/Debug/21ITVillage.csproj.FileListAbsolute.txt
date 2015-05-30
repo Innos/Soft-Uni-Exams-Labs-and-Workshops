@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\21ITVillage\bin\Debug\21ITVillage.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\21ITVillage\bin\Debug\21ITVillage.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\21ITVillage\bin\Debug\21ITVillage.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\21ITVillage\obj\Debug\21ITVillage.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\21ITVillage\obj\Debug\21ITVillage.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\21ITVillage\obj\Debug\21ITVillage.pdb

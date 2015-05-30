@@ -1,0 +1,12 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\bin\Debug\11LittleJohn.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\bin\Debug\11LittleJohn.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\bin\Debug\11LittleJohn.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\obj\Debug\11LittleJohn.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\obj\Debug\11LittleJohn.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\obj\Debug\11LittleJohn.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\bin\Debug\11LittleJohn.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\obj\Debug\11LittleJohn.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\obj\Debug\11LittleJohn.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\bin\Debug\11LittleJohn.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\bin\Debug\11LittleJohn.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\11LittleJohn\obj\Debug\11LittleJohn.csprojResolveAssemblyReference.cache

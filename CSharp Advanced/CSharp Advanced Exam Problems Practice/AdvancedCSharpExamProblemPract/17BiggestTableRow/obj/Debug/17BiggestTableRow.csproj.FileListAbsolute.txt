@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\17BiggestTableRow\bin\Debug\17BiggestTableRow.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\17BiggestTableRow\bin\Debug\17BiggestTableRow.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\17BiggestTableRow\bin\Debug\17BiggestTableRow.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\17BiggestTableRow\obj\Debug\17BiggestTableRow.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\17BiggestTableRow\obj\Debug\17BiggestTableRow.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\17BiggestTableRow\obj\Debug\17BiggestTableRow.pdb

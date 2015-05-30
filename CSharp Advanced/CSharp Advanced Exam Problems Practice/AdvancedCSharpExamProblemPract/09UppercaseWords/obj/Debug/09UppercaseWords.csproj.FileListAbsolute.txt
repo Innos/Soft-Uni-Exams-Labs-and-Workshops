@@ -1,0 +1,9 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\bin\Debug\09UppercaseWords.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\bin\Debug\09UppercaseWords.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\bin\Debug\09UppercaseWords.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\obj\Debug\09UppercaseWords.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\obj\Debug\09UppercaseWords.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\obj\Debug\09UppercaseWords.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\bin\Debug\09UppercaseWords.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\obj\Debug\09UppercaseWords.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\09UppercaseWords\obj\Debug\09UppercaseWords.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\14MatrixShuffle\bin\Debug\14MatrixShuffle.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\14MatrixShuffle\bin\Debug\14MatrixShuffle.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\14MatrixShuffle\bin\Debug\14MatrixShuffle.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\14MatrixShuffle\obj\Debug\14MatrixShuffle.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\14MatrixShuffle\obj\Debug\14MatrixShuffle.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\14MatrixShuffle\obj\Debug\14MatrixShuffle.pdb

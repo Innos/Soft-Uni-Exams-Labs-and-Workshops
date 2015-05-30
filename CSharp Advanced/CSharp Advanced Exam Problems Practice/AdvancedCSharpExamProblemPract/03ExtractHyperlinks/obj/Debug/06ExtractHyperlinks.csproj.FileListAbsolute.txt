@@ -1,0 +1,12 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\06ExtractHyperlinks\bin\Debug\06ExtractHyperlinks.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\06ExtractHyperlinks\obj\Debug\06ExtractHyperlinks.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\07VladkosNotebook\bin\Debug\07VladkosNotebook.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\07VladkosNotebook\bin\Debug\07VladkosNotebook.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\07VladkosNotebook\bin\Debug\07VladkosNotebook.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\07VladkosNotebook\obj\Debug\07VladkosNotebook.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\07VladkosNotebook\obj\Debug\07VladkosNotebook.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\07VladkosNotebook\obj\Debug\07VladkosNotebook.csprojResolveAssemblyReference.cache

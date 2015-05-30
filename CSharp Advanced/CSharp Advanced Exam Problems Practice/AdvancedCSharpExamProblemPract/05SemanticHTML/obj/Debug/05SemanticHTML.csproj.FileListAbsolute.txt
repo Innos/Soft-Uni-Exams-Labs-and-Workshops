@@ -1,0 +1,12 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\bin\Debug\05SemanticHTML.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\bin\Debug\05SemanticHTML.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\bin\Debug\05SemanticHTML.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\obj\Debug\05SemanticHTML.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\obj\Debug\05SemanticHTML.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\obj\Debug\05SemanticHTML.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\bin\Debug\05SemanticHTML.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\bin\Debug\05SemanticHTML.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\bin\Debug\05SemanticHTML.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\obj\Debug\05SemanticHTML.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\obj\Debug\05SemanticHTML.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\05SemanticHTML\obj\Debug\05SemanticHTML.pdb

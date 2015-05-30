@@ -1,0 +1,6 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\bin\Debug\05Substring.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\bin\Debug\05Substring.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\bin\Debug\05Substring.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\obj\Debug\05Substring.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\obj\Debug\05Substring.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\obj\Debug\05Substring.pdb

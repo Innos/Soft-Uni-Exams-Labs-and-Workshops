@@ -1,0 +1,12 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\bin\Debug\06X-Removal.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\bin\Debug\06X-Removal.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\bin\Debug\06X-Removal.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\obj\Debug\06X-Removal.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\obj\Debug\06X-Removal.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Advanced CSharp Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\obj\Debug\06X-Removal.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\bin\Debug\06X-Removal.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\bin\Debug\06X-Removal.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\bin\Debug\06X-Removal.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\obj\Debug\06X-Removal.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\obj\Debug\06X-Removal.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam Problems Practice\AdvancedCSharpExamProblemPract\06X-Removal\obj\Debug\06X-Removal.pdb
