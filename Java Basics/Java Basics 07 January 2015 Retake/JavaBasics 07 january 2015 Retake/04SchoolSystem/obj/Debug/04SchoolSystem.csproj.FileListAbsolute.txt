@@ -1,0 +1,7 @@
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\04SchoolSystem\bin\Debug\04SchoolSystem.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\04SchoolSystem\bin\Debug\04SchoolSystem.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\04SchoolSystem\bin\Debug\04SchoolSystem.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\04SchoolSystem\bin\Debug\04SchoolSystem.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\04SchoolSystem\obj\Debug\04SchoolSystem.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\04SchoolSystem\obj\Debug\04SchoolSystem.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\04SchoolSystem\obj\Debug\04SchoolSystem.pdb

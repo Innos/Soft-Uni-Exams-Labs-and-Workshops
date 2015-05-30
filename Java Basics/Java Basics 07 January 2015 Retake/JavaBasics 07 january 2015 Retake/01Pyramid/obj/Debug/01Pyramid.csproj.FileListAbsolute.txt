@@ -1,0 +1,12 @@
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015\JavaBasics 07 january 2015\01Pyramid\bin\Debug\01Pyramid.exe.config
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015\JavaBasics 07 january 2015\01Pyramid\bin\Debug\01Pyramid.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015\JavaBasics 07 january 2015\01Pyramid\bin\Debug\01Pyramid.pdb
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015\JavaBasics 07 january 2015\01Pyramid\obj\Debug\01Pyramid.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015\JavaBasics 07 january 2015\01Pyramid\obj\Debug\01Pyramid.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015\JavaBasics 07 january 2015\01Pyramid\obj\Debug\01Pyramid.pdb
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\01Pyramid\bin\Debug\01Pyramid.exe.config
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\01Pyramid\obj\Debug\01Pyramid.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\01Pyramid\obj\Debug\01Pyramid.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\01Pyramid\bin\Debug\01Pyramid.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\01Pyramid\obj\Debug\01Pyramid.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\01Pyramid\obj\Debug\01Pyramid.pdb

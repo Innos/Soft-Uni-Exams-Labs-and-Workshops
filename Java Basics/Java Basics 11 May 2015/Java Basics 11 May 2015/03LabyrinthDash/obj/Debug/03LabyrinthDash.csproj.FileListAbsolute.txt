@@ -1,0 +1,6 @@
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 11 May 2015\Java Basics 11 May 2015\03LabyrinthDash\bin\Debug\03LabyrinthDash.exe.config
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 11 May 2015\Java Basics 11 May 2015\03LabyrinthDash\obj\Debug\03LabyrinthDash.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 11 May 2015\Java Basics 11 May 2015\03LabyrinthDash\bin\Debug\03LabyrinthDash.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 11 May 2015\Java Basics 11 May 2015\03LabyrinthDash\bin\Debug\03LabyrinthDash.pdb
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 11 May 2015\Java Basics 11 May 2015\03LabyrinthDash\obj\Debug\03LabyrinthDash.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 11 May 2015\Java Basics 11 May 2015\03LabyrinthDash\obj\Debug\03LabyrinthDash.pdb

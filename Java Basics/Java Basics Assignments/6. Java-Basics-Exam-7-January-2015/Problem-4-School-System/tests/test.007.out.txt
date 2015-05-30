@@ -1,0 +1,3 @@
+﻿Angel Angelov: [algebra - 4.00, history - 4.50, math - 4.00]
+Ivan Ivanov: [algebra - 5.50, history - 4.00]
+Todor Todorov: [algebra - 3.00, history - 5.00]
