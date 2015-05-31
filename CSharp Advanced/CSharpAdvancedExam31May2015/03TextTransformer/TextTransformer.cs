@@ -17,7 +17,7 @@ class TextTransformer
             sb.Append(input);
         }
         string text = sb.ToString();
-        string pattern = @"(?:\$(?<result>[^\$\%\&\']+?)\$|\%(?<result>[^\$\%\&\']+?)\%|\&(?<result>[^\$\%\&\']+?)\&|\'(?<result>[^\$\%\&\']+?)\')";
+        string pattern = @"(?:\$(?<result>[^$%&']+?)\$|%(?<result>[^$%&']+?)%|&(?<result>[^$%&']+?)&|'(?<result>[^$%&']+?)')";
         text = Regex.Replace(text, @"\n", "");
         text = Regex.Replace(text,@"\s+"," ");
         MatchCollection matches = Regex.Matches(text, pattern);

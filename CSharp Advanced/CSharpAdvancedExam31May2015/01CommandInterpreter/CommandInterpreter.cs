@@ -11,91 +11,10 @@ class CommandInterpreter
     {
         StringBuilder sb = new StringBuilder();
         string input = Console.ReadLine();
-        List<string> collection = collection = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+        List<string> collection = input.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
         while ((input = Console.ReadLine()) != "end")
         {
-            int start;
-            int count;
-            string tempString;
-            List<string> temp = new List<string>();
-            string[] commands = input.Split();
-            switch (commands[0])
-            {
-                case "reverse":
-                    start = int.Parse(commands[2]);
-                    count = int.Parse(commands[4]);
-                    if (IsValidOrder(collection, start, count))
-                    {
-                        for (int i = start; i < start + count; i++)
-                        {
-                            temp.Add(collection[i]);
-                        }
-                        temp.Reverse();
-                        collection.RemoveRange(start, count);
-                        collection.InsertRange(start, temp);
-                    }
-                    else
-                    {
-                        sb.AppendLine("Invalid input parameters.");
-                    }
-                    break;
-                case "sort":
-                    start = int.Parse(commands[2]);
-                    count = int.Parse(commands[4]);
-                    if (IsValidOrder(collection, start, count))
-                    {
-                        for (int i = start; i < start + count; i++)
-                        {
-                            temp.Add(collection[i]);
-                        }
-                        temp.Sort();
-                        collection.RemoveRange(start, count);
-                        collection.InsertRange(start, temp);
-                    }
-                    else
-                    {
-                        sb.AppendLine("Invalid input parameters.");
-                    }
-                    break;
-                case "rollLeft":
-                    count = int.Parse(commands[1]);
-                    if (IsValidRoll(collection, count))
-                    {
-                        for (int i = 0; i < (count%collection.Count); i++)
-                        {
-                            tempString = collection[0];
-                            for (int l = 0; l < collection.Count - 1; l++)
-                            {
-                                collection[l] = collection[l + 1];
-                            }
-                            collection[collection.Count - 1] = tempString;
-                        }
-                    }
-                    else
-                    {
-                        sb.AppendLine("Invalid input parameters.");
-                    }
-                    break;
-                case "rollRight":
-                    count = int.Parse(commands[1]);
-                    if (IsValidRoll(collection, count))
-                    {
-                        for (int i = 0; i < (count % collection.Count); i++)
-                        {
-                            tempString = collection.Last();
-                            for (int l = collection.Count - 1; l > 0; l--)
-                            {
-                                collection[l] = collection[l - 1];
-                            }
-                            collection[0] = tempString;
-                        }
-                    }
-                    else
-                    {
-                        sb.AppendLine("Invalid input parameters.");
-                    }
-                    break;
-            }
+            sb.Append(ReadCommands(collection,input)); 
         }
         Console.Write(sb.ToString());
         Console.WriteLine("[{0}]", String.Join(", ", collection));
@@ -110,13 +29,93 @@ class CommandInterpreter
         }
         return true;
     }
-    static bool IsValidRoll(List<string> collection, int count)
+    static StringBuilder ReadCommands(List<string> collection ,string input)
     {
-        if (count < 0)
+        StringBuilder sb = new StringBuilder();
+        int start;
+        int count;
+        string tempString;
+        List<string> temp = new List<string>();
+        string[] commands = input.Split();
+
+        switch (commands[0])
         {
-            return false;
+            case "reverse":
+                start = int.Parse(commands[2]);
+                count = int.Parse(commands[4]);
+                if (IsValidOrder(collection, start, count))
+                {
+                    for (int i = start; i < start + count; i++)
+                    {
+                        temp.Add(collection[i]);
+                    }
+                    temp.Reverse();
+                    collection.RemoveRange(start, count);
+                    collection.InsertRange(start, temp);
+                }
+                else
+                {
+                    sb.AppendLine("Invalid input parameters.");
+                }
+                break;
+            case "sort":
+                start = int.Parse(commands[2]);
+                count = int.Parse(commands[4]);
+                if (IsValidOrder(collection, start, count))
+                {
+                    for (int i = start; i < start + count; i++)
+                    {
+                        temp.Add(collection[i]);
+                    }
+                    temp.Sort();
+                    collection.RemoveRange(start, count);
+                    collection.InsertRange(start, temp);
+                }
+                else
+                {
+                    sb.AppendLine("Invalid input parameters.");
+                }
+                break;
+            case "rollLeft":
+                count = int.Parse(commands[1]);
+                if (count >= 0)
+                {
+                    for (int i = 0; i < (count % collection.Count); i++)
+                    {
+                        tempString = collection[0];
+                        for (int l = 0; l < collection.Count - 1; l++)
+                        {
+                            collection[l] = collection[l + 1];
+                        }
+                        collection[collection.Count - 1] = tempString;
+                    }
+                }
+                else
+                {
+                    sb.AppendLine("Invalid input parameters.");
+                }
+                break;
+            case "rollRight":
+                count = int.Parse(commands[1]);
+                if (count >= 0)
+                {
+                    for (int i = 0; i < (count % collection.Count); i++)
+                    {
+                        tempString = collection.Last();
+                        for (int l = collection.Count - 1; l > 0; l--)
+                        {
+                            collection[l] = collection[l - 1];
+                        }
+                        collection[0] = tempString;
+                    }
+                }
+                else
+                {
+                    sb.AppendLine("Invalid input parameters.");
+                }
+                break;
         }
-        return true;
+        return sb;
     }
 }
 

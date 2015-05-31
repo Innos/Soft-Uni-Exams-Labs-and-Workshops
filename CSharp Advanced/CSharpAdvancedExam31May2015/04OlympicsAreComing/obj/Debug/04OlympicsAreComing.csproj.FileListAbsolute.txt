@@ -4,3 +4,6 @@ C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSha
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\04\obj\Debug\04OlympicsAreComing.csprojResolveAssemblyReference.cache
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\04\obj\Debug\04.exe
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\04\obj\Debug\04.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharpAdvancedExam31May2015\04OlympicsAreComing\bin\Debug\04.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharpAdvancedExam31May2015\04OlympicsAreComing\obj\Debug\04.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharpAdvancedExam31May2015\04OlympicsAreComing\obj\Debug\04.pdb

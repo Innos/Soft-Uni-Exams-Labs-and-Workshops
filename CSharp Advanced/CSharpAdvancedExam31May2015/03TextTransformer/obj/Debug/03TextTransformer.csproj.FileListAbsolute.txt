@@ -4,3 +4,6 @@ C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSha
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\ConsoleApplication1\obj\Debug\03TextTransformer.csprojResolveAssemblyReference.cache
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharpAdvancedExam31May2015\03TextTransformer\bin\Debug\ConsoleApplication1.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharpAdvancedExam31May2015\03TextTransformer\obj\Debug\ConsoleApplication1.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharpAdvancedExam31May2015\03TextTransformer\obj\Debug\ConsoleApplication1.pdb
