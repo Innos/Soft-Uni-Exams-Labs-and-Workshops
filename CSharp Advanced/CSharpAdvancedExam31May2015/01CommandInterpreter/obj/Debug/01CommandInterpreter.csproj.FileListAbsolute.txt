@@ -1,0 +1,9 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01\bin\Debug\01.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01\bin\Debug\01.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01\bin\Debug\01.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01\obj\Debug\01CommandInterpreter.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01\obj\Debug\01.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01\obj\Debug\01.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01CommandInterpreter\bin\Debug\01.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01CommandInterpreter\obj\Debug\01.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Exam 31 May 2015\CSharpAdvancedExam31May2015\01CommandInterpreter\obj\Debug\01.pdb
