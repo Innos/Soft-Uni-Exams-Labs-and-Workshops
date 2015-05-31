@@ -1,6 +1,0 @@
-C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 26 May 2015\Java Basics 26 May 2015\04CoupleFrequency\bin\Debug\04CoupleFrequency.exe.config
-C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 26 May 2015\Java Basics 26 May 2015\04CoupleFrequency\bin\Debug\04CoupleFrequency.exe
-C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 26 May 2015\Java Basics 26 May 2015\04CoupleFrequency\bin\Debug\04CoupleFrequency.pdb
-C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 26 May 2015\Java Basics 26 May 2015\04CoupleFrequency\obj\Debug\04CoupleFrequency.csprojResolveAssemblyReference.cache
-C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 26 May 2015\Java Basics 26 May 2015\04CoupleFrequency\obj\Debug\04CoupleFrequency.exe
-C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 26 May 2015\Java Basics 26 May 2015\04CoupleFrequency\obj\Debug\04CoupleFrequency.pdb

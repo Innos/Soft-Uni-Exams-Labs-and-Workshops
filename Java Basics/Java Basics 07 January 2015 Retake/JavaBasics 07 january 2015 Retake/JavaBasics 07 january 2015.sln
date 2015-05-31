@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Pyramid", "01Pyramid\01Py
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04SchoolSystem", "04SchoolSystem\04SchoolSystem.csproj", "{50570545-66A2-42B5-9F28-E21519A8D31C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TerroristsWin!", "02TerroristsWin!\02TerroristsWin!.csproj", "{1BBAEB7E-CCAF-43B7-BA72-BE3286C76ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03FireTheArrows", "03FireTheArrows\03FireTheArrows.csproj", "{824537F4-3B24-40E3-90F7-701E71A010FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{50570545-66A2-42B5-9F28-E21519A8D31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50570545-66A2-42B5-9F28-E21519A8D31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50570545-66A2-42B5-9F28-E21519A8D31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBAEB7E-CCAF-43B7-BA72-BE3286C76ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBAEB7E-CCAF-43B7-BA72-BE3286C76ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBAEB7E-CCAF-43B7-BA72-BE3286C76ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBAEB7E-CCAF-43B7-BA72-BE3286C76ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824537F4-3B24-40E3-90F7-701E71A010FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824537F4-3B24-40E3-90F7-701E71A010FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824537F4-3B24-40E3-90F7-701E71A010FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824537F4-3B24-40E3-90F7-701E71A010FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\02PossibleTriangles\bin\Debug\02PossibleTriangles.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\02PossibleTriangles\bin\Debug\02PossibleTriangles.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\02PossibleTriangles\bin\Debug\02PossibleTriangles.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\02PossibleTriangles\obj\Debug\02PossibleTriangles.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\02PossibleTriangles\obj\Debug\02PossibleTriangles.pdb

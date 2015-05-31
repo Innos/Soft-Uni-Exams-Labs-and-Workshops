@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\01MirrorNumbers\bin\Debug\01MirrorNumbers.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\01MirrorNumbers\bin\Debug\01MirrorNumbers.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\01MirrorNumbers\bin\Debug\01MirrorNumbers.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\01MirrorNumbers\obj\Debug\01MirrorNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\01MirrorNumbers\obj\Debug\01MirrorNumbers.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Evening\JavaBasics21September2014Evening\01MirrorNumbers\obj\Debug\01MirrorNumbers.pdb

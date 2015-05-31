@@ -1,0 +1,5 @@
+brisko: almonds-240kg, cashews-15kg
+cisko: cashews-300kg, hazlenuts-120kg
+drisko: wallnuts-400kg, almods-165kg
+grisko: crazynuts-800kg, nadrusnuts-66kg
+krisko: studentnuts-666kg, nadrusnuts-1200kg

@@ -1,0 +1,21 @@
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\01CountBeers\bin\Debug\01CountBeers.exe.config
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\01CountBeers\bin\Debug\01CountBeers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\01CountBeers\bin\Debug\01CountBeers.pdb
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\01CountBeers\obj\Debug\01CountBeers.csprojResolveAssemblyReference.cache
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\01CountBeers\obj\Debug\01CountBeers.exe
+c:\users\innos2\documents\visual studio 2013\Projects\Lab 2014 December\01CountBeers\obj\Debug\01CountBeers.pdb
+E:\Soft Uni\Homework\Lab 2014 December\01CountBeers\bin\Debug\01CountBeers.exe.config
+E:\Soft Uni\Homework\Lab 2014 December\01CountBeers\obj\Debug\01CountBeers.exe
+E:\Soft Uni\Homework\Lab 2014 December\01CountBeers\obj\Debug\01CountBeers.pdb
+E:\Soft Uni\extra\Lab 2014 December\01CountBeers\bin\Debug\01CountBeers.exe.config
+E:\Soft Uni\extra\Lab 2014 December\01CountBeers\obj\Debug\01CountBeers.exe
+E:\Soft Uni\extra\Lab 2014 December\01CountBeers\obj\Debug\01CountBeers.pdb
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab\01CountBeers\bin\Debug\01CountBeers.exe.config
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab\01CountBeers\obj\Debug\01CountBeers.exe
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab\01CountBeers\obj\Debug\01CountBeers.pdb
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab____\01CountBeers\bin\Debug\01CountBeers.exe.config
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab____\01CountBeers\obj\Debug\01CountBeers.exe
+E:\Soft Uni\extra\CSharpBasicDecember2014Lab____\01CountBeers\obj\Debug\01CountBeers.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 27 May 2014\JavaBasics27May2014\01CountBeers\bin\Debug\01CountBeers.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 27 May 2014\JavaBasics27May2014\01CountBeers\obj\Debug\01CountBeers.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 27 May 2014\JavaBasics27May2014\01CountBeers\obj\Debug\01CountBeers.pdb

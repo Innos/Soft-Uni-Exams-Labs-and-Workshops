@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\09TerroristsWin!\bin\Debug\09TerroristsWin!.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\09TerroristsWin!\bin\Debug\09TerroristsWin!.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\09TerroristsWin!\bin\Debug\09TerroristsWin!.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\09TerroristsWin!\obj\Debug\09TerroristsWin!.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\09TerroristsWin!\obj\Debug\09TerroristsWin!.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\03Homework MultiArrays, Sets,Dictionaries\Homework MArrays,Sets,Dicts\09TerroristsWin!\obj\Debug\09TerroristsWin!.pdb

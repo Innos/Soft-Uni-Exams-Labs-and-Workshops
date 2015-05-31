@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\07LettersChangeNumbers\bin\Debug\07LettersChangeNumbers.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\07LettersChangeNumbers\bin\Debug\07LettersChangeNumbers.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\07LettersChangeNumbers\bin\Debug\07LettersChangeNumbers.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\07LettersChangeNumbers\obj\Debug\07LettersChangeNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\07LettersChangeNumbers\obj\Debug\07LettersChangeNumbers.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\04Homework Strings and Text Processing\HomeworkStrAndTextProcessing\07LettersChangeNumbers\obj\Debug\07LettersChangeNumbers.pdb

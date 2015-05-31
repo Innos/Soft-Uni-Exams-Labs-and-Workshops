@@ -1,0 +1,6 @@
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\17OfficeStuff\bin\Debug\17OfficeStuff.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\17OfficeStuff\bin\Debug\17OfficeStuff.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\17OfficeStuff\bin\Debug\17OfficeStuff.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\17OfficeStuff\obj\Debug\17OfficeStuff.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\17OfficeStuff\obj\Debug\17OfficeStuff.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\07Homework Functional Programming\HomeworkFunctionalProgramming\17OfficeStuff\obj\Debug\17OfficeStuff.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\04UserLogs\bin\Debug\04UserLogs.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\04UserLogs\bin\Debug\04UserLogs.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\04UserLogs\bin\Debug\04UserLogs.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\04UserLogs\obj\Debug\04UserLogs.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\04UserLogs\obj\Debug\04UserLogs.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\04UserLogs\obj\Debug\04UserLogs.pdb

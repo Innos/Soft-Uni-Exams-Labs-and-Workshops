@@ -1,0 +1,6 @@
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\03FireTheArrows\bin\Debug\03FireTheArrows.exe.config
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\03FireTheArrows\bin\Debug\03FireTheArrows.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\03FireTheArrows\bin\Debug\03FireTheArrows.pdb
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\03FireTheArrows\obj\Debug\03FireTheArrows.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\03FireTheArrows\obj\Debug\03FireTheArrows.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\03FireTheArrows\obj\Debug\03FireTheArrows.pdb

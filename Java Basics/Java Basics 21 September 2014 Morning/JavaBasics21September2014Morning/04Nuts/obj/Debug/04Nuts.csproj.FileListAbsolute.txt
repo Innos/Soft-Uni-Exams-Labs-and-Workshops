@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\04Nuts\bin\Debug\04Nuts.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\04Nuts\bin\Debug\04Nuts.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\04Nuts\bin\Debug\04Nuts.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\04Nuts\obj\Debug\04Nuts.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\04Nuts\obj\Debug\04Nuts.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\04Nuts\obj\Debug\04Nuts.pdb

@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\02MagicSum\bin\Debug\02MagicSum.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\02MagicSum\bin\Debug\02MagicSum.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\02MagicSum\bin\Debug\02MagicSum.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\02MagicSum\obj\Debug\02MagicSum.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\02MagicSum\obj\Debug\02MagicSum.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\02MagicSum\obj\Debug\02MagicSum.pdb

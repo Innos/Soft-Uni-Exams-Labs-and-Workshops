@@ -1,0 +1,12 @@
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.exe.config
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.pdb
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.csprojResolveAssemblyReference.cache
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.exe
+E:\Soft Uni\C#Advanced\Homework\Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\bin\Debug\10PythagoreanNumbers.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\01Homework Arrays Lists Stacks Queues\Homework-ArraysListsStacksQueues\10PythagoreanNumbers\obj\Debug\10PythagoreanNumbers.csprojResolveAssemblyReference.cache

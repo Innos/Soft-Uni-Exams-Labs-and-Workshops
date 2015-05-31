@@ -1,0 +1,9 @@
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\05ValidUsername\bin\Debug\05ValidUsername.exe.config
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\05ValidUsername\bin\Debug\05ValidUsername.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\05ValidUsername\bin\Debug\05ValidUsername.pdb
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\05ValidUsername\obj\Debug\05ValidUsername.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\05ValidUsername\obj\Debug\05ValidUsername.exe
+C:\Soft Uni\Exams and Labs\CSharp Advanced\Regex\05ValidUsername\obj\Debug\05ValidUsername.pdb
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\05ValidUsername\bin\Debug\05ValidUsername.exe.config
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\05ValidUsername\obj\Debug\05ValidUsername.exe
+E:\Soft Uni\Homework\CSharp Advanced Homework\05Homework Regular Expressions\HomeworkRegularExpressions\05ValidUsername\obj\Debug\05ValidUsername.pdb

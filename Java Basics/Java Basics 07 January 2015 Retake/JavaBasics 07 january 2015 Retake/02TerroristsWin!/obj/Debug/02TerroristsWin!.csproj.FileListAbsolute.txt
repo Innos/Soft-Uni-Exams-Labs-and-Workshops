@@ -1,0 +1,3 @@
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\02TerroristsWin!\bin\Debug\09TerroristsWin!.exe.config
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\02TerroristsWin!\obj\Debug\09TerroristsWin!.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 07 January 2015 Retake\JavaBasics 07 january 2015 Retake\02TerroristsWin!\obj\Debug\09TerroristsWin!.pdb

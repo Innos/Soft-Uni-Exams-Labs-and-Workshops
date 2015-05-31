@@ -1,0 +1,9 @@
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\03WeirdStrings\bin\Debug\03WeirdStrings.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\03WeirdStrings\obj\Debug\03WeirdStrings.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\03WeirdStrings\bin\Debug\03WeirdStrings.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\03WeirdStrings\bin\Debug\03WeirdStrings.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\03WeirdStrings\obj\Debug\03WeirdStrings.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2015 Morning\JavaBasics21September2014Morning\03WeirdStrings\obj\Debug\03WeirdStrings.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\03WeirdStrings\bin\Debug\03WeirdStrings.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\03WeirdStrings\obj\Debug\03WeirdStrings.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 21 September 2014 Morning\JavaBasics21September2014Morning\03WeirdStrings\obj\Debug\03WeirdStrings.pdb

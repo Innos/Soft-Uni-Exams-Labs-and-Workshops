@@ -1,0 +1,3 @@
+EatYourNuts: almonds-30kg, brazilnuts-15kg
+KingNuts: almonds-250kg
+Rois: cashews-14kg, wallnuts-28kg

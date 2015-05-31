@@ -1,1 +1,12 @@
 C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\bin\Debug\01Gandalf'sStash.exe.config
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\bin\Debug\01Gandalf'sStash.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\bin\Debug\01Gandalf'sStash.pdb
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\obj\Debug\01Gandalf'sStash.csprojResolveAssemblyReference.cache
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\obj\Debug\01Gandalf'sStash.exe
+C:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\obj\Debug\01Gandalf'sStash.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\bin\Debug\01Gandalf'sStash.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\obj\Debug\01Gandalf'sStash.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\obj\Debug\01Gandalf'sStash.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\bin\Debug\01Gandalf'sStash.exe
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\bin\Debug\01Gandalf'sStash.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\Java Basics 8 February 2015\JavaBasics8February2015\01Gandalf'sStash\obj\Debug\01Gandalf'sStash.csprojResolveAssemblyReference.cache
