@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01CommandInterpreter", "01\01CommandInterpreter.csproj", "{3DE16DBE-F96A-4E5B-849B-7E2CE1EB77FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01CommandInterpreter", "01CommandInterpreter\01CommandInterpreter.csproj", "{3DE16DBE-F96A-4E5B-849B-7E2CE1EB77FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TargetPractice", "02\02TargetPractice.csproj", "{93F43A03-4424-4387-AC69-D8DF7AC299CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02TargetPractice", "02TargetPractice\02TargetPractice.csproj", "{93F43A03-4424-4387-AC69-D8DF7AC299CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TextTransformer", "ConsoleApplication1\03TextTransformer.csproj", "{A80DF91A-801E-4EEA-B090-25D2868A1A76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TextTransformer", "03TextTransformer\03TextTransformer.csproj", "{A80DF91A-801E-4EEA-B090-25D2868A1A76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04OlympicsAreComing", "04\04OlympicsAreComing.csproj", "{CE9C8A97-BF63-4854-9D1A-C36D8A29351D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04OlympicsAreComing", "04OlympicsAreComing\04OlympicsAreComing.csproj", "{CE9C8A97-BF63-4854-9D1A-C36D8A29351D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
