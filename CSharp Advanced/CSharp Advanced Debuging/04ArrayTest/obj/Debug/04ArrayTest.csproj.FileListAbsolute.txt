@@ -4,3 +4,6 @@ C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advan
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\04ArrayTest\bin\Debug\04ArrayTest.pdb
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\04ArrayTest\obj\Debug\04ArrayTest.exe
 C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\04ArrayTest\obj\Debug\04ArrayTest.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\04ArrayTest\bin\Debug\04ArrayTest.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\04ArrayTest\obj\Debug\04ArrayTest.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\04ArrayTest\obj\Debug\04ArrayTest.pdb

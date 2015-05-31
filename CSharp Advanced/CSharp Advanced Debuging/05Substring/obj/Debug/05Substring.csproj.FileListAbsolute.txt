@@ -7,3 +7,6 @@ C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advan
 E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\bin\Debug\05Substring.exe.config
 E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\obj\Debug\05Substring.exe
 E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\05Substring\obj\Debug\05Substring.pdb
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\05Substring\bin\Debug\05Substring.exe.config
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\05Substring\obj\Debug\05Substring.exe
+E:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\05Substring\obj\Debug\05Substring.pdb

@@ -1,6 +1,0 @@
-C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\03BePositive\bin\Debug\03BePositive.exe.config
-C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\03BePositive\bin\Debug\03BePositive.exe
-C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\03BePositive\bin\Debug\03BePositive.pdb
-C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\03BePositive\obj\Debug\03BePositive.exe
-C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\03BePositive\obj\Debug\03BePositive.pdb
-C:\Soft Uni\Exams and Labs\CSharp Advanced\CSharp Advanced Debuging\CSharp Advanced Debuging\03BePositive\obj\Debug\03BePositive.csprojResolveAssemblyReference.cache
