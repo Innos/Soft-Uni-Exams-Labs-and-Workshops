@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Logger", "01Logger\01Logger.csproj", "{FBE667F4-7B0B-4E78-8C82-80DF5ECA6AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02LogTest", "02LogTest\02LogTest.csproj", "{6903817F-C0DC-4ECC-BCA9-301B324313C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE667F4-7B0B-4E78-8C82-80DF5ECA6AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE667F4-7B0B-4E78-8C82-80DF5ECA6AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE667F4-7B0B-4E78-8C82-80DF5ECA6AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE667F4-7B0B-4E78-8C82-80DF5ECA6AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6903817F-C0DC-4ECC-BCA9-301B324313C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6903817F-C0DC-4ECC-BCA9-301B324313C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6903817F-C0DC-4ECC-BCA9-301B324313C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6903817F-C0DC-4ECC-BCA9-301B324313C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
