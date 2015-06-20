@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams, Labs and Workshops\CSharp Advanced\Workshop WebCrawler\01WebCrawler\bin\Debug\01WebCaller.exe.config
+E:\Soft Uni\Exams, Labs and Workshops\CSharp Advanced\Workshop WebCrawler\01WebCrawler\bin\Debug\01WebCaller.exe
+E:\Soft Uni\Exams, Labs and Workshops\CSharp Advanced\Workshop WebCrawler\01WebCrawler\bin\Debug\01WebCaller.pdb
+E:\Soft Uni\Exams, Labs and Workshops\CSharp Advanced\Workshop WebCrawler\01WebCrawler\obj\Debug\01WebCrawler.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams, Labs and Workshops\CSharp Advanced\Workshop WebCrawler\01WebCrawler\obj\Debug\01WebCaller.exe
+E:\Soft Uni\Exams, Labs and Workshops\CSharp Advanced\Workshop WebCrawler\01WebCrawler\obj\Debug\01WebCaller.pdb
