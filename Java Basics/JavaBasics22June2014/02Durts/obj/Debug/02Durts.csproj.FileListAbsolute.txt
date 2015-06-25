@@ -1,0 +1,5 @@
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\02Durts\bin\Debug\02Durts.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\02Durts\bin\Debug\02Durts.exe
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\02Durts\bin\Debug\02Durts.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\02Durts\obj\Debug\02Durts.exe
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\02Durts\obj\Debug\02Durts.pdb

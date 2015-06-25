@@ -1,0 +1,5 @@
+left down
+up left
+left down
+down left
+stop

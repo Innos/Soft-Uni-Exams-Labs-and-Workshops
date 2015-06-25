@@ -1,0 +1,6 @@
+C:\Users\cholakov\Desktop\Exam\BitBuilder\bin\Debug\BitBuilder.exe.config
+C:\Users\cholakov\Desktop\Exam\BitBuilder\bin\Debug\BitBuilder.exe
+C:\Users\cholakov\Desktop\Exam\BitBuilder\bin\Debug\BitBuilder.pdb
+C:\Users\cholakov\Desktop\Exam\BitBuilder\obj\Debug\BitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\cholakov\Desktop\Exam\BitBuilder\obj\Debug\BitBuilder.exe
+C:\Users\cholakov\Desktop\Exam\BitBuilder\obj\Debug\BitBuilder.pdb

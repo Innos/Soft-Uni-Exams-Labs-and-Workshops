@@ -1,0 +1,5 @@
+C:\Users\cholakov\Desktop\Exam\BookOrders\bin\Debug\BookOrders.exe.config
+C:\Users\cholakov\Desktop\Exam\BookOrders\bin\Debug\BookOrders.exe
+C:\Users\cholakov\Desktop\Exam\BookOrders\bin\Debug\BookOrders.pdb
+C:\Users\cholakov\Desktop\Exam\BookOrders\obj\Debug\BookOrders.exe
+C:\Users\cholakov\Desktop\Exam\BookOrders\obj\Debug\BookOrders.pdb

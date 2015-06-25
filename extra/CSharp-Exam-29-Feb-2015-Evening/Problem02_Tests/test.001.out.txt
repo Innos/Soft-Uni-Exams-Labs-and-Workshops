@@ -1,0 +1,1 @@
+Money left = 0.00 leva.

@@ -1,0 +1,5 @@
+C:\Users\cholakov\Desktop\Exam\RockLq\bin\Debug\RockLq.exe.config
+C:\Users\cholakov\Desktop\Exam\RockLq\bin\Debug\RockLq.exe
+C:\Users\cholakov\Desktop\Exam\RockLq\bin\Debug\RockLq.pdb
+C:\Users\cholakov\Desktop\Exam\RockLq\obj\Debug\RockLq.exe
+C:\Users\cholakov\Desktop\Exam\RockLq\obj\Debug\RockLq.pdb

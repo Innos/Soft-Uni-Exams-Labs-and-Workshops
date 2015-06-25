@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\01CognateWords\bin\Debug\01CognateWords.exe.config
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\01CognateWords\bin\Debug\01CognateWords.exe
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\01CognateWords\bin\Debug\01CognateWords.pdb
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\01CognateWords\obj\Debug\01CognateWords.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\01CognateWords\obj\Debug\01CognateWords.exe
+E:\Soft Uni\Exams and Labs\Java Basics\JavaBasics22June2014\01CognateWords\obj\Debug\01CognateWords.pdb

@@ -1,0 +1,6 @@
+C:\Users\cholakov\Desktop\Exam\DoubleDowns\bin\Debug\DoubleDowns.exe.config
+C:\Users\cholakov\Desktop\Exam\DoubleDowns\bin\Debug\DoubleDowns.exe
+C:\Users\cholakov\Desktop\Exam\DoubleDowns\bin\Debug\DoubleDowns.pdb
+C:\Users\cholakov\Desktop\Exam\DoubleDowns\obj\Debug\DoubleDowns.csprojResolveAssemblyReference.cache
+C:\Users\cholakov\Desktop\Exam\DoubleDowns\obj\Debug\DoubleDowns.exe
+C:\Users\cholakov\Desktop\Exam\DoubleDowns\obj\Debug\DoubleDowns.pdb

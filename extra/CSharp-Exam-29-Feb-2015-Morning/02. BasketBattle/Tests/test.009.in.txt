@@ -1,0 +1,14 @@
+Nakov
+3
+150
+success
+200
+success
+150
+success
+199
+success
+100
+fail
+300
+fail

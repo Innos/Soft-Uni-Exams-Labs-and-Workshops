@@ -1,0 +1,5 @@
+C:\Users\cholakov\Desktop\Exam\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\cholakov\Desktop\Exam\Gambling\bin\Debug\Gambling.exe
+C:\Users\cholakov\Desktop\Exam\Gambling\bin\Debug\Gambling.pdb
+C:\Users\cholakov\Desktop\Exam\Gambling\obj\Debug\Gambling.exe
+C:\Users\cholakov\Desktop\Exam\Gambling\obj\Debug\Gambling.pdb

@@ -1,0 +1,6 @@
+C:\Users\cholakov\Desktop\Exam\Car\bin\Debug\Car.exe.config
+C:\Users\cholakov\Desktop\Exam\Car\bin\Debug\Car.exe
+C:\Users\cholakov\Desktop\Exam\Car\bin\Debug\Car.pdb
+C:\Users\cholakov\Desktop\Exam\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\cholakov\Desktop\Exam\Car\obj\Debug\Car.exe
+C:\Users\cholakov\Desktop\Exam\Car\obj\Debug\Car.pdb

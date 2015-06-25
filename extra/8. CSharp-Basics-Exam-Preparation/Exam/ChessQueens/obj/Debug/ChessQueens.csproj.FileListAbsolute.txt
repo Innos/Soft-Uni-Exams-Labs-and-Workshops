@@ -1,0 +1,6 @@
+C:\Users\cholakov\Desktop\Exam\ChessQueens\bin\Debug\ChessQueens.exe.config
+C:\Users\cholakov\Desktop\Exam\ChessQueens\bin\Debug\ChessQueens.exe
+C:\Users\cholakov\Desktop\Exam\ChessQueens\bin\Debug\ChessQueens.pdb
+C:\Users\cholakov\Desktop\Exam\ChessQueens\obj\Debug\ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\cholakov\Desktop\Exam\ChessQueens\obj\Debug\ChessQueens.exe
+C:\Users\cholakov\Desktop\Exam\ChessQueens\obj\Debug\ChessQueens.pdb

@@ -1,0 +1,6 @@
+C:\Users\cholakov\Desktop\Exam\Tables\bin\Debug\Tables.exe.config
+C:\Users\cholakov\Desktop\Exam\Tables\bin\Debug\Tables.exe
+C:\Users\cholakov\Desktop\Exam\Tables\bin\Debug\Tables.pdb
+C:\Users\cholakov\Desktop\Exam\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+C:\Users\cholakov\Desktop\Exam\Tables\obj\Debug\Tables.exe
+C:\Users\cholakov\Desktop\Exam\Tables\obj\Debug\Tables.pdb

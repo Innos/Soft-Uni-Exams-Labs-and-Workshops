@@ -1,0 +1,1 @@
+<p>The total value is: <em>100000346.12</em></p>

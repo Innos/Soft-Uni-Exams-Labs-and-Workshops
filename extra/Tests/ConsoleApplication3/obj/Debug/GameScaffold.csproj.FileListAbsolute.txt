@@ -1,0 +1,6 @@
+E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication3\obj\Debug\GameScaffold.csprojResolveAssemblyReference.cache
