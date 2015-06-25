@@ -1,6 +1,0 @@
-E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
-E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
-E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
-E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
-E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
-E:\Soft Uni\Exams and Labs\extra\Tests\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

@@ -1,4 +1,0 @@
-255
-Odd
-Even
-Game Over!

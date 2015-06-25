@@ -1,1 +1,0 @@
-Money left = 232.00 leva.

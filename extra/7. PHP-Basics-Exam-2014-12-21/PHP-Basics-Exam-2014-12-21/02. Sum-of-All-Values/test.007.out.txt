@@ -1,1 +1,0 @@
-<p>The total value is: <em>1</em></p>
