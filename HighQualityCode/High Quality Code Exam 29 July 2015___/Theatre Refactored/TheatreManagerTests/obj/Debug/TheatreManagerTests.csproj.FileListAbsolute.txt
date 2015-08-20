@@ -1,0 +1,7 @@
+E:\Soft Uni\Exams, Labs and Workshops\HighQualityCode\High Quality Code Exam 29 July 2015\Huy-Phuong\TheatreManagerTests\bin\Debug\TheatreManagerTests.dll
+E:\Soft Uni\Exams, Labs and Workshops\HighQualityCode\High Quality Code Exam 29 July 2015\Huy-Phuong\TheatreManagerTests\bin\Debug\TheatreManagerTests.pdb
+E:\Soft Uni\Exams, Labs and Workshops\HighQualityCode\High Quality Code Exam 29 July 2015\Huy-Phuong\TheatreManagerTests\bin\Debug\TheatreManager.exe
+E:\Soft Uni\Exams, Labs and Workshops\HighQualityCode\High Quality Code Exam 29 July 2015\Huy-Phuong\TheatreManagerTests\bin\Debug\TheatreManager.pdb
+E:\Soft Uni\Exams, Labs and Workshops\HighQualityCode\High Quality Code Exam 29 July 2015\Huy-Phuong\TheatreManagerTests\obj\Debug\TheatreManagerTests.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams, Labs and Workshops\HighQualityCode\High Quality Code Exam 29 July 2015\Huy-Phuong\TheatreManagerTests\obj\Debug\TheatreManagerTests.dll
+E:\Soft Uni\Exams, Labs and Workshops\HighQualityCode\High Quality Code Exam 29 July 2015\Huy-Phuong\TheatreManagerTests\obj\Debug\TheatreManagerTests.pdb
