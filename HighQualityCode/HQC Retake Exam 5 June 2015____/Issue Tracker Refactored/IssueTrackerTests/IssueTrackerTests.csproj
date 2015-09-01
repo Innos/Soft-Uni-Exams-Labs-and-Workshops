@@ -68,12 +68,6 @@
     <Compile Include="TestBootstraper.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\buhtig\IssueTracker.csproj">
-      <Project>{ddd7e7bc-80bb-4029-abdd-36542aec38e2}</Project>
-      <Name>IssueTracker</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Choose>

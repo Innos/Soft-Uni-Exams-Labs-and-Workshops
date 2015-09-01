@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Huy-Phuong\TheatreManager.csproj">
+    <ProjectReference Include="..\TheatreManager\TheatreManager.csproj">
       <Project>{94f3d43f-0b18-46b3-9017-7d3b247756f1}</Project>
       <Name>TheatreManager</Name>
     </ProjectReference>
