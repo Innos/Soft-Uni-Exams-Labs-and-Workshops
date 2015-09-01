@@ -1,0 +1,50 @@
+CreateFlight FX318|Sofia|Athens|Bulgaria Air|17.04.2010 12:30|200
+CreateFlight SA833|Sofia|London|Lufthansa|18.04.2010 06:15|740
+CreateFlight TX351FB|London|Paris|Swiss Air|27.04.2010 08:00|150
+CreateFlight LU829|London|New York|Easyjet|17.04.2010 11:00|1200
+CreateFlight TX351FB|London|Viena|Swiss Air|29.04.2010 09:00|180
+CreateBus Sofia|Varna|Biomet|18.04.2010 07:15|28
+CreateBus Sofia|Plovdiv|Vitosha|27.04.2010 21:30|12
+CreateBus Sofia|Plovdiv|Trakia Travel|27.04.2010 21:30|11.5
+CreateBus Sofia|Athens|Group Plus|17.04.2010 03:00|146.88
+CreateTrain Sofia|Rousse|18.04.2010 09:30|24.35|12.15
+CreateTrain Varna|Sofia|27.04.2010 08:33|26.54|13.23
+CreateTrain Sofia|Plovdiv|17.04.2010 11:28|6.5|3.4
+CreateTrain Sofia|Athens|18.04.2010 17:00|124.5|104
+CreateTrain Sofia|Plovdiv|27.04.2010 21:30|7.22|3.61
+CreateTrain Sofia|Plovdiv|28.04.2010 19:00|7.22|3.61
+CreateTrain Sofia|Plovdiv|17.04.2010 11:28|6|3
+CreateBus Sofia|Plovdiv|Trakia Travel|27.04.2010 21:30|11
+DeleteFlight AA12345
+DeleteBus Sofia|Athens|Group Plus|17.04.2010 03:30|
+DeleteTrain Sofia|Plovdiv|28.04.2010 19:30
+FindTickets Sofia|Plovdiv
+FindTickets Sofia|Kaspichan
+DeleteFlight SA833
+FindByDates 17.04.2010 12:00|18.04.2010 09:30
+FindByDates 17.04.2010 12:00|15.04.2010 09:30
+CreateFlight FX318|Sofia|Athens|Bulgaria Air|17.04.2010 12:30|200
+CreateFlight SA833|Sofia|London|Lufthansa|18.04.2010 06:15|740
+CreateFlight TX351FB|London|Paris|Swiss Air|27.04.2010 08:00|150
+CreateFlight LU829|London|New York|Easyjet|17.04.2010 11:00|1200
+CreateFlight TX351FB|London|Viena|Swiss Air|29.04.2010 09:00|180
+CreateBus Sofia|Varna|Biomet|18.04.2010 07:15|28
+CreateBus Sofia|Plovdiv|Vitosha|27.04.2010 21:30|12
+CreateBus Sofia|Plovdiv|Trakia Travel|27.04.2010 21:30|11.5
+CreateBus Sofia|Athens|Group Plus|17.04.2010 03:00|146.88
+CreateTrain Sofia|Rousse|18.04.2010 09:30|24.35|12.15
+CreateTrain Varna|Sofia|27.04.2010 08:33|26.54|13.23
+CreateTrain Sofia|Plovdiv|17.04.2010 11:28|6.5|3.4
+CreateTrain Sofia|Athens|18.04.2010 17:00|124.5|104
+CreateTrain Sofia|Plovdiv|27.04.2010 21:30|7.22|3.61
+CreateTrain Sofia|Plovdiv|28.04.2010 19:00|7.22|3.61
+CreateTrain Sofia|Plovdiv|17.04.2010 11:28|6|3
+CreateBus Sofia|Plovdiv|Trakia Travel|27.04.2010 21:30|11
+DeleteFlight AA12345
+DeleteBus Sofia|Athens|Group Plus|17.04.2010 03:30|
+DeleteTrain Sofia|Plovdiv|28.04.2010 19:30
+FindTickets Sofia|Plovdiv
+FindTickets Sofia|Kaspichan
+DeleteFlight SA833
+FindByDates 17.04.2010 12:00|18.04.2010 09:30
+FindByDates 17.04.2010 12:00|15.04.2010 09:30

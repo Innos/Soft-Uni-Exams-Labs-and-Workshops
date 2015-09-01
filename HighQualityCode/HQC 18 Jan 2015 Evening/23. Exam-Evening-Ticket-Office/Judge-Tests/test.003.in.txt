@@ -1,0 +1,5 @@
+CreateFlight SA833|Sofia|London|Lufthansa|18.04.2010 06:15|740
+CreateBus Sofia|London|Biomet|18.04.2010 07:15|28
+CreateTrain Sofia|london|18.04.2010 09:30|24.35|12.15
+FindTickets Sofia|London
+FindTickets Sofia|Kaspichan

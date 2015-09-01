@@ -1,0 +1,7 @@
+Flight created
+Flight created
+Bus created
+Bus created
+Train created
+Train created
+[17.04.2010 12:30|flight|200.00] [18.04.2010 06:15|flight|740.00] [18.04.2010 17:00|train|124.50]
