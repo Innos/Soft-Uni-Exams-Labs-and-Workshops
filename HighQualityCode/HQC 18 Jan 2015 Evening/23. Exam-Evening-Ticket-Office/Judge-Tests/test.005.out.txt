@@ -1,0 +1,50 @@
+Flight created
+Flight created
+Flight created
+Flight created
+Duplicated flight
+Bus created
+Bus created
+Bus created
+Bus created
+Train created
+Train created
+Train created
+Train created
+Train created
+Train created
+Duplicated train
+Duplicated bus
+Flight does not exist
+Bus does not exist
+Train does not exist
+[17.04.2010 11:28|train|6.50] [27.04.2010 21:30|bus|11.50] [27.04.2010 21:30|bus|12.00] [27.04.2010 21:30|train|7.22] [28.04.2010 19:00|train|7.22]
+No matches
+Flight deleted
+[17.04.2010 12:30|flight|200.00] [18.04.2010 07:15|bus|28.00] [18.04.2010 09:30|train|24.35]
+No matches
+Duplicated flight
+Flight created
+Duplicated flight
+Duplicated flight
+Duplicated flight
+Duplicated bus
+Duplicated bus
+Duplicated bus
+Duplicated bus
+Duplicated train
+Duplicated train
+Duplicated train
+Duplicated train
+Duplicated train
+Duplicated train
+Duplicated train
+Duplicated bus
+Flight does not exist
+Bus does not exist
+Train does not exist
+[17.04.2010 11:28|train|6.50] [27.04.2010 21:30|bus|11.50] [27.04.2010 21:30|bus|12.00] [27.04.2010 21:30|train|7.22] [28.04.2010 19:00|train|7.22]
+No matches
+Flight deleted
+[17.04.2010 12:30|flight|200.00] [18.04.2010 07:15|bus|28.00] [18.04.2010 09:30|train|24.35]
+No matches

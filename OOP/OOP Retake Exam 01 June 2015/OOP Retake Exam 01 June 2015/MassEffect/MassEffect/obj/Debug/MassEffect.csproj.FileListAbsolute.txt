@@ -1,9 +1,0 @@
-C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
-C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.exe
-C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\bin\Debug\MassEffect.pdb
-C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
-C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.exe
-C:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Mass Effect_Скелет\Skeleton\MassEffect\obj\Debug\MassEffect.pdb
-E:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Skeleton\MassEffect\bin\Debug\MassEffect.exe.config
-E:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Skeleton\MassEffect\obj\Debug\MassEffect.exe
-E:\Soft Uni\Exams and Labs\OOP\OOP Retake Exam 01 June 2015\Skeleton\MassEffect\obj\Debug\MassEffect.pdb

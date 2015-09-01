@@ -1,0 +1,7 @@
+CreateFlight FX318|Sofia|Athens|Bulgaria Air|17.04.2010 12:30|200
+CreateFlight SA833|Sofia|London|Lufthansa|18.04.2010 06:15|740
+CreateBus Sofia|Plovdiv|Vitosha|27.04.2010 21:30|12
+CreateBus Sofia|Athens|Group Plus|17.04.2010 03:00|146.88
+CreateTrain Sofia|Athens|18.04.2010 17:00|124.5|104
+CreateTrain Sofia|Plovdiv|27.04.2010 21:30|7.22|3.61
+FindByDates 17.04.2010 12:00|22.04.2010 09:30
