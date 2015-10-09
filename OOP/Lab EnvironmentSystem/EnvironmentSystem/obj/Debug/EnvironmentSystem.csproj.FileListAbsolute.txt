@@ -10,3 +10,6 @@ C:\Soft Uni\Exams and Labs\OOP\EnvironmentSystem\EnvironmentSystem\obj\Debug\Env
 C:\Soft Uni\Exams and Labs\OOP\EnvironmentSystem\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe
 C:\Soft Uni\Exams and Labs\OOP\EnvironmentSystem\EnvironmentSystem\bin\Debug\EnvironmentSystem.pdb
 C:\Soft Uni\Exams and Labs\OOP\EnvironmentSystem\EnvironmentSystem\obj\Debug\EnvironmentSystem.csprojResolveAssemblyReference.cache
+E:\Soft Uni\Exams, Labs and Workshops\OOP\Lab EnvironmentSystem\EnvironmentSystem\bin\Debug\EnvironmentSystem.exe.config
+E:\Soft Uni\Exams, Labs and Workshops\OOP\Lab EnvironmentSystem\EnvironmentSystem\obj\Debug\EnvironmentSystem.exe
+E:\Soft Uni\Exams, Labs and Workshops\OOP\Lab EnvironmentSystem\EnvironmentSystem\obj\Debug\EnvironmentSystem.pdb
