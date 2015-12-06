@@ -52,7 +52,7 @@
                 rectangles.Add(rectangle);
                 line = Console.ReadLine();
             }
-            rectangles = rectangles.OrderBy(x => x.X1).ThenBy(x=>x.Name).ToList();
+            rectangles = rectangles.OrderBy(x => x.X1).ThenByDescending(x => x.X2).ThenByDescending(x => x.Y1).ThenBy(x => x.Y2).ThenBy(x => x.Name).ToList();
             for (int i = 0; i < rectangles.Count; i++)
             {
                 Rectangle currentRectangle = rectangles[i];
@@ -70,18 +70,13 @@
                 Dfs(rectangles[i]);
             }
             Rectangle top = rectangles.OrderByDescending(x => x.Depth).ThenBy(x => x.Name).First();
-            HashSet<string> visited = new HashSet<string>();
+            int depth = top.Depth;
             while (true)
-            {              
+            {
                 Console.Write(top.Name);
-                visited.Add(top.Name);
+                depth -= 1;
                 top = top.Successor;
-                if (top == null)
-                {
-                    Console.WriteLine();
-                    break;
-                }
-                if (visited.Contains(top.Name))
+                if (top == null || depth == 0)
                 {
                     Console.WriteLine();
                     break;

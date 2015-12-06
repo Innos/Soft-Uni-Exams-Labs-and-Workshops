@@ -7,11 +7,8 @@
 
     public class MessageSharing
     {
-
-        private static Dictionary<int, string> indexedNames;
         public static void Main(string[] args)
         {
-            indexedNames = new Dictionary<int, string>();
             Dictionary<string, List<string>> graph = new Dictionary<string, List<string>>();
             string[] names = Console.ReadLine()
                 .Substring(8)
@@ -77,7 +74,7 @@
             {
                 int maxSteps = distances.Values.Max();
                 Console.WriteLine("All people reached in {0} steps", maxSteps);
-                Console.WriteLine("People at last step: {0}", string.Join(", ", distances.Keys.Where(x=>distances[x] == maxSteps)));
+                Console.WriteLine("People at last step: {0}", string.Join(", ", distances.Keys.Where(x => distances[x] == maxSteps)));
             }
         }
     }
