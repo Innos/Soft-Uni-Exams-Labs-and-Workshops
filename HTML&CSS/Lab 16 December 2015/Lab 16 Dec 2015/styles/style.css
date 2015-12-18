@@ -1,0 +1,296 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#wrapper{
+    font-family: Arial;
+    margin: 10px auto;
+    width:960px;
+    background-color: #003366;
+}
+header{
+    display:block;
+    height:100px;
+}
+ul{
+
+}
+main{
+    background-color: #0066CC;
+
+}
+footer{
+    height:100px;
+    background-color: #003366;
+}
+#logo{
+    width:100px;
+    height: 100px;
+    display: inline-block;
+}
+#logo a{
+    display: inline-block;
+    background: url('../Resources/images/uefa-logo.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width:100px;
+    height: 100px;
+}
+header ul{
+    display: inline-block;
+    position: relative;
+    top:-10px;
+    left:30px;
+    font-size: 1.1em;
+}
+/** header **/
+header li{
+    margin: 0 25px 0 25px;
+    padding: 0 5px 0 5px;
+    display:inline-block;
+    color:white;
+}
+header li:hover{
+    background-color: white;
+    color:#001933;
+    border-radius:5px;
+}
+
+/** footer **/
+footer li{
+    list-style-type: none;
+    padding: 2px;
+    font-size:0.8em;
+    font-weight: bold;
+}
+footer ul{
+    margin-left: 5px;
+}
+footer div{
+    color:white;
+    display: inline-block;
+    vertical-align: top;
+}
+#copyright{
+    width:60%;
+    font-size: 0.8em;
+    text-align: center;
+}
+#links{
+    width:20%;
+}
+#mediaLinks{
+    padding-left: 20px;
+}
+#mediaLinks img{
+    margin: auto;
+}
+#mediaLinks a{
+    display: inline-block;
+    width:35px;
+    height:35px;
+    background-image: url('../Resources/images/mini-social-icons.png');
+    background-repeat: no-repeat;
+    border: 2px solid gray;
+    border-radius: 30px;
+    margin: 30px 5px 30px 5px;
+}
+#facebook{
+    background-position: 5% 5%;
+}
+#google{
+    background-position: 50% 5%;
+}
+#twitter{
+    background-position: 95% 5%;
+}
+#facebook:hover{
+    background-position: 5% 90%;
+}
+#google:hover{
+    background-position: 50% 90%;
+}
+#twitter:hover{
+    background-position: 95% 90%;
+}
+
+/** main **/
+#table{
+    vertical-align: top;
+    font-size: 0.9em;
+    padding: 20px;
+}
+h3{
+    color:white;
+    text-align: center;
+}
+table{
+    width:100%;
+    border-collapse: collapse;
+    color:white;
+}
+th{
+    font-size: 0.6em;
+}
+main td{
+    text-align: center;
+    border: 1px solid white;
+    padding: 5px;
+}
+.team{
+    text-align: left;
+}
+.bold{
+    font-weight: bold;
+}
+.won{
+    background-color: #009999;
+}
+.equal{
+    background-color: #5D957C;
+}
+.lost{
+    background-color: #5D4F7C;
+}
+.won td:nth-child(2),.equal td:nth-child(2){
+    font-weight: bold;
+}
+.equal{
+    font-style: italic;
+}
+.lost td{
+    font-weight: normal;
+}
+
+/** form **/
+aside{
+    display: inline-table;
+    margin-right: 10px;
+    width:48%;
+    color: white;
+    text-align: center;
+}
+form fieldset{
+    border-color: #004C99;
+}
+form legend{
+    text-align:left;
+    margin-left: 10px;
+}
+fieldset label span{
+    color:red;
+}
+fieldset label{
+    font-size:0.9em;
+    display: block;
+    padding: 5px;
+}
+form input{
+    font-size: 1.2em;
+    color:white;
+    padding: 10px 40px 10px 40px;
+    display: block;
+    background-color: #004C99;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin:auto;
+}
+.inline{
+    display: inline-block;
+    vertical-align: top;
+    width:45%;
+}
+#checkboxes,select{
+    width: 45%;
+    display: inline-block;
+    background-color: #004C99;
+    vertical-align: top;
+    margin-bottom: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+}
+fieldset select{
+    padding: 5px;
+    font-size: 1em;
+}
+#checkboxes{
+    text-align: left;
+    padding-left: 10px;
+    height: 65px;
+}
+#checkboxes input, #checkboxes label{
+    margin:0;
+    padding: 2px 0;
+    display: inline-block;
+}
+select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+}
+#offer{
+    margin:5px auto;
+}
+#submit,#reset{
+    display: inline-block;
+    margin-top: 2px;;
+    width: 49%;
+    padding: 10px 0;
+    border-radius: 10px;
+    border: 1px solid white;
+    font-size:1.5em;
+    color:white;
+}
+#submit{
+    background-color: limegreen;
+}
+#reset{
+    background-color: red;
+}
+
+/** article **/
+article{
+    margin: 20px 30px 20px 20px;
+    vertical-align: top;
+    border: 1px solid white;
+}
+article header{
+    padding: 5px;
+    height: 40px;
+    font-family: Pacman;
+}
+@font-face {
+    font-family: Pacman;
+    src: url('../Resources/fonts/PAC-FONT.TTF');
+}
+#sponsors img{
+    background-color: #004C99;
+    border: 10px solid #004C99;
+    border-radius: 10px;
+    width:100px;
+    height: auto;
+    margin: auto;
+    vertical-align: middle;
+}
+#sponsors{
+    margin: auto;
+}
+article a{
+    text-decoration: none;
+    font-style: italic;
+    color: lightgray;
+}
+article p{
+    text-align: left;
+    text-indent: 40px;
+}
+#author{
+    text-indent: 0;
+    font-size: 0.9em;
+}
+#author span{
+    font-style: italic;
+}
+
