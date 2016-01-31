@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab</title>
+</head>
+<body>
+    <canvas id="canvas" width="1000"; height="500"; style=" border:2px solid black;">
+        Your browser does not support the canvas element.
+    </canvas>
+    <script>
+
+        function drawElipse(ctx, x, y, w, h)
+        {
+            var kappa = .55228483;
+                sx = (w / 2) * kappa;
+                sy = (h / 2) * kappa;
+                xe = x + w;
+                ye = y + h;
+                xm = x + w / 2;
+                ym = y + h / 2;
+
+            ctx.beginPath();
+            ctx.moveTo(x, ym);
+            ctx.bezierCurveTo(x, ym - sy, xm - sx, y, xm, y);
+            ctx.bezierCurveTo(xm + sx, y, xe, ym - sy, xe, ym);
+            ctx.bezierCurveTo(xe, ym + sy, xm + sx, ye, xm, ye);
+            ctx.bezierCurveTo(xm - sx, ye, x, ym + sy, x, ym);
+
+            ctx.fill();
+            ctx.stroke();
+        }
+        var canvas = document.getElementById('canvas');
+        var ctx = canvas.getContext('2d');
+
+        ctx.lineWidth = 3;
+        ctx.strokeStyle = "#235661";
+        ctx.fillStyle = "lightblue";
+
+        ctx.arc(450,300,100,0,Math.PI *2);
+        ctx.fill()
+        ctx.stroke();
+        drawElipse(ctx,380,250,32,20);
+        drawElipse(ctx,450,250,32,20);
+
+        ctx.moveTo(430,260);
+        ctx.lineTo(410,300);
+        ctx.lineTo(430,300);
+        ctx.stroke();
+
+        ctx.rotate(10 * Math.PI / 180);
+        drawElipse(ctx,440,260,80,20);
+        ctx.setTransform(1, 0, 0, 1, 0, 0);
+
+        ctx.fillStyle = "#235661";
+        drawElipse(ctx,385,253,7,14);
+        drawElipse(ctx,455,253,7,14);
+
+        ctx.fillStyle = "#354575";
+        ctx.strokeStyle = "black";
+        drawElipse(ctx,330,190,220,40);
+        drawElipse(ctx,400,100,100,33);
+        ctx.lineTo(400,200);
+        ctx.bezierCurveTo(400,200,450,220,500,200);
+        ctx.lineTo(500,120);
+        ctx.fill()
+        ctx.stroke();
+
+
+
+    </script>
+</body>
+</html>

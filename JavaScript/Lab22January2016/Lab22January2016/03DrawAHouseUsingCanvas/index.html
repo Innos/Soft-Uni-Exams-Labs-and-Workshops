@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab</title>
+</head>
+<body>
+    <canvas id="canvas" width="1000"; height="800"; style=" border:2px solid black;">
+        Your browser does not support the canvas element.
+    </canvas>
+    <script>
+
+        function drawElipse(ctx, x, y, w, h)
+        {
+            var kappa = .55228483;
+            sx = (w / 2) * kappa;
+            sy = (h / 2) * kappa;
+            xe = x + w;
+            ye = y + h;
+            xm = x + w / 2;
+            ym = y + h / 2;
+
+            ctx.beginPath();
+            ctx.moveTo(x, ym);
+            ctx.bezierCurveTo(x, ym - sy, xm - sx, y, xm, y);
+            ctx.bezierCurveTo(xm + sx, y, xe, ym - sy, xe, ym);
+            ctx.bezierCurveTo(xe, ym + sy, xm + sx, ye, xm, ye);
+            ctx.bezierCurveTo(xm - sx, ye, x, ym + sy, x, ym);
+
+            ctx.fill();
+            ctx.stroke();
+        }
+
+        var canvas = document.getElementById('canvas');
+        var ctx = canvas.getContext('2d');
+
+        ctx.lineWidth = 3;
+        ctx.fillStyle = 'brown';
+
+        ctx.moveTo(400,100);
+        ctx.lineTo(500,220);
+        ctx.moveTo(550,280);
+        ctx.lineTo(600,350);
+        ctx.lineTo(200,350);
+        ctx.lineTo(400,100);
+        ctx.fill();
+        ctx.moveTo(600,350);
+        ctx.lineTo(600,700);
+        ctx.lineTo(200,700);
+        ctx.lineTo(200,350);
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.moveTo(550,300);
+        ctx.lineTo(550,205);
+        ctx.moveTo(500,300);
+        ctx.lineTo(500,205);
+        ctx.fillRect(500,205,50,95);
+        ctx.stroke();
+        drawElipse(ctx,500,200,50,10);
+
+        ctx.fillStyle="black";
+        ctx.fillRect(220, 400, 70, 45);
+        ctx.fillRect(295, 400, 70, 45);
+        ctx.fillRect(415, 400, 70, 45);
+        ctx.fillRect(490, 400, 70, 45);
+        ctx.fillRect(220, 450, 70, 45);
+        ctx.fillRect(295, 450, 70, 45);
+        ctx.fillRect(415, 450, 70, 45);
+        ctx.fillRect(490, 450, 70, 45);
+        ctx.fillRect(415, 525, 70, 45);
+        ctx.fillRect(490, 525, 70, 45);
+        ctx.fillRect(415, 575, 70, 45);
+        ctx.fillRect(490, 575, 70, 45);
+
+
+        ctx.moveTo(280, 533);
+        ctx.lineTo(280, 700);
+        ctx.moveTo(220,573);
+        ctx.lineTo(220, 700);
+        ctx.moveTo(340,574);
+        ctx.lineTo(340, 700);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.arc(280,595,63,1.10*Math.PI,1.90*Math.PI);
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.arc(265,650,5,0,Math.PI*2);
+        ctx.stroke();
+        ctx.beginPath();
+        ctx.arc(295,650,5,0,Math.PI*2);
+        ctx.stroke();
+
+
+    </script>
+</body>
+</html>

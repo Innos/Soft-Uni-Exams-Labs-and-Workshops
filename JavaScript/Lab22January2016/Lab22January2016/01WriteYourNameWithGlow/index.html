@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lab</title>
+</head>
+<body>
+    <canvas id="canvas" width="1000"; height="500"; style=" border:2px solid black;">
+        Your browser does not support the canvas element.
+    </canvas>
+    <script>
+        var canvas = document.getElementById('canvas');
+        var ctx = canvas.getContext('2d');
+
+        ctx.fillStyle = 'pink';
+        ctx.lineWidth = '5';
+        ctx.strokeStyle ='green';
+        ctx.font = "120px Verdana";
+        ctx.textAlign = "center";
+        ctx.fillText('Wow so doge', canvas.width/2, canvas.height/2);
+        ctx.strokeText('Wow so doge', canvas.width/2, canvas.height/2);
+
+    </script>
+</body>
+</html>
