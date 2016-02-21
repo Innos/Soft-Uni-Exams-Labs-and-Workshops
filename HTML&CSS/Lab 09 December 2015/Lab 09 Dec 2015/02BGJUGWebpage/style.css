@@ -33,15 +33,15 @@ nav a{
     letter-spacing: 2px;
     color:#999;
 }
-#search{
-    background-color: #F0F0F0;
-    margin-right: 70px;
-    float: right;
-}
+
 #search{
     padding-left: 3px;
     padding-right: 3px;
     border: 1px solid #E3E3E3;
+    background-color: #F0F0F0;
+    margin-right: 70px;
+    float: right;
+    width: 15%;
 }
 header:after{
     clear:both;
@@ -71,8 +71,17 @@ aside,section{
     margin-right: 30px;
     vertical-align: top;
 }
+section>p:last-child{
+    margin-top:40px;
+}
 
 /** aside **/
+#left{
+    float:left;
+}
+#right{
+    float: right;
+}
 aside{
     color: grey;
     margin-top: 60px;
@@ -103,10 +112,101 @@ aside a{
     text-decoration: none;
     color: #A0A0A0;
 }
-article p {
-    margin-top:20px;
-    font-size:0.5em;
-}
-article p a {
+article p a{
     text-decoration: none;
+}
+section p{
+    margin-top:20px;
+    font-size:0.6em;
+}
+#previous{
+    text-decoration: none;
+}
+article{
+    padding-bottom: 20px;
+}
+article:last-of-type{
+    border-bottom: 1px solid lightgray;
+}
+
+/** footer **/
+.footerMessage{
+    padding-left: 50px;
+    line-height: 30px;
+    margin:20px 0 0 0;
+    font-size: 0.7em;
+    color:gray;
+    background-color: #F0F0F0;
+    clear:both;
+    font-style: italic;
+}
+footer{
+    position: fixed;
+    top:85%;
+}
+.footer{
+    height:120px;
+    background-color: black;
+}
+.footerItem{
+    display: inline-block;
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    width:13%;
+    vertical-align: top;
+    color:white;
+}
+.footerItem header{
+    padding-bottom: 5px;
+}
+.footerItem{
+    font-size: 0.7em;
+}
+.footerItem:first-child{
+    font-size: 1em;
+}
+.footerItem li{
+    padding-left: 5px;
+    font-weight: bold;
+}
+.footerText{
+    color: gray;
+}
+.footerText a{
+    text-decoration: none;
+    color:white;
+}
+/** bubble **/
+span#bubble
+{
+    display: inline-block;
+    position: relative;
+    width: 5px;
+    height: 5px;
+    text-align: center;
+    line-height: 3px;
+    font-size: 0.9em;
+    color:white;
+    font-style: normal;
+    background-color: #A0A0A0;
+    border: 2px solid #A0A0A0;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    /** letter scale **/
+
+    transform:scale(1.5,1.0);
+}
+
+span#bubble:before
+{
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0px;
+    top: 5px;
+    border: 3px solid;
+    border-color: #A0A0A0 #A0A0A0 transparent transparent;
 }

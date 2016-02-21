@@ -16,12 +16,12 @@
             </ul>
         </nav>
 
-        <input id="search" type="text" placeholder="Search                    &#128270;"/>
+        <input id="search" type="text" placeholder="Search                                              &#128270;"/>
 
     </header>
     <hr/>
     <main>
-        <aside>
+        <aside id="left">
             <div class="aside-box">
                 <ul>
                     <li><a href="">An Architecture for E-Voting</a></li>
@@ -49,8 +49,27 @@
                     <a href="">Continue Reading &rarr;</a>
                 </p>
             </article>
+            <article>
+                <header>
+                    <h3>The Optional Type API</h3>
+                    <div class="extra-info">
+                        <span>by <a href="#" class="author">BOZHO</a> on </span>
+                        <time>MAY 19,2014 &middot; </time>
+                        <a href="#" class="comment-link">LEAVE A COMMENT</a>
+                    </div>
+                </header>
+                <p>
+                    Java 8 introduces the Optional class. In a nutshell instead of returning null, and then checking for null, you return an Optional instance, which can either have or not have a value set. That way you don't fail with NullPointerException. I won't discuss whether the Optional type will eliminate NPEs completely(it won't). Instead I'll[...]
+                </p>
+                <p>
+                    <a href="">Continue Reading &rarr;</a>
+                </p>
+            </article>
+            <p>
+                <a href="#" id="previous">&larr; Previous Entries</a>
+            </p>
         </section>
-        <aside>
+        <aside id="right">
             <div class="aside-box right">
                 <header>LANGUAGE</header>
                 <ul>
@@ -68,6 +87,37 @@
                 </ul>
             </div>
         </aside>
+        <footer>
+            <p class="footerMessage">
+                <sup><span id="bubble">t</span></sup>
+                Set your twitter account in your settings to use the TwitterBar Section.
+            </p>
+            <div class="footer">
+                <div class="footerItem">
+                    BGJUG-Java Bulgarian User Group
+                </div>
+                <div class="footerItem">
+                    <header>PAGES</header>
+                    <ul>
+                        <li>About</li>
+                        <li>Events</li>
+                        <li>Contacts</li>
+                    </ul>
+                </div>
+                <div class="footerItem">
+                    <header>THE LATEST</header>
+                    <p>An Architecture for E - Voting</p>
+                    <p class="footerText">E - voting is a hot topic in my country, and has been discussed [...]</p>
+                </div>
+                <div class="footerItem">
+                    <header>MORE</header>
+                    <p class="footerText">Thanks for droping by! Feel free to join the discussion by leaving comments, and stay updated by subscribing to the <a href="#">RSS feed.</a></p>
+                </div>
+                <div class="footerItem">
+                    <p class="footerText">&copy; 2011 BGJUG - Java Bulgarian User Group</p>
+                </div>
+            </div>
+        </footer>
     </main>
 </body>
 </html>
