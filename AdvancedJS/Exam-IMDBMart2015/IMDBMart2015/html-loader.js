@@ -74,12 +74,11 @@ var imdb = imdb || {};
 					return movie._id === movieId;
 				})[0];
 
-				var container = document.createElement("div");
+				detailsContainer.innerHTML = '';
 				var actors = loadActors(movie.getActors());
 				var reviews = loadReviews(movie);
-				container.appendChild(actors);
-				container.appendChild(reviews);
-				detailsContainer.innerHTML = container.innerHTML;
+				detailsContainer.appendChild(actors);
+				detailsContainer.appendChild(reviews);
 			});
 		});
 	}
@@ -119,7 +118,10 @@ var imdb = imdb || {};
             button.innerHTML = 'Delete Review';
             //console.log(button);
             button.addEventListener('click', function() {
-                console.log('asdasd')
+                movie.deleteReview(review);
+				var list = this.parentNode.parentNode;
+				var li = this.parentNode;
+				list.removeChild(li);
             });
 			liReview.appendChild(button);
 			list.appendChild(liReview);
