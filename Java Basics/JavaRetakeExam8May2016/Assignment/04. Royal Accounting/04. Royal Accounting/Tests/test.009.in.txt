@@ -1,0 +1,12 @@
+TrickyTest;1;1,1;TrickyTest
+DecimalPOINT;456456;1.56465;TrickyTest
+NotDecimalCOMMA;456;13123.154346;TrickyTest
+TrickyTest;123;13123;TrickyTest
+TheAboveShouldBeAdded;1;1;TrickyTest
+EbatiTeama;20;45;TrickyTeam
+NemaTakovaEmployee;2000;4500;TrickyTeam
+BatiEmployeeTo;200;45;TrickyTeam
+EmployeeNomerEdno;20;450;TrickyTeam
+TovaEValidnoEmployee;1323;32.323;TrickyTeam
+TovaNeEValidno3Mployee;123;123;TrickyTeam
+Pishi kuf i da si hodim

@@ -1,0 +1,28 @@
+Team - Something
+$$$John - 9900 - 290825.723925
+$$$Marx - 8978 - 190493.230710
+$$$Moni - 3646 - 82865.948770
+$$$Viktor - 1622 - 8537.655912
+$$$Peter - 1515 - 54217.757417
+$$$Karl - 1453 - 56558.011923
+Team - NekuvTeam
+$$$Ivan - 9033 - 130473.864680
+$$$Yordan - 6410 - 235576.108630
+$$$Test - 5834 - 185977.454533
+$$$Jack - 433 - 1816.535745
+Team - EbatiQkiqTeam
+$$$Royal - 8990 - 211952.615883
+Team - Management
+$$$Bob - 9871 - 33060.147741
+$$$validName - 2904 - 81316.296347
+$$$EbatiBokluka - 2409 - 29260.361419
+$$$NekuvTup - 1357 - 1420.759097
+$$$Todor - 903 - 34086.628852
+Team - SomeOtherThing
+$$$Anna - 5225 - 81091.106090
+Team - Trainers
+$$$asd - 6694 - 22755.662533
+Team - DomesticCleaners
+$$$Nikolay - 9848 - 5535.031060
+Team - Test
+$$$EbatiPicha - 5558 - 948.237180

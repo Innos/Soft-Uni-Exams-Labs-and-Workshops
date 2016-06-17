@@ -1,0 +1,7 @@
+Royal;2;2;Trainers
+Peter;2;2;Trainers
+Slav;1;2;Trainers
+Moni;1;2;Trainers
+Nacho;1;1;Trainers
+Akov;1;1;Trainers
+Pishi kuf i da si hodim

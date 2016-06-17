@@ -1,0 +1,12 @@
+<div ng-if="heroes.length" id="heroes" class="row">
+    <div class="hero col-md-3" ng-repeat="hero in heroes">
+        <a href="#/heroes/{{hero._id}}">
+            <img ng-src="{{hero.class.imageUrl}}" alt="hero-image" class="hero-image"/><br>
+        </a>
+
+        <h2><a href="#/heroes/{{hero._id}}">{{hero.name}}</a></h2>
+    </div>
+</div>
+<div ng-if="!heroes.length" class="panel" id="no-heroes-panel">
+    You currently don't have any heroes. Go <a href="#/heroes/add/">create a new one</a>
+</div>

@@ -1,0 +1,41 @@
+<div class="headerPadding">
+</div>
+<form name="changePasswordForm" class="formField col-md-4 col-md-offset-4">
+    <h1 class="formHeading">Change Password</h1>
+    <img ng-src="{{separatorImage}}" class="formImage">
+
+    <label class="formLabel" for="oldPassword">Old Password:</label>
+
+    <div class="input-group">
+        <div class="input-group-addon">
+            <span class="fa fa-unlock-alt"></span>
+        </div>
+        <input class="formTextInput" type="password" id="oldPassword" ng-model="user.OldPassword" required/>
+    </div>
+
+    <label class="formLabel" for="newPassword">New Password:</label>
+
+    <div class="input-group">
+        <div class="input-group-addon">
+            <span class="fa fa-unlock"></span>
+        </div>
+        <input class="formTextInput" type="password" id="newPassword" ng-model="user.NewPassword" required/>
+    </div>
+
+    <label class="formLabel" for="confirmPassword">Confirm Password:</label>
+
+    <div class="input-group">
+        <div class="input-group-addon">
+            <span class="fa fa-unlock"></span>
+        </div>
+
+        <input class="formTextInput" type="password" id="confirmPassword"
+               ng-model="user.ConfirmPassword"
+               required/>
+    </div>
+    <img ng-src="{{separatorImage}}" class="formImage">
+
+    <p>
+        <button ng-click="changePassword(user)" ng-disabled="changePasswordForm.$invalid" class="formButton btn btn-primary">Change Password</button>
+    <p>
+</form>

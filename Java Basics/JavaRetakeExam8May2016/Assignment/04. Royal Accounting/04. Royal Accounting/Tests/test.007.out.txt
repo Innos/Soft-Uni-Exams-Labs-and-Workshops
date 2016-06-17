@@ -1,0 +1,14 @@
+Team - EbatiQkiqTeam
+$$$Bob - 8610 - 350498.750000
+Team - Management
+$$$Peter - 9106 - 222717.583333
+$$$EbatiBokluka - 3914 - 69799.666667
+$$$John - 1844 - 12370.166667
+$$$NekuvTup - 859 - 27595.375000
+Team - DomesticCleaners
+$$$Anna - 3377 - 93993.166667
+$$$Nikolay - 6 - 65.250000
+Team - NekuvTeam
+$$$Yordan - 9978 - 8730.750000
+Team - asd
+$$$Royal - 171 - 4859.250000

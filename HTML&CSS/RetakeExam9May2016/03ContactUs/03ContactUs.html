@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+<div id="wrapper">
+    <aside>
+        <p class="heading">Contact us</p>
+
+        <p class="white subTitle">If you would like to speak to a member of our team about our products, fill in the form
+            below.</p>
+    </aside><main>
+        <div class="fieldContainer">
+            <div class="label">
+                <p>Email address </p>
+                <p class="required">Required</p>
+            </div>
+            <input class="requiredInput" type="email" required>
+            <p class="required">Please enter a valid email address</p>
+        </div>
+        <div class="fieldContainer">
+            <div class="label">
+                <p>My telephone number is</p>
+                <p class="optional">Optional</p>
+            </div>
+            <div class="label">
+                <input type="text" class="phoneCode" value="+">
+                <input type="text" class="phone">
+            </div>
+        </div>
+        <div class="fieldContainer">
+            <div class="label">
+                <p>My message</p>
+                <p class="optional">Optional</p>
+            </div>
+            <textarea></textarea>
+        </div>
+        <div class="fieldContainer">
+            <p class="text margin-bot-5">I would like to be contacted by </p>
+            <div class="container">
+                <input type="radio" class="radio" id="emailContact" name="contact">
+                <label for="emailContact">Email</label>
+            </div>
+            <div class="container">
+                <input type="radio" class="radio" id="phoneContact" name="contact">
+                <label for="phoneContact">Telephone</label>
+            </div>
+            <div id="terms" class="container">
+                <input class="checkbox" type="checkbox">
+                <label class="subTitle" for="phoneContact">Please, tick the box if you would like to receive regular email and communications about our products, events and services. By ticking this box, you confirm you have read and agree to our <a href="#" class="required text">terms and conditions</a>.</label>
+            </div>
+            <button class="button">Submit</button>
+            <p class="subTitle darkblue">We aim to reply within 2 days</p>
+        </div>
+    </main>
+</div>
+</body>
+</html>

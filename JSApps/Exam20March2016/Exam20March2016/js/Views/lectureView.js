@@ -1,92 +1,62 @@
 var app = app || {};
 
 app.lectureView = (function () {
-    function showCalendar(selector, data) {
+     function showCalendar(selector, data) {
         $.get('templates/calendar.html', function (temp) {
-            $(selector).html(temp);
+            loadCalendar(selector, data, temp);
             $("#editLecture").hide();
             $("#deleteLecture").hide();
-            $('#calendar').fullCalendar({
-                theme: false,
-                header: {
-                    left: 'prev,next today addEvent',
-                    center: 'title',
-                    right: 'month,agendaWeek,agendaDay'
-                },
-                defaultDate: Date.now(),
-                selectable: false,
-                editable: false,
-                eventLimit: true,
-                events: data,
-                customButtons: {
-                    addEvent: {
-                        text: 'Add Event',
-                        click: function () {
-                            $.sammy(function () {
-                                this.trigger('redirectUrl', {url: '#/calendar/add/'});
-                            })
-                        }
+        });
+    }
+
+    function loadCalendar(selector, data, temp) {
+        $(selector).html(temp);
+        $('#calendar').fullCalendar({
+            theme: false,
+            header: {
+                left: 'prev,next today addEvent',
+                center: 'title',
+                right: 'month,agendaWeek,agendaDay'
+            },
+            defaultDate: Date.now(),
+            selectable: false,
+            editable: false,
+            eventLimit: true,
+            events: data,
+            customButtons: {
+                addEvent: {
+                    text: 'Add Event',
+                    click: function () {
+                        $.sammy(function () {
+                            this.trigger('redirectUrl', {url: '#/calendar/add/'});
+                        })
                     }
-                },
-                eventClick: function (calEvent, jsEvent, view) {
-                    $.get('templates/modal.html', function (templ) {
-                        var rendered = Mustache.render(templ, calEvent);
-                        $('#modal-body').html(rendered);
-                    });
-                    $('#events-modal').modal();
                 }
-            });
-        })
+            },
+            eventClick: function (calEvent, jsEvent, view) {
+                $.get('templates/modal.html', function (templ) {
+                    var rendered = Mustache.render(templ, calEvent);
+                    $('#modal-body').html(rendered);
+                    $('#editLecture').on('click', function () {
+                        $.sammy(function () {
+                            this.trigger('redirectUrl', {url: '#/calendar/edit/' + calEvent._id})
+                        })
+                    });
+                    $('#deleteLecture').on('click', function () {
+                        $.sammy(function () {
+                            this.trigger('redirectUrl', {url: '#/calendar/delete/' + calEvent._id})
+                        })
+                    })
+                });
+                $('#events-modal').modal();
+            }
+        });
     }
 
     function showPersonalCalendar(selector, data) {
         $.get('templates/calendar.html', function (temp) {
-            $(selector).html(temp);
-            $('#calendar').fullCalendar({
-                theme: false,
-                header: {
-                    left: 'prev,next today addEvent',
-                    center: 'title',
-                    right: 'month,agendaWeek,agendaDay'
-                },
-                defaultDate: Date.now(),
-                selectable: false,
-                editable: false,
-                eventLimit: true,
-                events: data,
-                customButtons: {
-                    addEvent: {
-                        text: 'Add Event',
-                        click: function () {
-                            $.sammy(function () {
-                                this.trigger('redirectUrl', {url: '#/calendar/add/'});
-                            })
-                        }
-                    }
-                },
-                eventClick: function (calEvent, jsEvent, view) {
-                    $.get('templates/modal.html', function (templ) {
-                        var rendered = Mustache.render(templ, calEvent);
-                        $('#modal-body').html(rendered);
-                        $('#editLecture').on('click', function () {
-                            $.sammy(function(){
-                                this.trigger('redirectUrl', {url:'#/calendar/edit/' + calEvent._id})
-                            })
-                        });
-                        $('#deleteLecture').on('click', function () {
-                            $.sammy(function(){
-                                this.trigger('redirectUrl', {url:'#/calendar/delete/' + calEvent._id})
-                            })
-                        })
-                    });
-                    $('#events-modal').modal();
-                }
-            });
-        })
-    }
-
-    function attachEventListeners(){
-
+            loadCalendar(selector, data, temp);
+        });
     }
 
     function showAddLecturePage(selector) {

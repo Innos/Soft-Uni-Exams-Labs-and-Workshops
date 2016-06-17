@@ -1,0 +1,16 @@
+<section>
+    <div class="login-form">
+        <header class="main-header">Login</header>
+        <form name="loginForm" class="data">
+            <label for="username">Username:</label>
+            <input ng-model="user.username" type="text" id="username" placeholder="Username..."/>
+            <label for="password">Password:</label>
+            <input ng-model="user.password" type="password" id="password" placeholder="Password..."/>
+        </form>
+        <div class="panel">
+            <button id="login-button" ng-disabled="loginForm.$invalid"  ng-click="login(user)" class="button">Login</button>
+            <span>or</span>
+            <a href="#/register/">Register</a>
+        </div>
+    </div>
+</section>

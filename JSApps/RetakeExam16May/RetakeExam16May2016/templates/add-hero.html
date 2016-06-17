@@ -1,0 +1,33 @@
+<section>
+    <div class="add-hero-form">
+        <header class="main-header">Add new hero</header>
+        <form>
+            <h4>Name:</h4>
+            <div class="row" id="select-name">
+                <input type="text" id="name" placeholder="Hero Name..." class="form-control"/>
+            </div>
+
+            <h4>Class:</h4>
+            <div class="row" id="select-class">
+                {{#classes}}
+                <div class="hero-class col-md-5">
+                    <label for="{{name}}" class="form-control">{{name}}</label>
+
+                    <p>Attack points: {{attack-points}}</p>
+
+                    <p>Defense points: {{defense-points}}</p>
+
+                    <p>Life points: {{life-points}}</p>
+                    <input type="radio" value="{{_id}}" name="class" id="{{name}}" class="form-control"/>
+                </div>
+                {{/classes}}
+            </div>
+        </form>
+        <div class="panel row">
+            <button id="addHero" class="button">Add</button>
+            <a href="#/">
+                <button class="button">Cancel</button>
+            </a>
+        </div>
+    </div>
+</section>

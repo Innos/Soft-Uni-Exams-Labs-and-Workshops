@@ -1,0 +1,22 @@
+Team - DomesticCleaners
+$$$Nikolay - 7190 - 273220.000000
+$$$NekuvTup - 5616 - 158886.000000
+$$$Royal - 4958 - 49580.000000
+$$$EbatiBokluka - 3034 - 68012.166667
+Team - EbatiQkiqTeam
+$$$Ivan - 5833 - 166483.541667
+$$$Marx - 5671 - 226603.708333
+Team - Management
+$$$Peter - 7769 - 74452.916667
+$$$asd - 7646 - 18796.416667
+$$$John - 6173 - 26749.666667
+$$$Moni - 4335 - 139442.500000
+$$$Test - 1161 - 21285.000000
+$$$Viktor - 1025 - 31476.041667
+Team - asd
+$$$Yordan - 6893 - 249871.250000
+Team - Trainers
+$$$Layor - 3852 - 116844.000000
+Team - validTeam
+$$$Jack - 3787 - 54122.541667
+$$$Anna - 902 - 15033.333333

@@ -1,0 +1,11 @@
+<div id="heroes" class="row">
+    {{#heroes}}
+    <div class="hero col-md-3">
+        <a href="#/heroes/{{id}}">
+            <img src="{{imageUrl}}" alt="hero-image" class="hero-image"/><br>
+        </a>
+
+        <h2><a href="#/heroes/{{id}}">{{name}}</a></h2>
+    </div>
+    {{/heroes}}
+</div>

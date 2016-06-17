@@ -1,0 +1,164 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+body{
+    background-color: #a8dadc ;
+}
+
+#wrapper{
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: Tahoma,Helvetica,sans-serif;
+    width: 960px;
+    font-size: 15px;
+}
+
+aside,main{
+    display: inline-table;
+}
+
+aside{
+    box-sizing: border-box;
+    width: 35%;
+    background-color: #1d3557;
+    padding: 40px;
+    height: 600px;
+
+}
+aside>.heading{
+    color:#a8dadc;
+ font-size: 35px;
+    margin-bottom: 5px;
+}
+
+main{
+    box-sizing: border-box;
+    vertical-align: top;
+    width: 65%;
+    background-color: white;
+    padding: 40px;
+    height: 600px;
+}
+
+.label{
+    color: #1d3557;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.white{
+    color: white;
+}
+
+.required{
+    color: #e63946;
+}
+
+.optional{
+    color: #C1CaCe;
+}
+
+.subTitle{
+    font-size: 13px;
+}
+
+.fieldContainer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input{
+    border: 1px solid #a8dadc;
+    box-sizing: border-box;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color:#1d3557;
+}
+
+textarea{
+    border: 1px solid #a8dadc;
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    color:#1d3557;
+    height: 80px;
+}
+
+.requiredInput{
+    border: 1px solid #e63946;
+}
+
+.phone{
+    width: 70%;
+}
+.phoneCode{
+    width: 25%;
+}
+
+.container{
+    color:#1d3557;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.radio{
+    width: 20px;
+}
+
+#terms{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.checkbox{
+    width: 60px;
+}
+
+.text{
+    font-size: 15px;
+    color:#1d3557;
+}
+.margin-bot-5{
+    margin-bottom: 5px;
+}
+
+.button{
+    background-color: #e63946 ;
+    color:white;
+    border: none;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    font-weight: bold;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.darkblue{
+    color:#1d3557;
+}

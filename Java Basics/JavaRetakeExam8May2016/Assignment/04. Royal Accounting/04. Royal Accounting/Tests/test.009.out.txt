@@ -1,0 +1,11 @@
+Team - TrickyTeam
+$$$NemaTakovaEmployee - 2000 - 375000.000000
+$$$TovaEValidnoEmployee - 1323 - 1781.805375
+$$$BatiEmployeeTo - 200 - 375.000000
+$$$EmployeeNomerEdno - 20 - 375.000000
+$$$EbatiTeama - 20 - 37.500000
+Team - TrickyTest
+$$$DecimalPOINT - 456456 - 29758.078350
+$$$NotDecimalCOMMA - 456 - 249339.932574
+$$$TrickyTest - 123 - 67255.375000
+$$$TheAboveShouldBeAdded - 1 - 0.041667

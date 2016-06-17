@@ -1,0 +1,71 @@
+<div class="modal-header">
+    <h2 class="modal-title">Add Issue</h2>
+</div>
+<div class="modal-body">
+    <form name="addIssueForm" ng-if="!loadingProject && !loadingUsers">
+
+        <label class="formLabel" for="title">Title:</label>
+        <input class="formTextInput2" type="text" id="title" ng-model="issue.Title" required/>
+
+        <label class="formLabel" for="description">Description:</label>
+        <textarea ng-required="true" class="formTextInput2" id="description" ng-model="issue.Description"></textarea>
+
+        <label class="formLabel">Project</label>
+        <select ng-required="true" ng-model="issue.ProjectId" disabled class="formSelect">
+            <option selected value="{{project.Id}}">{{project.Name}}</option>
+        </select>
+
+        <label class="formLabel">Assignee:</label>
+        <select ng-required="true" ng-model="issue.newAssignee" ng-options="user as user.Username for user in users | orderBy: 'Username' track by user.Id" class="formSelect">
+        </select>
+
+        <label class="formLabel">Priority:</label>
+        <select ng-required="true" ng-model="issue.PriorityId" class="formSelect">
+            <option ng-repeat="priority in project.Priorities" value="{{priority.Id}}">{{priority.Name}}</option>
+        </select>
+
+        <label class="formLabel">Labels:</label>
+        <md-chips ng-model="issue.Labels" md-autocomplete-snap
+                  md-transform-chip="transformChip($chip)"
+                  md-require-match="false">
+            <md-autocomplete
+                    md-selected-item="selectedLabel"
+                    md-search-text="searchText"
+                    md-items="label in getLabels(searchText)"
+                    md-item-text="label.Name"
+                    placeholder="Add labels">
+                <span md-highlight-text="searchText">{{label.Name}}</span>
+            </md-autocomplete>
+            <md-chip-template>
+        <span>
+          <strong>{{$chip.Name}}</strong>
+        </span>
+            </md-chip-template>
+        </md-chips>
+
+        <label>Due Date</label>
+
+        <div class="row">
+            <div class="col-md-6">
+                <p class="input-group">
+                    <input type="text" class="form-control" uib-datepicker-popup="{{format}}" ng-model="issue.DueDate"
+                           ng-required="true"
+                           is-open="datepicker.opened" datepicker-options="dateOptions" ng-required="true"
+                           close-text="Close"
+                           alt-input-formats="altInputFormats"/>
+          <span class="input-group-btn">
+            <button type="button" class="btn btn-default" ng-click="openDatepicker()"><i
+                    class="glyphicon glyphicon-calendar"></i></button>
+          </span>
+                </p>
+            </div>
+        </div>
+    </form>
+    <div ng-if="loadingProject || loadingUsers" class="grayLoader">Loading...</div>
+
+</div>
+<div class="modal-footer">
+    <button class="btn btn-primary" type="button" ng-disabled="addIssueForm.$invalid" ng-click="addIssue()">Add Issue
+    </button>
+    <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+</div>

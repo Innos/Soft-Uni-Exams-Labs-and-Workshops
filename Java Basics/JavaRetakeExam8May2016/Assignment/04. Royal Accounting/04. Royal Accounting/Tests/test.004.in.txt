@@ -1,0 +1,76 @@
+EbatiPicha;7065;856.154340;Marketing
+John;7376;934.982234;Marketing
+validName;5497;945.077834;Marketing
+Todor;4232;26.962779;Marketing
+Invalid_Name;926;220.071896;SomeOtherThing
+Peter;4462;660.352523;SomeOtherThing
+Invalid_Name;838;636.581979;SomeOtherThing
+Test2;9009;993.480538;SomeOtherThing
+Jack;7347;838.699706;SomeOtherThing
+Viktor;7972;207.479625;:@
+Test2;8112;789.243096;:@
+asd asd;6194;428.182661;:@
+EbatiPicha;5379;46.145185;EbatiQkiqTeam
+Karl;7918;698.450608;EbatiQkiqTeam
+Ivan;2984;885.946006;EbatiQkiqTeam
+Yordan;9515;103.020733;EbatiQkiqTeam
+Ivan;1882;678.947651;EbatiQkiqTeam
+Invalid_Name;125;178.710194;EbatiQkiqTeam
+NekuvTup;6350;871.109427;invalidTeam2
+Layor;170;906.746589;invalidTeam2
+Yordan;4555;801.662465;Something
+Marx;6862;879.804958;Something
+Yordan;9164;324.896671;:@
+John;4251;196.766818;:@
+NekuvTup;6289;971.764686;:@
+test3;8056;420.965854;:@
+asd asd;6496;305.278390;:@
+Invalid_Name;9791;10.227296;invalidTeam2
+Invalid_Name;9094;108.657319;Marketing
+Test2;2744;458.982411;Marketing
+asd asd;4089;472.519218;Marketing
+Anna;16;585.864196;Marketing
+test3;6620;930.251183;Marketing
+Nikolay;1589;654.014796;Marketing
+Layor;7156;98.204455;Marketing
+:D:D:D;3146;147.518459;Marketing
+Test;5156;88.109499;Marketing
+NekuvTup;7857;697.278596;Test
+asd asd;120;302.310194;Test
+Nikolay;2594;453.707861;Test
+Test2;1563;352.975617;Test
+EbatiBokluka;2148;949.683154;asd
+Viktor;5588;360.777956;Marketing
+John;3250;691.845395;Marketing
+Todor;9135;914.055706;NekuvTeam
+asd;8639;601.726950;NekuvTeam
+Jack;3517;878.246427;NekuvTeam
+Marx;6444;667.022515;NekuvTeam
+Royal;7945;775.841845;Test
+Jack;5664;529.417746;Test
+Jack;7055;160.033077;Test
+asd asd;9773;195.436906;Test
+Nikolay;5401;781.388801;NekuvTeam
+Karl;7018;765.403844;NekuvTeam
+Test;7536;348.897841;EbatiQkiqTeam
+Nikolay;5054;845.910650;EbatiQkiqTeam
+Todor;9160;697.420488;EbatiQkiqTeam
+Test;3476;871.531820;EbatiQkiqTeam
+Test2;1583;441.693873;EbatiQkiqTeam
+Layor;3743;682.809522;EbatiQkiqTeam
+Nikolay;1043;885.633714;EbatiQkiqTeam
+Anna;4063;73.980511;EbatiQkiqTeam
+test3;3356;812.704954;NekuvTeam
+Bob;9892;654.588146;Marketing
+Marx;2794;874.595735;Marketing
+NekuvTup;4337;549.206454;Marketing
+Peter;5435;323.709970;Something
+EbatiBokluka;6660;140.872717;Something
+Viktor;6198;151.056976;Something
+Jack;8420;24.253954;Something
+Marx;5349;691.011915;Something
+Test;1690;787.105727;Something
+EbatiPicha;9275;403.376166;asd
+validName;4518;145.647220;asd
+Test2;5304;349.456564;asd
+Pishi kuf i da si hodim

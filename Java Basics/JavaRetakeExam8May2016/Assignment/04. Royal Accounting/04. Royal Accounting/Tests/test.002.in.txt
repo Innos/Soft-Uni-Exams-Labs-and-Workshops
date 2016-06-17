@@ -1,0 +1,5 @@
+Bla;2147483647;20;Ghost
+Ela;2147483646;20000000;Ghost
+Cla;2147483647;20;GhostBusters
+Ila;2147483646;20000000;GhostBusters
+Pishi kuf i da si hodim

@@ -1,0 +1,123 @@
+<div class="headerPadding">
+</div>
+<div ng-if="!identityService.isLogged()">
+    <form name="loginForm" class="formField col-md-4 col-md-offset-1">
+        <h1 class="formHeading">Login</h1>
+        <img ng-src="{{separatorImage}}" class="formImage">
+
+        <label class="formLabel" for="loginEmail">Email:</label>
+
+        <div class="input-group">
+            <div class="input-group-addon">
+                <span class="glyphicon glyphicon-envelope"></span>
+            </div>
+            <input class="formTextInput" type="text" id="loginEmail" ng-model="loginUserData.Email" required/>
+        </div>
+
+        <label class="formLabel" for="loginPassword">Password:</label>
+
+        <div class="input-group">
+            <div class="input-group-addon">
+                <span class="fa fa-key"></span>
+            </div>
+
+            <input class="formTextInput" type="password" id="loginPassword" ng-model="loginUserData.Password" required/>
+        </div>
+        <img ng-src="{{separatorImage}}" class="formImage">
+
+        <p>
+            <button ng-click="login(loginUserData)" ng-disabled="loginForm.$invalid" class="formButton btn btn-primary">Login</button>
+
+        <p>
+    </form>
+    <form name="registrationForm" class="formField col-md-4 col-md-offset-1">
+        <h1 class="formHeading">Register</h1>
+        <img ng-src="{{separatorImage}}" class="formImage">
+
+        <label class="formLabel" for="email">Email:</label>
+
+        <div class="input-group">
+            <div class="input-group-addon">
+                <span class="glyphicon glyphicon-envelope"></span>
+            </div>
+            <input class="formTextInput" type="email" id="email" ng-model="registerUserData.Email" required/>
+        </div>
+
+        <label class="formLabel" for="password">Password:</label>
+
+        <div class="input-group">
+            <div class="input-group-addon">
+                <span class="fa fa-key"></span>
+            </div>
+            <input class="formTextInput" type="password" id="password" ng-model="registerUserData.Password" required/>
+        </div>
+
+        <label class="formLabel" for="confirmPassword">Confirm Password:</label>
+
+        <div class="input-group">
+            <div class="input-group-addon">
+                <span class="fa fa-key"></span>
+            </div>
+
+            <input class="formTextInput" type="password" id="confirmPassword"
+                   ng-model="registerUserData.ConfirmPassword"
+                   required/>
+        </div>
+        <img ng-src="{{separatorImage}}" class="formImage">
+
+        <p>
+            <button ng-click="register(registerUserData)" ng-disabled="registrationForm.$invalid" class="formButton btn btn-primary">Register</button>
+        <p>
+    </form>
+</div>
+<div ng-if="identityService.isLogged()" class="dashboard">
+    <section class="col-md-4 col-md-offset-1">
+        <h2 class="title color-navyBlue">My Projects:</h2>
+        <table class="table table-condensed" ng-if="!projectsLoading" ng-if="myProjects.Projects.length > 0">
+            <tbody>
+            <tr ng-repeat="project in myProjects.Projects">
+                <td class="bottom-border grayBorder"><a class="increased" href="#/projects/{{project.Id}}">{{project.Name}}</a></td>
+            </tr>
+            </tbody>
+        </table>
+        <div ng-if="projectsLoading" class="grayLoader">Loading...</div>
+        <div ng-if="myProjects.Projects.length==0">
+            No projects found.
+        </div>
+        <uib-pagination total-items="myProjects.TotalCount" ng-model="projectParams.pageNumber"
+                        items-per-page="projectParams.pageSize" ng-change="reloadProjects()"
+                        max-size="5" boundary-links="true" template-url="views/pagination/pagination.html">
+        </uib-pagination>
+    </section>
+    <section class="gray col-md-6 col-md-offset-1">
+        <h2 class="whiteText title">My Issues:</h2>
+        <table class="table table-condensed table-striped" ng-if="!issuesLoading && myIssues.Issues.length > 0">
+            <thead>
+            <tr>
+                <th class="whiteText increased col-md-3">Title</th>
+                <th class="whiteText increased col-md-3">Description</th>
+                <th class="whiteText increased col-md-3">Project</th>
+                <th class="whiteText increased col-md-3">Due Date</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="issue in myIssues.Issues">
+                <td><a href="#/issues/{{issue.Id}}">{{issue.Title}}</a></td>
+                <td>{{issue.Description}}</td>
+                <td><a href="#/projects/{{issue.Project.Id}}">{{issue.Project.Name}}</a></td>
+                <td>{{issue.DueDate}}</td>
+            </tr>
+            </tbody>
+        </table>
+        <div ng-if="issuesLoading" class="loader">Loading...</div>
+        <div ng-if="myIssues.Issues.length==0">
+            No issues found.
+        </div>
+        <uib-pagination total-items="myIssues.TotalCount" ng-model="issuesParams.pageNumber"
+                        items-per-page="issuesParams.pageSize" ng-change="reloadIssues()"
+                        max-size="5" boundary-links="true" template-url="views/pagination/pagination.html">
+        </uib-pagination>
+    </section>
+    <a ng-if="isAdmin()" class="btn btn-primary col-md-1 col-md-offset-1" href="#/projects/add">Add Project</a>
+    <a ng-if="isAdmin()" class="btn btn-info col-md-1" href="#/projects">All Projects</a>
+</div>

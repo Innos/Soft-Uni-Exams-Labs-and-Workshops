@@ -1,0 +1,11 @@
+<ul ng-if="identityService.isLogged()">
+    <li class="nav-button"><a href="#/">Home</a></li>
+    <li class="nav-button"><a href="#/heroes/list/">Heroes</a></li>
+    <li class="nav-button"><a href="#/heroes/add/">Add Hero</a></li>
+    <li class="nav-button"><a ng-click="logout()">Logout</a></li>
+</ul>
+<ul ng-if="!identityService.isLogged()">
+    <li class="nav-button"><a href="#/">Home</a></li>
+    <li class="nav-button"><a href="#/login/">Login</a></li>
+    <li class="nav-button"><a href="#/register/">Register</a></li>
+</ul>

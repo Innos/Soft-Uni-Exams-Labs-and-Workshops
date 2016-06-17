@@ -1,0 +1,54 @@
+<div class="headerPadding">
+</div>
+<div>
+    <form name="editProjectForm" class="formField info col-md-10 col-md-offset-1">
+        <h2 class="color-navyBlue title col-md-3">Information:</h2>
+
+        <div ng-cloak ng-show="!loadingUsers && !loadingProject">
+            <div class="col-md-12">
+                <label class="col-md-2">Name:</label>
+                <input class="col-md-2 input-border-color" ng-model="project.Name" value="{{project.Name}}" required>
+
+                <label class="col-md-2">Description:</label>
+                <textarea class="col-md-6 input-border-color" ng-model="project.Description" required>{{project.Description}}</textarea>
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Project Key:</label>
+                <input class="col-md-2 input-border-color" ng-model="project.ProjectKey" ng-disabled="true" value="{{project.ProjectKey}}" required>
+
+                <label class="col-md-2">Lead:</label>
+                <select ng-disabled="!isAdmin" ng-model="project.Lead" ng-options="user as user.Username for user in users | orderBy: 'Username' track by user.Id" class="formSelect col-md-4">
+                </select>
+            </div>
+
+            <div class="col-md-12 pad-top-20">
+                    <label class="col-md-2">Priorities:</label>
+                    <input class="col-md-10 input-border-color" ng-model="combinedPriorities" ng-value="combinedPriorities" required>
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Labels:</label>
+                <md-chips ng-model="project.Labels" md-autocomplete-snap
+                          md-transform-chip="transformChip($chip)"
+                          md-require-match="false">
+                    <md-autocomplete
+                            md-selected-item="selectedLabel"
+                            md-search-text="searchText"
+                            md-items="label in getLabels(searchText)"
+                            md-item-text="label.Name"
+                            placeholder="Add labels">
+                        <span md-highlight-text="searchText">{{label.Name}}</span>
+                    </md-autocomplete>
+                    <md-chip-template>
+        <span>
+          <strong>{{$chip.Name}}</strong>
+        </span>
+                    </md-chip-template>
+                </md-chips>
+            </div>
+            <button class="btn btn-primary col-md-2" ng-disabled="editProjectForm.$invalid" ng-click="editProject()">Edit Project</button>
+        </div>
+        <div ng-show="loadingUsers || loadingProject" class="grayLoader">Loading...</div>
+    </form>
+</div>

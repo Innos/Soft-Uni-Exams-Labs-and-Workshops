@@ -1,0 +1,16 @@
+<div id="hero-detailed" class="row">
+    <div class="col-md-4">
+        <div hero></div>
+        <p>
+            <a href="#/heroes/{{hero._id}}/store" class="btn btn-md btn-default bold">Store</a>
+        </p>
+    </div>
+    <div ng-if="items.length" class="col-md-8">
+        <div class="row">
+            <div class="col-md-3" ng-repeat="item in items">
+                <h4 class="item-type bold">{{item.type.name}}</h4>
+                <div item></div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,31 @@
+<div class="col-md-10 col-md-offset-1">
+    <h2 class="title color-navyBlue">All Projects:</h2>
+    <table class="table table-condensed" ng-show="!projectsLoading && allProjects.length > 0">
+        <thead>
+            <tr>
+                <th class="col-md-4 increased color-navyBlue">Title</th>
+                <th class="col-md-2 increased color-navyBlue">Project Key</th>
+                <th class="col-md-3 increased color-navyBlue">Lead Name</th>
+                <th class="col-md-3 increased color-navyBlue">Priorities</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="project in projects">
+            <td class="bottom-border grayBorder"><a class="increased" href="#/projects/{{project.Id}}">{{project.Name}}</a></td>
+            <td class="bottom-border grayBorder">{{project.ProjectKey}}</td>
+            <td class="bottom-border grayBorder">{{project.Lead.Username}}</td>
+            <td class="bottom-border grayBorder">
+                <span ng-repeat="priority in project.Priorities">{{priority.Name}}<span ng-if="!$last">, </span></span>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <div ng-if="projectsLoading" class="grayLoader">Loading...</div>
+    <div ng-if="allProjects.length==0">
+        No projects found.
+    </div>
+    <uib-pagination ng-if="allProjects.length" total-items="allProjects.length" ng-model="projectsParams.pageNumber"
+                    items-per-page="projectsParams.pageSize" ng-change="reloadPage()"
+                    max-size="5" boundary-links="true" template-url="views/pagination/pagination.html">
+    </uib-pagination>
+</div>

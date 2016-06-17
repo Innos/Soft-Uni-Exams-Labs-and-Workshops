@@ -1,0 +1,73 @@
+<div class="headerPadding">
+</div>
+<div>
+    <div class="formField info col-md-10 col-md-offset-1">
+        <h2 class="color-navyBlue title col-md-3">Information:</h2>
+        <a ng-if="isAuthorized" class="btn btn-warning col-md-2 col-md-offset-5 sideMargin-5" href="#/projects/{{project.Id}}/edit">Edit Project</a>
+        <a ng-if="isAuthorized" class="btn btn-primary col-md-2 sideMargin-5" href="#/projects/{{project.Id}}/add-issue">Add Issue</a>
+        <div ng-cloak ng-show="!projectLoading">
+            <div class="col-md-12">
+                <label class="col-md-2">Name:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{project.Name}}">
+                <label class="col-md-2">Description:</label>
+                <textarea class="col-md-6 input-border-color" disabled>{{project.Description}}</textarea>
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Project Key:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{project.ProjectKey}}">
+
+                <label class="col-md-2">Lead Id:</label>
+                <input class="col-md-4 input-border-color" disabled value="{{project.Lead.Id}}">
+                <input class="col-md-2 input-border-color" disabled value="{{project.Lead.Username}}">
+            </div>
+
+            <div class="col-md-12 pad-top-20">
+                <div class="col-md-4">
+                    <label>Priorities:</label>
+                    <span ng-repeat="priority in project.Priorities">{{priority.Name}}<span ng-if="!$last">, </span></span>
+                </div>
+
+                <div class="col-md-8 no-padding">
+                    <label class="col-md-1">Labels:</label>
+                    <md-chips class="col-md-11" ng-model="labels" readonly="true"></md-chips>
+                </div>
+            </div>
+        </div>
+        <div ng-if="projectLoading" class="grayLoader">Loading...</div>
+    </div>
+
+    <div class="formField grayInfo col-md-10 col-md-offset-1">
+
+        <h2 class="whiteText title col-md-4">Issues:</h2>
+        <label class="col-md-2">Filter:</label>
+        <select class="col-md-6" ng-change="update(myFilter)" ng-model="myFilter" ng-options="filter as filter.Name for filter in filters track by filter.Name">
+        </select>
+        <table ng-cloak class="table table-condensed table-striped" ng-show="!issuesLoading && issues.length > 0">
+            <thead>
+            <tr>
+                <th class="whiteText increased col-md-3">Title</th>
+                <th class="whiteText increased col-md-3">Description</th>
+                <th class="whiteText increased col-md-3">Project</th>
+                <th class="whiteText increased col-md-3">Due Date</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr ng-repeat="issue in allIssues | byFunction: myFilter.func:this">
+                <td><a href="#/issues/{{issue.Id}}">{{issue.Title}}</a></td>
+                <td>{{issue.Description}}</td>
+                <td><a href="#/projects/{{issue.Project.Id}}">{{issue.Project.Name}}</a></td>
+                <td>{{issue.DueDate}}</td>
+            </tr>
+            </tbody>
+        </table>
+        <div ng-if="issuesLoading" class="loader">Loading...</div>
+        <div ng-if="issues.length == 0" class="whiteText increased col-md-12">
+            No issues found.
+        </div>
+        <uib-pagination ng-if="allIssues.length" total-items="filteredCount" ng-model="issuesParams.pageNumber"
+                        items-per-page="issuesParams.pageSize" ng-change="reloadPage()"
+                        max-size="5" boundary-links="true" template-url="views/pagination/pagination.html">
+        </uib-pagination>
+    </div>
+</div>

@@ -1,0 +1,98 @@
+<div class="headerPadding">
+</div>
+<div>
+    <form name="editIssueForm" class="formField info col-md-10 col-md-offset-1">
+        <h2 class="color-navyBlue title col-md-3">Information:</h2>
+
+        <div ng-cloak ng-show="!loadingIssue && !loadingUsers && !loadingProject">
+            <div class="col-md-12">
+                <label class="col-md-2">Title:</label>
+                <input class="col-md-2 input-border-color" ng-model="issue.Title" ng-disabled="!canEdit" value="{{issue.Title}}" required>
+
+                <label class="col-md-2">Description:</label>
+                <textarea class="col-md-6 input-border-color" ng-model="issue.Description" ng-disabled="!canEdit" required>{{issue.Description}}</textarea>
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Issue Key:</label>
+                <input class="col-md-2 input-border-color" ng-model="issue.IssueKey" ng-disabled="!canEdit" value="{{issue.IssueKey}}" required>
+
+                <label class="col-md-2">Assignee:</label>
+                <select ng-disabled="!canEdit" ng-required="true" ng-model="issue.Assignee" ng-options="user as user.Username for user in users | orderBy: 'Username' track by user.Id" class="formSelect col-md-4">
+                </select>
+            </div>
+
+            <div class="col-md-12 pad-top-20">
+                <div class="col-md-4 no-padding">
+                    <label class="col-md-6">Priority:</label>
+                    <select ng-disabled="!canEdit" ng-required="true" ng-model="issue.Priority" ng-options="priority as priority.Name for priority in priorities track by priority.Id" class="formSelect col-md-6">
+                    </select>
+                </div>
+
+                <div class="col-md-8 no-padding">
+                    <label class="col-md-3">Due Date:</label>
+
+                    <div class="row no-margin">
+                        <div class="col-md-6 no-padding">
+                            <p class="input-group">
+                                <input ng-disabled="!canEdit" type="text" class="form-control" uib-datepicker-popup="{{format}}"
+                                       ng-model="currentDueDate"
+                                       ng-required="true"
+                                       is-open="datepicker.opened" datepicker-options="dateOptions" ng-required="true"
+                                       close-text="Close"
+                                       alt-input-formats="altInputFormats"/>
+                    <span class="input-group-btn">
+                    <button type="button" class="btn btn-default" ng-click="openDatepicker()">
+                        <i class="glyphicon glyphicon-calendar"></i>
+                    </button>
+                    </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Author:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Author.Username}}">
+
+                <label class="col-md-2">Project:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Project.Id}}">
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Project.Name}}">
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Status:</label>
+                <a ng-class="isClosed" class="btn col-md-2">{{issue.Status.Name}}</a>
+            </div>
+            <div class="col-md-12">
+                <label class="col-md-2">Labels:</label>
+                <md-chips ng-model="issue.Labels" md-autocomplete-snap
+                          md-transform-chip="transformChip($chip)"
+                          md-require-match="false">
+                    <md-autocomplete
+                            md-selected-item="selectedLabel"
+                            md-search-text="searchText"
+                            md-items="label in getLabels(searchText)"
+                            md-item-text="label.Name"
+                            placeholder="Add labels">
+                        <span md-highlight-text="searchText">{{label.Name}}</span>
+                    </md-autocomplete>
+                    <md-chip-template>
+        <span>
+          <strong>{{$chip.Name}}</strong>
+        </span>
+                    </md-chip-template>
+                </md-chips>
+            </div>
+            <button class="btn btn-primary col-md-2" ng-disabled="editIssueForm.$invalid" ng-click="editIssue()">Edit Issue</button>
+        </div>
+        <div ng-show="loadingIssue || loadingUsers || loadingProject" class="grayLoader">Loading...</div>
+    </form>
+
+    <div ng-if="canChangeStatus || canEdit" class="formField grayInfo col-md-10 col-md-offset-1">
+        <h2 class="whiteText title">Change Status:</h2>
+        <button class="btn btn-success col-md-2" ng-repeat="status in issue.AvailableStatuses"
+           ng-click="changeStatus(status.Id)">{{status.Name}}</button>
+    </div>
+</div>

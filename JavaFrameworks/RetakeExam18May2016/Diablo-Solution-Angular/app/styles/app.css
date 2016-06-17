@@ -1,0 +1,221 @@
+@font-face {
+    font-family: siteHeader;
+    src: url(../fonts/Education-Pencil.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+}
+body {
+    padding: 0;
+    font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+    font-size: 14px;
+    background: url("../imgs/background.jpg");
+}
+#wrapper {
+    display: inline-block;
+    width: 100%;
+    color: #000;
+}
+
+.site-header, .img-header {
+    margin: 1% 1%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.img-header {
+    width: 5%;
+}
+
+.site-header {
+    width: 30%;
+    font-size: 3em;
+    font-family: siteHeader, Helvetica;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+header {
+    margin: 3%;
+    text-align: center;
+}
+
+header > nav > ul {
+    list-style: none;
+    display: inline-block;
+}
+
+li.nav-button {
+    font-size: 2.2rem;
+    display: inline-block;
+    margin: 0 7px;
+    background: goldenrod;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    transition: all .25s ease;
+}
+
+li.nav-button > a {
+    color: #fff;
+}
+
+li.nav-button:hover {
+    background: gold;
+}
+
+.modal-header {
+    background-color: #0480be;
+}
+
+li.nav-button > a {
+    padding: 10px;
+    border: solid 1px gray;
+    text-decoration: none;
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+#container {
+    height: 40%;
+    padding: 0 5%;
+}
+
+#container > section > div {
+    padding: 2%;
+    vertical-align: top;
+    font-size: 1.5rem;
+    box-shadow: 1px 1px 1px 1px #4f575f;
+    border: solid 1px #000;
+    background: #ffffff;
+}
+
+.login-form, .register-form, .welcome-message {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
+}
+
+#container div input{
+    display: block;
+    font-size: 2rem;
+    width: 250px;
+    margin: 2px 0;
+}
+
+input{
+    padding: 2px 5px;
+}
+
+.button {
+    width: 150px;
+    height: 40px;
+    font-size: 2rem;
+    margin: 2% 1%;
+}
+
+.main-header {
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 1% 20%;
+    text-align: center;
+    margin: 0 0 2% 0;
+    border-bottom: solid 2px black;
+}
+
+label {
+    font-size: 1.4rem;
+}
+
+.input-num {
+    width: 50px;
+    display: inline-block;
+}
+
+.data {
+    width: 280px;
+    display: block;
+    margin: 0 auto;
+}
+
+.panel {
+    margin: 1%;
+    text-align: center;
+    padding: 0 2%;
+}
+
+.centered {
+    text-align: center;
+}
+
+.estate-info {
+    display: block;
+}
+
+.estate-footer .delete-button, .edit-button {
+    text-decoration: none !important;
+    width: 80px;
+    height: 30px;
+}
+
+.estate-footer {
+    text-align: right;
+}
+
+.hero-class {
+    display: inline-block;
+    /*border: 1px solid black;*/
+    margin: 10px;
+}
+
+/*.hero {*/
+/*display: inline-block;*/
+/*margin: 10px;*/
+/*padding: 10px;*/
+/*}*/
+.hero a {
+    color: white;
+}
+
+#hero-detailed, #store {
+    color: white;
+}
+.hero-image {
+    width: 200px;
+    height: 250px;
+}
+
+.item-type, .item-name {
+    color: black;
+}
+
+#store h3 {
+    color: black
+}
+
+#no-heroes-panel {
+    padding: 15px;
+}
+
+#select-name {
+    width: 95%;
+    margin-left: 10px;
+}
+
+#select-name label {
+    font-size: 18px;
+    text-align: right;
+}

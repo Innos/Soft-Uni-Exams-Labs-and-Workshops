@@ -1,0 +1,27 @@
+Yordan;9978;21;NekuvTeam
+Yordan;49;200;EbatiQkiqTeam
+Bob;8610;977;EbatiQkiqTeam
+Bob;6079;297;EbatiQkiqTeam
+NekuvTup;5068;98;Invalid_Team
+Royal;171;682;asd
+Test2;7360;216;DomesticCleaners
+Anna;3377;668;DomesticCleaners
+Nikolay;6;261;DomesticCleaners
+Invalid_Name;7520;734;Developers
+John;1844;161;Management
+EbatiBokluka;3914;428;Management
+Test2;4375;5;Management
+EbatiBokluka;2759;504;Management
+Peter;9106;587;Management
+test3;9335;262;Management
+EbatiPicha;9807;832;Invalid_Team
+Invalid_Name;7030;751;Invalid_Team
+Yordan;5747;173;Invalid_Team
+:D:D:D;6756;909;Invalid_Team
+asd asd;9262;688;Management
+NekuvTup;859;771;Management
+Royal;685;683;Management
+Invalid_Name;2278;781;Management
+Jack;4106;596;Invalid_Team
+Royal;3022;853;Invalid_Team
+Pishi kuf i da si hodim

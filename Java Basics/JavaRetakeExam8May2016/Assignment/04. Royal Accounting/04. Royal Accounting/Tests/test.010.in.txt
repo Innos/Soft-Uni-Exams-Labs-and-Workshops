@@ -1,0 +1,12 @@
+ChudqSeVecheSKakvoDaGiSchupq;123;456.789;Test
+_chup;1;20;Test
+ch-up;1;20;Test
+ChukChuk.;1.1;1.1;Test
+KoiETam?;2;2;Test
+NeIAni;2;2;Test2
+BasiTesta;0.1;0.1;Test
+EAkoMinatTovaZdraveDaE;123;0.0;TheNegativeTeam
+NqmaKvoDaStane;-123;-123;TheNegativeTeam
+ShtoSmeNaMinusWe;-10000;-100000;TheNegativeTeam
+KruglaNula;0;0;TheNegativeTeam
+Pishi kuf i da si hodim

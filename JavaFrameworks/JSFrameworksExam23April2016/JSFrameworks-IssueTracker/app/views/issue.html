@@ -1,0 +1,89 @@
+<div class="headerPadding">
+</div>
+<div>
+    <div class="formField info col-md-10 col-md-offset-1">
+        <h2 class="color-navyBlue title col-md-3">Information:</h2>
+        <a ng-show="canEdit" class="btn btn-warning col-md-2 col-md-offset-7"
+           href="#/issues/{{issue.Id}}/edit">Edit Issue</a>
+
+        <div ng-cloak ng-if="!loadingIssue">
+            <div class="col-md-12">
+                <label class="col-md-2">Title:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Title}}">
+
+                <label class="col-md-2">Description:</label>
+                <textarea class="col-md-6 input-border-color" disabled>{{issue.Description}}</textarea>
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Issue Key:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{issue.IssueKey}}">
+
+                <label class="col-md-2">Assignee:</label>
+                <input class="col-md-4 input-border-color" disabled value="{{issue.Assignee.Id}}">
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Assignee.Username}}">
+            </div>
+
+            <div class="col-md-12 pad-top-20">
+                <div class="col-md-6 no-padding">
+                    <label  class="col-md-4">Priority:</label>
+                    <input class="col-md-2 input-border-color" disabled value="{{issue.Priority.Id}}">
+                    <input class="col-md-2 input-border-color" disabled value="{{issue.Priority.Name}}">
+                </div>
+
+                <div class="col-md-6 no-padding">
+                    <label  class="col-md-4">Due Date:</label>
+                    <input type="date" class="col-md-8 input-border-color" disabled value="{{deadline | date: 'mediumDate'}}">
+                </div>
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Author:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Author.Username}}">
+
+                <label class="col-md-2 col-md-offset-2">Project:</label>
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Project.Id}}">
+                <input class="col-md-2 input-border-color" disabled value="{{issue.Project.Name}}">
+            </div>
+
+            <div class="col-md-12">
+                <label class="col-md-2">Status:</label>
+                <a ng-class="isClosed" class="btn col-md-2">{{issue.Status.Name}}</a>
+                </div>
+            <div class="col-md-12">
+                <label class="col-md-2">Labels:</label>
+                <md-chips ng-model="labels" readonly="true"></md-chips>
+            </div>
+        </div>
+        <div ng-if="loadingIssue" class="grayLoader">Loading...</div>
+    </div>
+
+    <div ng-if="canEdit" class="formField grayInfo col-md-10 col-md-offset-1">
+        <h2 class="whiteText title">Change Status:</h2>
+        <a class="btn btn-success col-md-2" ng-repeat="status in issue.AvailableStatuses" ng-click="changeStatus(status.Id)">{{status.Name}}</a>
+    </div>
+    <div class="formField col-md-10 col-md-offset-1">
+        <h2 class="color-navyBlue title col-md-3">Comments:</h2>
+        <table class="table table-condensed table-striped col-md-12">
+            <thead>
+                <tr>
+                    <th class="col-md-8">Comment</th>
+                    <th class="col-md-2">Posted on</th>
+                    <th class="col-md-2">Author</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="comment in comments">
+                    <td class="overflow">{{comment.Text}}</td>
+                    <td>{{comment.CreatedOn}}</td>
+                    <td>{{comment.Author.Username}}</td>
+                </tr>
+            </tbody>
+        </table>
+        <form name="postCommentForm" ng-if="canPost">
+            <label for="postField" class="formLabel col-md-2">Post comment:</label>
+            <textarea class="col-md-12" ng-required="true" id="postField" ng-model="commentText"></textarea>
+            <button class="btn btn-success col-md-2"  ng-disabled="postCommentForm.$invalid" ng-click="postComment(commentText)">Post Comment</button>
+        </form>
+    </div>
+</div>

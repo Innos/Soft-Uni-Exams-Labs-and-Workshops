@@ -1,0 +1,32 @@
+<section>
+    <div class="add-hero-form">
+        <header class="main-header">Add new hero</header>
+        <form name="addHeroForm">
+            <h4>Name:</h4>
+            <div class="row" id="select-name">
+                <input type="text" id="name" placeholder="Hero Name..." ng-model="hero.name" class="form-control" required />
+            </div>
+
+            <h4>Class:</h4>
+            <div ng-cloak class="row" id="select-class">
+                <div  class="hero-class col-md-5" ng-repeat="class in classes">
+                    <label for="{{class.name}}" class="form-control">{{class.name}}</label>
+
+                    <p>Attack points: {{class.attackPoints}}</p>
+
+                    <p>Defense points: {{class.defensePoints}}</p>
+
+                    <p>Life points: {{class.lifePoints}}</p>
+                    <input  ng-required="true" type="radio" ng-value="class._id" ng-model="hero.classId" name="class" id="{{class.name}}" class="form-control"/>
+                    <img ng-src="{{class.imageUrl}}" alt="hero-image" class="hero-image">
+                </div>
+            </div>
+        </form>
+        <div class="panel row">
+            <button id="addHero" ng-click="addHero(hero)" ng-disabled="addHeroForm.$invalid" class="button">Add</button>
+            <a href="#/">
+                <button class="button">Cancel</button>
+            </a>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,49 @@
+<div class="modal-header">
+    <h2 class="modal-title">Add Project</h2>
+</div>
+<div class="modal-body">
+    <form name="addProjectForm" ng-if="!loadingUsers">
+
+        <label class="formLabel" for="name">Name:</label>
+        <input class="formTextInput2" type="text" id="name" ng-change="changeProjectKey()" ng-model="project.Name" required/>
+
+        <label class="formLabel" for="description">Description:</label>
+        <textarea ng-required="true" class="formTextInput2" id="description"  ng-model="project.Description"></textarea>
+
+        <label class="formLabel">Project Key</label>
+        <input class="formTextInput2" type="text" disabled id="projectKey" ng-model="project.ProjectKey" required/>
+
+        <label class="formLabel">Lead Id:</label>
+        <select ng-required="true" ng-model="project.newLead" ng-options="user as user.Username for user in users | orderBy: 'Username' track by user.Id" class="formSelect">
+        </select>
+
+        <label class="formLabel" for="priorities">Priorities:</label>
+        <input class="formTextInput2" type="text" id="priorities" ng-model="project.Priorities" required/>
+
+        <label class="formLabel">Labels:</label>
+        <md-chips ng-model="project.Labels" md-autocomplete-snap
+                  md-transform-chip="transformChip($chip)"
+                  md-require-match="false">
+            <md-autocomplete
+                    md-selected-item="selectedLabel"
+                    md-search-text="searchText"
+                    md-items="label in getLabels(searchText)"
+                    md-item-text="label.Name"
+                    placeholder="Add labels">
+                <span md-highlight-text="searchText">{{label.Name}}</span>
+            </md-autocomplete>
+            <md-chip-template>
+        <span>
+          <strong>{{$chip.Name}}</strong>
+        </span>
+            </md-chip-template>
+        </md-chips>
+    </form>
+    <div ng-if="loadingUsers" class="grayLoader">Loading...</div>
+
+</div>
+<div class="modal-footer">
+    <button class="btn btn-primary" type="button" ng-disabled="addProjectForm.$invalid" ng-click="addProject()">Add Project
+    </button>
+    <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+</div>

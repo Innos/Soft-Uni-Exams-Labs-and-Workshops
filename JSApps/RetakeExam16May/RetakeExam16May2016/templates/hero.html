@@ -1,0 +1,44 @@
+<div id="hero-detailed" class="row">
+    <div class="col-md-4">
+        <img src="{{imageUrl}}" alt="hero-image" class="hero-image"/><br>
+
+        <h2 class="bold">{{name}}</h2>
+
+        <p class="bold">
+            Attack points: {{attackPoints}}
+        </p>
+
+        <p class="bold">
+            Defense points: {{defensePoints}}
+        </p>
+
+        <p class="bold">
+            Life: {{lifePoints}}
+        </p>
+        <p>
+            <a href="#/heroes/{{id}}/store" class="btn btn-md btn-default bold">Store</a>
+        </p>
+    </div>
+    <div class="col-md-8">
+        <div class="row">
+            {{#items}}
+            <div class="col-md-3">
+                <h4 class="item-type bold">{{type}}</h4>
+                <span class="item-name bold">{{name}}</span>
+
+                <p class="bold">
+                    Attack points: {{attackPoints}}
+                </p>
+
+                <p class="bold">
+                    Defense points: {{defensePoints}}
+                </p>
+
+                <p class="bold">
+                    Life points: {{lifePoints}}
+                </p>
+            </div>
+            {{/items}}
+        </div>
+    </div>
+</div>
