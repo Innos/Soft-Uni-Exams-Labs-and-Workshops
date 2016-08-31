@@ -54,22 +54,6 @@ app.heroesController = (function () {
             }).done();
     };
 
-    HeroesController.prototype.loadStorePage = function (selector,id) {
-        var _this = this;
-        this.dataModels.heroesModel.getHero(id)
-            .then(function (data) {
-                _this._viewbag.showStorePage(selector, data);
-            }, function (error) {
-                noty({
-                    text: error.responseJSON.description,
-                    layout: 'top',
-                    closeWith: ['click'],
-                    type: 'error',
-                    timeout: 2000
-                });
-            }).done();
-    };
-
     HeroesController.prototype.addItem = function (data) {
         var _this = this;
         this.hasItem(data.heroId, data.type).then(function (result) {

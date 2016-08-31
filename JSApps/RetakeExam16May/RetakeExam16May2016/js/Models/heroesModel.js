@@ -18,6 +18,11 @@ app.heroesModel = (function() {
         return this._requester.get(url, this.credentials.getHeaders(false,true))
     };
 
+    Heroes.prototype.getHeroWithoutResolving = function (id) {
+        var url = this.serviceUrl + id;
+        return this._requester.get(url, this.credentials.getHeaders(false,true))
+    };
+
     Heroes.prototype.addHero = function (data) {
         return this._requester.post(this.serviceUrl, data, this.credentials.getHeaders(true,true));
     };
@@ -41,7 +46,7 @@ app.heroesModel = (function() {
 
     Heroes.prototype.addItem = function (data) {
         var _this = this;
-        return this.getHero(data.heroId).then(function (hero) {
+        return this.getHeroWithoutResolving(data.heroId).then(function (hero) {
             hero.items.push({
                 "_type": "KinveyRef",
                 "_id": data.itemId,
@@ -55,7 +60,7 @@ app.heroesModel = (function() {
 
     Heroes.prototype.removeItem = function (heroId, itemId) {
         var _this = this;
-        return this.getHero(heroId).then(function (hero) {
+        return this.getHeroWithoutResolving(heroId).then(function (hero) {
             var itemIds = hero.items.map(function (item) {
                 return item._id;
             });
